@@ -95,9 +95,9 @@ instance IsAtom ExecutionLink where
     toAtom = GenExecution
 instance IsLink ExecutionLink
 instance IsExecution ExecutionLink
-
+```
 And finally, we define a general data type:
-
+```haskell
 data AtomGen = GenConcept        ConceptNode
              | GenPredicate      PredicateNode
              | GenSchema         SchemaNode
@@ -108,7 +108,7 @@ data AtomGen = GenConcept        ConceptNode
 
 ----------------------------------------------------------------------
 
-So lets analyse the main goals:
+So let's analyse the main goals:
 
 - Atom hierarchy: OK. Combining data types and type classes.
 It works really well. For example:
@@ -142,16 +142,6 @@ pattern matching over AtomGen to know the specific atom type. For example:
 - General data type:
 We define AtomGen as a general atom type, with a different constructor for each
 atom type.
-
- We avoid the problem with fromAtom in Option 2.
- Now, we can do pattern matching on an atom type, for example, on the
- items of a list:
-```haskell
-         case l of
-            List x:xs -> case x of
-                AtomConcept (Concept c)     -> we have a concept
-                AtomPredicate (Predicate p) -> we have a predicate
-```
 
 ## Option4 - GADTs: [./Option4](https://github.com/MarcosPividori/atomspace/tree/data-options/opencog/haskell/api_options/Option4)
 
@@ -202,10 +192,10 @@ instance IsList ListT
 instance IsAtom ExecutionT
 instance IsLink ExecutionT
 instance IsExecution ExecutionT
-
+```
 Now, we can define the Atom data type, imposing type restrictions in how atoms
 relate between them through phantom types and type classes!
-
+```haskell
 data Atom a where
     ConceptNode    :: AtomName -> Maybe TV -> Atom ConceptT
     SchemaNode     :: AtomName -> Atom SchemaT
@@ -218,7 +208,7 @@ AtomGen = forall a. AtomGen (Atom a)
 ```
 -------------------------------------------------
 
-So lets analyse the main goals:
+So let's analyse the main goals:
 
 - Atom hierarchy: OK. Combining phantom types, type classes and GADTs.
 It works really well. For example:
