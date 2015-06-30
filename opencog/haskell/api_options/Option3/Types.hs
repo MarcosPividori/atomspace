@@ -1,80 +1,78 @@
+{-# LANGUAGE GADTs , EmptyDataDecls , ExistentialQuantification , RankNTypes #-}
 
-module Types (
-      AtomGen(..)
-    , IsAtom(..)
-    , Concept(..)
-    , Predicate(..)
-    , Schema(..)
-    , List(..)
-    , Execution(..)
-    , Evaluation(..)
-    , TruthVal(..)
-    , AtomName(..)
-    ) where
+module Types where
+
+data TV = SimpleTV Double Double
+        | CountTV Double Double Double
+        | IndefiniteTV Double Double Double Double
+    deriving Show
 
 type AtomName = String
-data TruthVal = SimpleTruthVal Double Double
-              | CountTruthVal Double Double Double
-              | IndefiniteTruthVal Double Double Double Double
-    deriving Show
 
-data AtomGen = AtomConcept    Concept
-             | AtomPredicate  Predicate
-             | AtomSchema     Schema
-             | AtomList       List
-             | AtomEvaluation Evaluation
-             | AtomExecution  Execution
-    deriving Show
+data ConceptNode   = ConceptNode AtomName (Maybe TV)              deriving Show
+data PredicateNode = PredicateNode AtomName                       deriving Show
+data SchemaNode    = SchemaNode AtomName                          deriving Show
+data GroundedSchemaNode = GroundedSchemaNode AtomName             deriving Show
+data ListLink      = ListLink [AtomGen]                           deriving Show
+data ExecutionLink = forall s l a. (IsSchema s, IsList l,IsAtom a)
+                   => ExecutionLink s l a
 
-class IsAtom a where
+instance Show ExecutionLink where
+    show (ExecutionLink a b c) = "ExecutionLink " ++
+                                  show a ++ " " ++
+                                  show b ++ " " ++
+                                  show c
+
+class (Show a)   => IsAtom a where
     toAtom   :: a -> AtomGen
-    fromAtom :: AtomGen -> Maybe a
+class IsAtom a   => IsNode a
+class IsAtom a   => IsLink a
+class IsNode a   => IsConcept a
+class IsNode a   => IsPredicate a
+class IsNode a   => IsSchema a
+class IsSchema a => IsGroundedSchema a
+class IsLink a   => IsList a
+class IsLink a   => IsExecution a
 
-data Concept = Concept AtomName (Maybe TruthVal)
+instance IsAtom PredicateNode where
+    toAtom = GenPredicate
+instance IsNode PredicateNode
+instance IsPredicate PredicateNode
+
+instance IsAtom ConceptNode where
+    toAtom = GenConcept
+instance IsNode ConceptNode
+instance IsConcept ConceptNode
+
+instance IsAtom SchemaNode where
+    toAtom = GenSchema
+instance IsNode SchemaNode
+instance IsSchema SchemaNode
+
+instance IsAtom GroundedSchemaNode where
+    toAtom = GenGroundedSchema
+instance IsNode GroundedSchemaNode
+instance IsSchema GroundedSchemaNode
+instance IsGroundedSchema GroundedSchemaNode
+
+instance IsAtom ListLink where
+    toAtom = GenList
+instance IsLink ListLink
+instance IsList ListLink
+
+instance IsAtom ExecutionLink where
+    toAtom = GenExecution
+instance IsLink ExecutionLink
+instance IsExecution ExecutionLink
+
+
+data AtomGen = GenConcept        ConceptNode
+             | GenPredicate      PredicateNode
+             | GenSchema         SchemaNode
+             | GenGroundedSchema GroundedSchemaNode
+             | GenList           ListLink
+             | GenExecution      ExecutionLink
     deriving Show
 
-data Predicate = Predicate AtomName
-    deriving Show
-
-data Schema = Schema AtomName
-    deriving Show
-
-data List = List [AtomGen]
-    deriving Show
-    
-data Evaluation = Evaluation (Maybe TruthVal) Predicate List
-    deriving Show
-
-data Execution = Execution Schema List AtomGen
-    deriving Show
-
-instance IsAtom Concept where
-    toAtom = AtomConcept
-    fromAtom (AtomConcept c) = Just c 
-    fromAtom _               = Nothing 
-
-instance IsAtom Predicate where
-    toAtom = AtomPredicate
-    fromAtom (AtomPredicate p) = Just p
-    fromAtom _                 = Nothing 
-
-instance IsAtom Schema where
-    toAtom = AtomSchema
-    fromAtom (AtomSchema s) = Just s 
-    fromAtom _              = Nothing 
-
-instance IsAtom List where
-    toAtom = AtomList
-    fromAtom (AtomList l) = Just l
-    fromAtom _            = Nothing 
-
-instance IsAtom Execution where
-    toAtom = AtomExecution
-    fromAtom (AtomExecution e) = Just e
-    fromAtom _                 = Nothing 
-
-instance IsAtom Evaluation where
-    toAtom = AtomEvaluation
-    fromAtom (AtomEvaluation e) = Just e
-    fromAtom _                  = Nothing 
-
+instance IsAtom AtomGen where
+    toAtom = id

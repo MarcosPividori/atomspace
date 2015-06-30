@@ -1,50 +1,77 @@
 {-# LANGUAGE GADTs , EmptyDataDecls , ExistentialQuantification , RankNTypes #-}
 
-module Types (
-      Atom(..)
-    , AtomGen(..)
-    , TruthVal(..)
-    , AtomName(..)
-    , TConceptNode
-    , TSchemaNode
-    , appAtomGen
-    ) where
+module Types where
 
-type AtomName = String
-data TruthVal = SimpleTruthVal Double Double
-              | CountTruthVal Double Double Double
-              | IndefiniteTruthVal Double Double Double Double
+data TV = SimpleTV Double Double
+        | CountTV Double Double Double
+        | IndefiniteTV Double Double Double Double
     deriving Show
 
-data AtomGen where
-    AtomGen :: Atom a -> AtomGen
+type AtomName = String
 
-appAtomGen :: (forall a. Atom a -> b) -> AtomGen -> b
-appAtomGen f (AtomGen at) = f at
+data PredicateT
+data ConceptT
+data SchemaT
+data GroundedSchemaT
+data ListT
+data ExecutionT
 
-data TConceptNode
-data TSchemaNode
+class IsAtom a
+class IsAtom a => IsNode a
+class IsAtom a => IsLink a
+class IsNode a => IsConcept a
+class IsNode a => IsPredicate a
+class IsNode a => IsSchema a
+class IsSchema a => IsGroundedSchema a
+class IsLink a => IsList a
+class IsLink a => IsExecution a
+
+instance IsAtom PredicateT
+instance IsNode PredicateT
+instance IsPredicate PredicateT
+
+instance IsAtom ConceptT
+instance IsNode ConceptT
+instance IsConcept ConceptT
+
+instance IsAtom SchemaT
+instance IsNode SchemaT
+instance IsSchema SchemaT
+
+instance IsAtom GroundedSchemaT
+instance IsNode GroundedSchemaT
+instance IsSchema GroundedSchemaT
+instance IsGroundedSchema GroundedSchemaT
+
+instance IsAtom ListT
+instance IsLink ListT
+instance IsList ListT
+
+instance IsAtom ExecutionT
+instance IsLink ExecutionT
+instance IsExecution ExecutionT
 
 data Atom a where
-    Concept     :: AtomName -> (Maybe TruthVal) -> Atom TConceptNode
-    Predicate   :: AtomName -> Atom (Atom a -> TruthVal)
-    Schema      :: AtomName -> Atom TSchemaNode
-    Evaluation  :: (Atom (Atom b -> TruthVal)) ->
-                    Atom [AtomGen] -> Maybe TruthVal -> Atom a
-    Execution   :: Atom TSchemaNode ->
-                     Atom [AtomGen] -> Atom b -> Atom a
-    List        :: [AtomGen] -> Atom [AtomGen]
+    ConceptNode    :: AtomName -> Maybe TV -> Atom ConceptT
+    PredicateNode  :: AtomName -> Atom PredicateT
+    SchemaNode     :: AtomName -> Atom SchemaT
+    GroundedSchemaNode :: AtomName -> Atom GroundedSchemaT
+    ListLink       :: [AtomGen] -> Atom ListT
+    ExecutionLink  :: (IsSchema s,IsList l,IsAtom g)
+                   => Atom s -> Atom l -> Atom g -> Atom ExecutionT
+
+data AtomGen = forall a. AtomGen (Atom a)
 
 instance Show AtomGen where
     show (AtomGen at) = concat' ["AtomGen",show at]
 
 instance Show (Atom a) where
-    show (Concept n m)        = concat' ["Concept",show n,show m]
-    show (Predicate n)        = concat' ["Predicate",show n]
-    show (Schema n)           = concat' ["Schema",show n]
-    show (Evaluation a1 a2 m) = concat' ["Evaluation",show a1,show a2,show m]
-    show (Execution a1 a2 a3) = concat' ["Execution",show a1,show a2,show a3]
-    show (List l)             = concat' ["List",show l]
+    show (ConceptNode n m)        = concat' ["ConceptNode",show n,show m]
+    show (PredicateNode n)        = concat' ["PredicateNode",show n]
+    show (SchemaNode n)           = concat' ["SchemaNode",show n]
+    show (GroundedSchemaNode n)   = concat' ["GroundedSchemaNode",show n]
+    show (ListLink l)             = concat' ["ListLink",show l]
+    show (ExecutionLink a1 a2 a3) = concat' ["ExecutionLink",show a1,show a2,show a3]
 
 concat' (a:b:xs) = a ++ " " ++ concat' (b:xs)
 concat' (b:[])   = b
