@@ -13,25 +13,13 @@
 -- | This Module defines the relation between different atom types.
 module OpenCog.AtomSpace.Inheritance (
   type (<~)
+, type (<<~)
 , Children
 ) where
 
 import GHC.Exts                     (Constraint)
-import OpenCog.AtomSpace.AtomType   (AtomType(..),Up(..),Down(..))
+import OpenCog.AtomSpace.AtomType   (AtomType(..),Down(..))
 import Data.Typeable                (Typeable)
-
--- | 'In' type level function to check if a type belongs to a list.
-type family In a (b :: [AtomType]) :: Bool where
-    In a (a ': b) = 'True
-    In a (b ': c) = In a c
-    In a '[]      = 'False
-
--- | 'FUp' type level function to get the list of all the ancestors
--- of a given atom type.
-type family FUp a b :: [AtomType] where
-    FUp (x ': xs) a         = x ': FUp xs (x ': a)
-    FUp '[]       (x ': xs) = FUp (Up x) xs
-    FUp '[]       '[]       = '[]
 
 -- | 'FDown' type level function to get the list of all descendants
 -- of a given atom type.
@@ -42,22 +30,41 @@ type family FDown a b :: [AtomType] where
 
 type Children a = FDown '[a] '[]
 
--- | 'IsParent'' is a predicate to decide if atom type b is an ancestor
--- of atom type a.
-type family IsParent' a b :: Bool where
-    IsParent' a b = (In b (FUp '[a] '[]))
+type AllAtomTypes = Children AtomT
 
--- | 'IsParent' is a contraint on being 'b' an ancestor of 'a'.
-type IsParent a b = IsParent' a b ~ 'True
+type family (-) (a::[AtomType]) (b::AtomType) where
+    (x ': xs) - x = xs - x
+    (x ': xs) - y = x ': (xs - y)
+    '[]       - y = '[]
 
--- | 'ParConst' builds a list of constraints to assert that all the members of
--- the list are ancestors of a.
-type family ParConst a (b :: [AtomType]) :: Constraint where
-    ParConst a '[]      = Typeable a
-    ParConst a (b ': c) = (IsParent a b,ParConst a c)
+type family (\\) (a::[AtomType]) (b::[AtomType]) where
+    l \\ (x ': xs) = (l - x) \\ xs
+    l \\ '[]       = l
 
--- | '<~' builds a list of constraints to assert that all the ancestors of b
--- (included b itself) are ancestors of a.
+type family (==) (a::AtomType) (b::AtomType) :: Bool where
+    a == a = 'True
+    a == x = 'False
+
+type family NotIn (a::AtomType) (b::[AtomType]) :: Constraint where
+    NotIn a '[]       = 'True ~ 'True
+    NotIn a (x ': xs) = ((a == x) ~ 'False,NotIn a xs)
+
+type family ConcatT l :: [AtomType] where
+    ConcatT ((x ': xs) ': ys) = x ': ConcatT (xs ': ys)
+    ConcatT ('[]       ': ys) = ConcatT ys
+    ConcatT  '[]              = '[]
+
+type family MapChildren (l::[AtomType]) where
+    MapChildren (x ': xs) = Children x ': MapChildren xs
+    MapChildren '[]       = '[]
+
+-- | '<~' builds a list of constraints to assert that a is not outside the
+-- subtree of successors of b.
 infix 9 <~
-type a <~ b = ParConst a (FUp '[b] '[])
+type a <~ b = a <<~ '[b]
+
+-- | '<~' builds a list of constraints to assert that a is not outside the
+-- subtree of successors of each atom type in the list b.
+infix 9 <<~
+type a <<~ b = (Typeable a,NotIn a (AllAtomTypes \\ (ConcatT (MapChildren b))))
 

@@ -19,7 +19,7 @@ module OpenCog.AtomSpace.Types (
   , getType
   ) where
 
-import OpenCog.AtomSpace.Inheritance    (type (<~))
+import OpenCog.AtomSpace.Inheritance    (type (<~),type (<<~))
 import OpenCog.AtomSpace.AtomType       (AtomType(..))
 import Data.Typeable                    (Typeable)
 
@@ -65,9 +65,9 @@ appAtomGen f (AtomGen at) = f at
 -- | 'Atom' is the main data type to represent the different types of atoms.
 data Atom (a :: AtomType) where
     PredicateNode   :: AtomName -> Atom PredicateT
-    AndLink         :: (a <~ ConceptT,b <~ ConceptT) =>
+    AndLink         :: (a <<~ [PredicateT,ConceptT],b <<~ [PredicateT,ConceptT]) =>
                        Atom a -> Atom b -> (Maybe TruthVal) -> Atom AndT
-    OrLink          :: (a <~ ConceptT,b <~ ConceptT) =>
+    OrLink          :: (a <<~ [PredicateT,ConceptT],b <<~ [PredicateT,ConceptT]) =>
                        Atom a -> Atom b -> (Maybe TruthVal) -> Atom OrT
     ImplicationLink :: (a <~ AtomT,b <~ AtomT) =>
                        Atom a -> Atom b -> (Maybe TruthVal) -> Atom ImplicationT

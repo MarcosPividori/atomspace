@@ -12,7 +12,6 @@
 -- | This Module defines the different Atom Types and some utils functions.
 module OpenCog.AtomSpace.AtomType (
     AtomType(..)
-  , Up(..)
   , Down(..)
   , fromAtomTypeRaw
   , toAtomTypeRaw
@@ -78,28 +77,6 @@ fromAtomTypeRaw s = case s of
     "GroundedSchemaNode" -> Just GroundedSchemaT
     "ExecutionLink"      -> Just ExecutionT
     _                    -> Nothing
-
--- | 'Up' given an atom type returns a list with its parent atom types.
-type family Up a :: [AtomType] where
-    Up AtomT           = '[]
-    Up NodeT           = '[AtomT]
-    Up LinkT           = '[AtomT]
-    Up ConceptT        = '[NodeT]
-    Up SchemaT         = '[NodeT]
-    Up PredicateT      = '[NodeT]
-    Up NumberT         = '[NodeT]
-    Up GroundedSchemaT = '[SchemaT]
-    Up ExecutionT      = '[LinkT]
-    Up AndT            = '[LinkT]
-    Up OrT             = '[LinkT]
-    Up ImplicationT    = '[LinkT]
-    Up EquivalenceT    = '[LinkT]
-    Up EvaluationT     = '[LinkT]
-    Up InheritanceT    = '[LinkT]
-    Up SimilarityT     = '[LinkT]
-    Up MemberT         = '[LinkT]
-    Up SatisfyingSetT  = '[LinkT]
-    Up ListT           = '[LinkT]
 
 -- | 'Down' given an atom type returns a list with its children atom types.
 type family Down a :: [AtomType] where
