@@ -1,0 +1,5 @@
+<map id="opencog::PrimitiveEnviron::init_in_module" name="opencog::PrimitiveEnviron::init_in_module">
+<area shape="rect" id="node2" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#af54cc52d8a03578b38a1d4825eca1e36" title="opencog::PrimitiveEnviron\l::init" alt="" coords="225,38,394,79"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#a2e5e65cc5e0ce161371501159fdddc89" title="opencog::SchemeEval\l::init" alt="" coords="453,5,603,46"/>
+<area shape="rect" id="node4" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#aca8a05ee3eede644ded76029dc2230dd" title="opencog::PrimitiveEnviron\l::really_do_register" alt="" coords="443,70,613,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ZMQFunctionType_IsValid" name="ZMQFunctionType_IsValid">
+<area shape="rect" id="node2" href="$d5/d28/classZMQRequestMessage.html#ac2ddb85ca45d8933fa28d183ca7b7990" title="ZMQRequestMessage::\lMergePartialFromCodedStream" alt="" coords="433,5,637,46"/>
+<area shape="rect" id="node3" href="$d5/d28/classZMQRequestMessage.html#a9e43dc292c5258c1a157146f28550451" title="ZMQRequestMessage::\lset_function" alt="" coords="229,69,384,110"/>
+<area shape="rect" id="node4" href="$d0/dfe/classopencog_1_1ZMQClient.html#a05d121a898755fb7e5fe32ab201f7b0c" title="opencog::ZMQClient\l::getAtom" alt="" coords="465,70,604,111"/>
+<area shape="rect" id="node5" href="$d5/d28/classZMQRequestMessage.html#ad868b60207e24ded46b41093c0116c69" title="ZMQRequestMessage::\lMergeFrom" alt="" coords="457,135,612,177"/>
+</map>

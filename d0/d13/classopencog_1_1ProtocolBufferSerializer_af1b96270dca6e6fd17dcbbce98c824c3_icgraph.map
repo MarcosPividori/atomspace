@@ -1,0 +1,5 @@
+<map id="opencog::ProtocolBufferSerializer::deserializeAtom" name="opencog::ProtocolBufferSerializer::deserializeAtom">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1f8f579821c461a7f30a8d3e74d7a80e" title="opencog::ProtocolBufferSerializer\l::deserializeLink" alt="" coords="264,5,475,46"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#ad1d1dcd7879e1369a21375b7b5f54e1b" title="opencog::ProtocolBufferSerializer\l::deserializeNode" alt="" coords="264,70,475,111"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a7373e7c8aefbb120b59d9a8fc564aa9a" title="opencog::ProtocolBufferSerializer\l::deserialize" alt="" coords="523,38,733,79"/>
+</map>

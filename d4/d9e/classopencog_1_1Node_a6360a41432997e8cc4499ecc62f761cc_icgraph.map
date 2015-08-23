@@ -1,0 +1,9 @@
+<map id="opencog::Node::getName" name="opencog::Node::getName">
+<area shape="rect" id="node2" href="$d5/dbc/classopencog_1_1TypeNode.html#a8d797434f9d51b02a68002df7e95444f" title="opencog::TypeNode::\lTypeNode" alt="" coords="236,5,377,46"/>
+<area shape="rect" id="node3" href="$da/d7b/classopencog_1_1NameIndex.html#a6a39b00eed627d965e90f610281e896e" title="opencog::NameIndex\l::insertAtom" alt="" coords="235,70,378,111"/>
+<area shape="rect" id="node5" href="$da/d7b/classopencog_1_1NameIndex.html#a5bbb0b20b068bbb058c70b99f8cd2824" title="opencog::NameIndex\l::removeAtom" alt="" coords="235,135,378,177"/>
+<area shape="rect" id="node7" href="$d4/d9e/classopencog_1_1Node.html#a91f72d118288386cdf9116587bd4d7ce" title="opencog::Node::operator==" alt="" coords="219,201,395,228"/>
+<area shape="rect" id="node8" href="$d0/da6/classopencog_1_1AtomStorage.html#a43ccff897303b747d2df3aafdc4a8e56" title="opencog::AtomStorage\l::getNode" alt="" coords="230,253,383,294"/>
+<area shape="rect" id="node4" href="$d8/d2a/classopencog_1_1NodeIndex.html#a31e704a7d582119ef87b40a390ca983c" title="opencog::NodeIndex\l::insertAtom" alt="" coords="443,70,581,111"/>
+<area shape="rect" id="node6" href="$d8/d2a/classopencog_1_1NodeIndex.html#a7efbd6425a460bc8fe78e43e2e29c317" title="opencog::NodeIndex\l::removeAtom" alt="" coords="443,135,581,177"/>
+</map>

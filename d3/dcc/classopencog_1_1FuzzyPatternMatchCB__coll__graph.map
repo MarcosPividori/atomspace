@@ -1,0 +1,9 @@
+<map id="opencog::FuzzyPatternMatchCB" name="opencog::FuzzyPatternMatchCB">
+<area shape="rect" id="node2" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="553,113,767,140"/>
+<area shape="rect" id="node3" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="224,5,429,32"/>
+<area shape="rect" id="node4" href="$d2/d58/classopencog_1_1Instantiator.html" title="opencog::Instantiator" alt="" coords="256,133,397,160"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="6,96,151,123"/>
+<area shape="rect" id="node6" href="$d7/d55/classopencog_1_1ClassServer.html" title="opencog::ClassServer" alt="" coords="254,184,399,211"/>
+<area shape="rect" id="node7" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="601,203,719,229"/>
+<area shape="rect" id="node8" href="$d2/da4/structopencog_1_1Pattern.html" title="opencog::Pattern" alt="" coords="601,253,719,280"/>
+</map>

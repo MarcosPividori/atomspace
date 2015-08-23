@@ -1,0 +1,4 @@
+<map id="opencog::HandleSeqIndex::insert" name="opencog::HandleSeqIndex::insert">
+<area shape="rect" id="node2" href="$dc/d01/classopencog_1_1LinkIndex.html#a494f663a7bf80811e736f6402a2c072b" title="opencog::LinkIndex\l::insertAtom" alt="" coords="225,5,357,46"/>
+<area shape="rect" id="node3" href="$d0/de1/group__grp__atomspace.html#gab9e5ba437b8370ed32ca13d1858da2ed" title="opencog::AtomTable\l::put_atom_into_index" alt="" coords="405,5,552,46"/>
+</map>

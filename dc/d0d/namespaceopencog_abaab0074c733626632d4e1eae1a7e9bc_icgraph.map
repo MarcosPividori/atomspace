@@ -1,0 +1,6 @@
+<map id="opencog::contains_atomtype" name="opencog::contains_atomtype">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#a8e1e82e22364bb2bf43ee9e2d01fd658" title="opencog::remove_constants" alt="" coords="253,15,435,41"/>
+<area shape="rect" id="node4" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#af85c5dc88e9af0de188eb536f5bbd51d" title="opencog::DefaultForwardChainer\lCB::substitute_rule_part" alt="" coords="240,67,448,109"/>
+<area shape="rect" id="node3" href="$d2/d43/classopencog_1_1PatternLink.html#ab60b829a0386db1eb0a2096778268231" title="opencog::PatternLink\l::validate_clauses" alt="" coords="529,5,671,46"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f" title="opencog::DefaultForwardChainer\lCB::unify" alt="" coords="496,70,704,111"/>
+</map>

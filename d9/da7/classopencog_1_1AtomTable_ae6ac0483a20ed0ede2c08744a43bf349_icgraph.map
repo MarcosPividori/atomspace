@@ -1,0 +1,5 @@
+<map id="opencog::AtomTable::holds" name="opencog::AtomTable::holds">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a226a0b59d86e738c10555377bf324969" title="opencog::AtomSpace\l::fetch_atom" alt="" coords="195,38,341,79"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a2a60aca3290343322c8890382e72943b" title="opencog::AtomSpace\l::get_atom" alt="" coords="390,5,535,46"/>
+<area shape="rect" id="node4" href="$d8/d41/classopencog_1_1PersistSCM.html#a064ff6fc9008e7fee18e925928a15ac1" title="opencog::PersistSCM\l::fetch_atom" alt="" coords="390,70,535,111"/>
+</map>

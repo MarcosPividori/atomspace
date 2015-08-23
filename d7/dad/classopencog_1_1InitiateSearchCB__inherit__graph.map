@@ -1,0 +1,11 @@
+<map id="opencog::InitiateSearchCB" name="opencog::InitiateSearchCB">
+<area shape="rect" id="node3" href="$d1/d76/classopencog_1_1AFImplicator.html" title="opencog::AFImplicator" alt="" coords="515,5,666,32"/>
+<area shape="rect" id="node4" href="$df/de3/classopencog_1_1BackwardChainerPMCB.html" title="opencog::BackwardChainerPMCB" alt="" coords="483,56,699,83"/>
+<area shape="rect" id="node6" href="$d3/ddb/classopencog_1_1DefaultImplicator.html" title="opencog::DefaultImplicator" alt="" coords="503,107,678,133"/>
+<area shape="rect" id="node8" href="$d7/d68/classopencog_1_1ForwardChainerPMCB.html" title="opencog::ForwardChainerPMCB" alt="" coords="488,157,693,184"/>
+<area shape="rect" id="node9" href="$df/dce/classopencog_1_1Satisfier.html" title="opencog::Satisfier" alt="" coords="529,208,652,235"/>
+<area shape="rect" id="node10" href="$d1/d16/classopencog_1_1SatisfyingSet.html" title="opencog::SatisfyingSet" alt="" coords="514,259,667,285"/>
+<area shape="rect" id="node2" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="5,132,211,159"/>
+<area shape="rect" id="node5" href="$d0/d1d/classopencog_1_1UnifyPMCB.html" title="opencog::UnifyPMCB" alt="" coords="772,56,916,83"/>
+<area shape="rect" id="node7" href="$db/d25/classopencog_1_1VarGroundingPMCB.html" title="opencog::VarGroundingPMCB" alt="" coords="747,107,941,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ZMQSingleTruthValueMessage::set_truthvaluetype" name="ZMQSingleTruthValueMessage::set_truthvaluetype">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a2db86555aae9df9202348ac054795c44" title="opencog::ProtocolBufferSerializer\l::serializeCountTruthValue" alt="" coords="253,5,464,46"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a3aaa731f14e4e83ca425acb548d77df6" title="opencog::ProtocolBufferSerializer\l::serializeIndefiniteTruthValue" alt="" coords="253,70,464,111"/>
+<area shape="rect" id="node5" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#ac66b5df176d4e32a37ad8564f6cc45e3" title="opencog::ProtocolBufferSerializer\l::serializeNullTruthValue" alt="" coords="253,135,464,177"/>
+<area shape="rect" id="node6" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a52a67fe319365972971bc372aeb7d44d" title="opencog::ProtocolBufferSerializer\l::serializeSimpleTruthValue" alt="" coords="253,201,464,242"/>
+<area shape="rect" id="node7" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a38f1f11d530d4c8c2ef9d2d594d84724" title="ZMQSingleTruthValueMessage\l::MergePartialFromCodedStream" alt="" coords="253,266,464,307"/>
+<area shape="rect" id="node8" href="$dd/d3a/classZMQSingleTruthValueMessage.html#ae991d3e030095a2ebcf408f63f914d09" title="ZMQSingleTruthValueMessage\l::MergeFrom" alt="" coords="259,331,459,373"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a633f49d90ef52b1d081a48995fe0f9d8" title="opencog::ProtocolBufferSerializer\l::serialize" alt="" coords="512,103,723,145"/>
+</map>

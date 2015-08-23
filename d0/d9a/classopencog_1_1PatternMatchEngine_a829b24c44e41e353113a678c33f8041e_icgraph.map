@@ -1,0 +1,7 @@
+<map id="opencog::PatternMatchEngine::perm_pop" name="opencog::PatternMatchEngine::perm_pop">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aec1d7cab97fb1889af808adabcd6956a" title="opencog::PatternMatchEngine\l::clause_stacks_pop" alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a8b1b55c9711213f611117decc7c0afcf" title="opencog::PatternMatchEngine\l::explore_choice_branches" alt="" coords="491,5,685,46"/>
+<area shape="rect" id="node5" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a7547a30d0209c7d0fa37cc35797ef952" title="opencog::PatternMatchEngine\l::redex_compare" alt="" coords="491,70,685,111"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afceb7da2344ec1d65f0a96e2b2c79ae5" title="opencog::PatternMatchEngine\l::do_next_clause" alt="" coords="491,135,685,177"/>
+</map>

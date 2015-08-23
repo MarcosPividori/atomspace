@@ -1,0 +1,7 @@
+<map id="opencog::SchemeSmob::verify_string" name="opencog::SchemeSmob::verify_string">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a81c68fc36bc5b43a03476226277c8351" title="opencog::SchemeSmob\l::ss_ad_hoc" alt="" coords="222,5,381,46"/>
+<area shape="rect" id="node3" href="$de/d3e/classopencog_1_1SchemePrimitive.html#a8908022ff4f036ecfd3bab0dbbd72b64" title="opencog::SchemePrimitive\l::invoke" alt="" coords="214,70,389,111"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="222,135,381,177"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#a8cce86839db8fbc9c0914485a6db374b" title="opencog::SchemeSmob\l::ss_node" alt="" coords="222,201,381,242"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="438,169,597,210"/>
+</map>

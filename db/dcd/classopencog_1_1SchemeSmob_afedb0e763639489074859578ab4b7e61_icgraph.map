@@ -1,0 +1,10 @@
+<map id="opencog::SchemeSmob::ss_tv_p" name="opencog::SchemeSmob::ss_tv_p">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="630,146,789,187"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a5df84a71a738be2d62d797c5b35245e7" title="opencog::SchemeSmob\l::tv_p" alt="" coords="214,146,373,187"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a6feedf353c283fcb6bbdbfc4d7014e56" title="opencog::SchemeSmob\l::init" alt="" coords="838,146,997,187"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#aaf82b8c47ff6ef82fa68c56fdd9b1bbd" title="opencog::SchemeSmob\l::ss_stv_p" alt="" coords="422,47,581,89"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#ae3ce76c2c146d215ea6aa1add961bafc" title="opencog::SchemeSmob\l::ss_ctv_p" alt="" coords="422,113,581,154"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a4e50b7db60d6517746686570ea294338" title="opencog::SchemeSmob\l::ss_itv_p" alt="" coords="422,178,581,219"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a6520391808d4b81dcb595dbff8c60b7b" title="opencog::SchemeSmob\l::ss_ptv_p" alt="" coords="422,243,581,285"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#abdbe0c53f6094751d3108eda631d7ae6" title="opencog::SchemeSmob\l::ss_ftv_p" alt="" coords="422,309,581,350"/>
+</map>

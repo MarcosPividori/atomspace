@@ -1,0 +1,6 @@
+<map id="opencog::ProtocolBufferSerializer::serializeNode" name="opencog::ProtocolBufferSerializer::serializeNode">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a5c03256b592534bb2ccd7563d60536a7" title="opencog::ProtocolBufferSerializer\l::serialize" alt="" coords="264,69,475,110"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#aa7119edea69bd0b165f93a1232fee286" title="opencog::ProtocolBufferSerializer\l::serializeAtom" alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a05a4d3e60b28fc30dea592b12d266d0a" title="opencog::ProtocolBufferSerializer\l::serializeCompositeTruthValue" alt="" coords="523,70,733,111"/>
+<area shape="rect" id="node5" href="$d8/d66/classopencog_1_1ZMQServer.html#ac7606c809a1c908f6a336aeb634b4e35" title="opencog::ZMQServer\l::zmqLoop" alt="" coords="557,135,699,177"/>
+</map>

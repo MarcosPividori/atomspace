@@ -1,0 +1,12 @@
+<map id="opencog/query/DefaultPatternMatchCB.h" name="opencog/query/DefaultPatternMatchCB.h">
+<area shape="rect" id="node2" href="$d6/d41/AttentionalFocusCB_8h.html" title="opencog/query/Attentional\lFocusCB.h" alt="" coords="269,97,440,138"/>
+<area shape="rect" id="node4" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="5,201,224,228"/>
+<area shape="rect" id="node5" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="445,187,648,243"/>
+<area shape="rect" id="node6" href="$d7/d83/DefaultPatternMatchCB_8cc.html" title="opencog/query/DefaultPattern\lMatchCB.cc" alt="" coords="558,97,751,138"/>
+<area shape="rect" id="node7" href="$db/dc1/FuzzyPatternMatchCB_8h.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatchCB.h" alt="" coords="776,97,955,138"/>
+<area shape="rect" id="node10" href="$dc/d1f/Satisfier_8h.html" title="opencog/query/Satisfier.h" alt="" coords="1061,104,1227,131"/>
+<area shape="rect" id="node3" href="$d2/d58/AttentionalFocusCB_8cc.html" title="opencog/query/Attentional\lFocusCB.cc" alt="" coords="249,194,420,235"/>
+<area shape="rect" id="node8" href="$d0/dc8/FuzzyPatternMatch_8cc.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatch.cc" alt="" coords="673,194,852,235"/>
+<area shape="rect" id="node9" href="$dd/d94/FuzzyPatternMatchCB_8cc.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatchCB.cc" alt="" coords="876,194,1055,235"/>
+<area shape="rect" id="node11" href="$d1/d57/Satisfier_8cc.html" title="opencog/query/Satisfier.cc" alt="" coords="1079,201,1252,228"/>
+</map>

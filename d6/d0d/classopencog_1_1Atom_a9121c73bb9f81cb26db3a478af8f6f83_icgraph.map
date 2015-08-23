@@ -1,0 +1,28 @@
+<map id="opencog::Atom::getIncomingSet" name="opencog::Atom::getIncomingSet">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#a6926cfb6d5e61ca21c71476b66547a5e" title="opencog::Atom::~Atom" alt="" coords="288,91,440,117"/>
+<area shape="rect" id="node3" href="$d6/d0d/classopencog_1_1Atom.html#a87a0315cb223ba2bad4fb5ed985bfb22" title="opencog::Atom::foreach\l_incoming" alt="" coords="285,142,443,183"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html#a6f18adb1cff6535a21c159e8d9b4bb11" title="opencog::AtomSpace\l::get_incoming" alt="" coords="291,279,437,321"/>
+<area shape="rect" id="node10" href="$d9/da7/classopencog_1_1AtomTable.html#a085e1558aa0ef53e0dad9d2890feb6e8" title="opencog::AtomTable\l::extract" alt="" coords="294,345,434,386"/>
+<area shape="rect" id="node13" href="$d0/de1/group__grp__atomspace.html#gaccb7bc36884bd669f02f2c643fabd4bc" title="opencog::get_neighbors" alt="" coords="285,411,443,437"/>
+<area shape="rect" id="node15" href="$dc/d0d/namespaceopencog.html#add93a27d1b805116656d40f75c80c92e" title="opencog::get_distant\l_neighbors_rec" alt="" coords="294,462,434,503"/>
+<area shape="rect" id="node17" href="$d0/de1/group__grp__atomspace.html#ga45d120bbd72c2f74bb6130794670b94c" title="opencog::get_predicates" alt="" coords="283,528,445,555"/>
+<area shape="rect" id="node18" href="$d0/de1/group__grp__atomspace.html#ga941da7efdbccc2ebda7bc798f7a741eb" title="opencog::get_predicates_for" alt="" coords="273,579,455,605"/>
+<area shape="rect" id="node19" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a408185631a6dfc38ba00bba0171b8794" title="opencog::AtomSpaceBenchmark\l::bm_getIncomingSet" alt="" coords="259,630,469,671"/>
+<area shape="rect" id="node21" href="$db/dcd/classopencog_1_1SchemeSmob.html#a0e99c22312b2de62c391030acd8fa8fe" title="opencog::SchemeSmob\l::ss_incoming_set" alt="" coords="285,695,443,737"/>
+<area shape="rect" id="node23" href="$dc/d42/classopencog_1_1AttentionalFocusCB.html#ae6c5bb29feec869cd89d007c24a43ad4" title="opencog::AttentionalFocus\lCB::get_incoming_set" alt="" coords="277,761,451,802"/>
+<area shape="rect" id="node24" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a13fc4446e362503e5697c784e9341ea4" title="opencog::FuzzyPatternMatch\lCB::initiate_search" alt="" coords="270,826,458,867"/>
+<area shape="rect" id="node25" href="$d2/d07/classopencog_1_1PatternMatchCallback.html#acf3c2501c01aaf3e6595e1e53452fd80" title="opencog::PatternMatchCallback\l::get_incoming_set" alt="" coords="261,891,467,933"/>
+<area shape="rect" id="node4" href="$da/deb/classopencog_1_1FollowLink.html#ab5bd5570dd5706482c6638fb57eacec5" title="opencog::FollowLink\l::follow_link" alt="" coords="553,5,692,46"/>
+<area shape="rect" id="node5" href="$d2/dd2/classopencog_1_1PrivateUseOnlyChaseLink.html#a85cd622ab8f2724f9f5b7ec8ddcf55b9" title="opencog::PrivateUseOnlyChase\lLink::do_follow_link" alt="" coords="522,70,723,111"/>
+<area shape="rect" id="node6" href="$d2/dd2/classopencog_1_1PrivateUseOnlyChaseLink.html#a5edd36f163f0cfcb94d5954365ddd69a" title="opencog::PrivateUseOnlyChase\lLink::do_follow_unordered\l_binary_link" alt="" coords="522,135,723,191"/>
+<area shape="rect" id="node8" href="$dd/dde/classopencog_1_1URECommons.html#aa50ede31fcee0bc44b9a311ce319557c" title="opencog::URECommons\l::get_unique_name" alt="" coords="542,214,703,255"/>
+<area shape="rect" id="node9" href="$dd/dde/classopencog_1_1URECommons.html#a576adad92a9652ed6a7f835610d872b8" title="opencog::URECommons\l::get_root_links" alt="" coords="542,279,703,321"/>
+<area shape="rect" id="node11" href="$d2/d55/classopencog_1_1AtomSpace.html#a5b618632b8db2e1bfb09c63311086128" title="opencog::AtomSpace\l::remove_atom" alt="" coords="550,345,695,386"/>
+<area shape="rect" id="node12" href="$d2/d55/classopencog_1_1AtomSpace.html#a061736b2f6b29536381000822e99501e" title="opencog::AtomSpace\l::purge_atom" alt="" coords="550,410,695,451"/>
+<area shape="rect" id="node14" href="$d7/d26/classopencog_1_1Target.html#a5fa02752063b80275fea51e7212ed1da" title="opencog::Target::rule\l_count" alt="" coords="552,475,693,517"/>
+<area shape="rect" id="node16" href="$d0/de1/group__grp__atomspace.html#ga7dd12f39fc53cdd6d9f4c4c80e430571" title="opencog::get_distant\l_neighbors" alt="" coords="553,541,693,582"/>
+<area shape="rect" id="node20" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a529dafa19bca7c7af6b3de1381405ee1" title="opencog::AtomSpaceBenchmark\l::setMethod" alt="" coords="517,630,728,671"/>
+<area shape="rect" id="node22" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="543,695,702,737"/>
+<area shape="rect" id="node26" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a0f9733843e1c15401b049ddee32f87f4" title="opencog::InitiateSearchCB\l::neighbor_search" alt="" coords="535,858,710,899"/>
+<area shape="rect" id="node27" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a4eae42fdf0080515d9ead23680fc2725" title="opencog::PatternMatchEngine\l::explore_up_branches" alt="" coords="525,923,720,965"/>
+</map>

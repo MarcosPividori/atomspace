@@ -1,0 +1,5 @@
+<map id="opencog::URECommons::tournament_select" name="opencog::URECommons::tournament_select">
+<area shape="rect" id="node2" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a24f99e7a34116a39e653779777bcc9e3" title="opencog::DefaultForwardChainer\lCB::choose_next_source" alt="" coords="216,5,424,46"/>
+<area shape="rect" id="node3" href="$db/d32/classopencog_1_1ForwardChainer.html#a68444731bda14954123a6fc14543d5b0" title="opencog::ForwardChainer\l::do_step" alt="" coords="237,70,403,111"/>
+<area shape="rect" id="node4" href="$db/d32/classopencog_1_1ForwardChainer.html#ab861a290dcc7957a925e0be5eaf054d1" title="opencog::ForwardChainer\l::do_chain" alt="" coords="473,70,639,111"/>
+</map>

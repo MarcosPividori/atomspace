@@ -1,0 +1,6 @@
+<map id="opencog::VarGroundingPMCB" name="opencog::VarGroundingPMCB">
+<area shape="rect" id="node2" href="$d3/ddb/classopencog_1_1DefaultImplicator.html" title="opencog::DefaultImplicator" alt="" coords="163,80,337,107"/>
+<area shape="rect" id="node3" href="$d7/d71/classopencog_1_1Implicator.html" title="opencog::Implicator" alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node4" href="$d7/d33/classopencog_1_1InitiateSearchCB.html" title="opencog::InitiateSearchCB" alt="" coords="163,5,337,32"/>
+<area shape="rect" id="node5" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="362,5,576,32"/>
+</map>

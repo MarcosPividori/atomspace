@@ -1,0 +1,6 @@
+<map id="opencog::TargetSet::emplace" name="opencog::TargetSet::emplace">
+<area shape="rect" id="node2" href="$d6/d95/classopencog_1_1BackwardChainer.html#aa23f33ed0e8233e193ecb858826147af" title="opencog::BackwardChainer\l::set_target" alt="" coords="189,5,368,46"/>
+<area shape="rect" id="node4" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="189,70,368,111"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a4ed0171b58c3ba389f963b517d4a9271" title="opencog::InferenceSCM\l::do_backward_chaining" alt="" coords="425,5,585,46"/>
+<area shape="rect" id="node5" href="$d6/d95/classopencog_1_1BackwardChainer.html#ac8277f22eeefd76b064fd36f269a3e2d" title="opencog::BackwardChainer\l::do_step" alt="" coords="416,70,595,111"/>
+</map>

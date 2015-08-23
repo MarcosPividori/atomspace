@@ -1,0 +1,6 @@
+<map id="opencog::DefaultForwardChainerCB::gen_sub_varlist" name="opencog::DefaultForwardChainerCB::gen_sub_varlist">
+<area shape="rect" id="node2" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f" title="opencog::DefaultForwardChainer\lCB::unify" alt="" coords="517,38,725,79"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#af85c5dc88e9af0de188eb536f5bbd51d" title="opencog::DefaultForwardChainer\lCB::substitute_rule_part" alt="" coords="261,67,469,109"/>
+<area shape="rect" id="node3" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a4ed5c58e80e7ac22aad8658a18aa45f3" title="opencog::DefaultForwardChainer\lCB::choose_rules" alt="" coords="773,5,981,46"/>
+<area shape="rect" id="node4" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a82fa81675839c7fbba6e6b840c927060" title="opencog::DefaultForwardChainer\lCB::subatom_unify" alt="" coords="773,70,981,111"/>
+</map>

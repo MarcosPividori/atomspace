@@ -1,0 +1,6 @@
+<map id="opencog::TypeNodeCast" name="opencog::TypeNodeCast">
+<area shape="rect" id="node2" href="$dc/d31/classopencog_1_1VariableList.html#a7682f200f6c2498bd22cb6ac518cfef8" title="opencog::VariableList\l::get_vartype" alt="" coords="217,5,359,46"/>
+<area shape="rect" id="node4" href="$d9/da7/classopencog_1_1AtomTable.html#aa8b7a8dfd7a931a891a5faf33af3a48d" title="opencog::AtomTable\l::factory" alt="" coords="218,70,358,111"/>
+<area shape="rect" id="node3" href="$dc/d31/classopencog_1_1VariableList.html#aa7b45d7e4a5e865906a558ad8bd3a7d3" title="opencog::VariableList\l::validate_vardecl" alt="" coords="421,5,563,46"/>
+<area shape="rect" id="node5" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="409,77,575,104"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="opencog/atoms/bind/PatternUtils.h" name="opencog/atoms/bind/PatternUtils.h">
+<area shape="rect" id="node2" href="$dc/d05/PatternLink_8cc.html" title="opencog/atoms/bind\l/PatternLink.cc" alt="" coords="5,103,144,145"/>
+<area shape="rect" id="node3" href="$de/d81/PatternUtils_8cc.html" title="opencog/atoms/bind\l/PatternUtils.cc" alt="" coords="168,103,307,145"/>
+<area shape="rect" id="node4" href="$d8/d1e/PatternMatchEngine_8cc.html" title="opencog/query/PatternMatch\lEngine.cc" alt="" coords="331,103,519,145"/>
+<area shape="rect" id="node5" href="$d0/d51/BackwardChainer_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.cc" alt="" coords="544,103,789,145"/>
+<area shape="rect" id="node6" href="$d6/de6/Target_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/Target.cc" alt="" coords="813,103,995,145"/>
+<area shape="rect" id="node7" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="1019,96,1220,152"/>
+</map>

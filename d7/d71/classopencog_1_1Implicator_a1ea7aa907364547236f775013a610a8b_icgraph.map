@@ -1,0 +1,8 @@
+<map id="opencog::Implicator::insert_result" name="opencog::Implicator::insert_result">
+<area shape="rect" id="node2" href="$d7/d71/classopencog_1_1Implicator.html#ae0242cc4a2bd805f1c8237c25d7bb1f7" title="opencog::Implicator\l::grounding" alt="" coords="225,5,359,46"/>
+<area shape="rect" id="node3" href="$dc/d0d/namespaceopencog.html#ab4ff4628bf058a0b7e6bddb0c7da82ac" title="opencog::do_imply" alt="" coords="228,71,356,97"/>
+<area shape="rect" id="node7" href="$d7/d68/classopencog_1_1ForwardChainerPMCB.html#aad97d94a598f5cf4efbd5cf2b4ce8a91" title="opencog::ForwardChainerPMCB\l::grounding" alt="" coords="189,122,395,163"/>
+<area shape="rect" id="node4" href="$dc/d0d/namespaceopencog.html#a6261c450231e150cfd981889413f20ac" title="opencog::bindlink" alt="" coords="463,20,585,47"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#a282a6cfbe94b8cbed964f119056843b9" title="opencog::single_bindlink" alt="" coords="443,71,605,97"/>
+<area shape="rect" id="node6" href="$dc/d0d/namespaceopencog.html#a3620c0f0d19f9ea816928ae822ff6cb5" title="opencog::af_bindlink" alt="" coords="455,121,593,148"/>
+</map>

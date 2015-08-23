@@ -1,0 +1,6 @@
+<map id="opencog::get_outgoing_nodes" name="opencog::get_outgoing_nodes">
+<area shape="rect" id="node2" href="$db/d32/classopencog_1_1ForwardChainer.html#ab861a290dcc7957a925e0be5eaf054d1" title="opencog::ForwardChainer\l::do_chain" alt="" coords="206,5,373,46"/>
+<area shape="rect" id="node4" href="$dd/dde/classopencog_1_1URECommons.html#adb59afceb7a8930bd994b5419eee2285" title="opencog::URECommons\l::create_bindLink" alt="" coords="209,70,370,111"/>
+<area shape="rect" id="node5" href="$dd/dde/classopencog_1_1URECommons.html#a1ddc8fe2730893c86c2a0fcb4ede2f8d" title="opencog::URECommons\l::replace_nodes_with\l_varnode" alt="" coords="209,135,370,191"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a960bdf8c81fe98396c4de1a657eb8d98" title="opencog::InferenceSCM\l::do_forward_chaining" alt="" coords="421,5,581,46"/>
+</map>

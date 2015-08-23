@@ -1,0 +1,14 @@
+<map id="opencog::BindLinkCast" name="opencog::BindLinkCast">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#aa8b7a8dfd7a931a891a5faf33af3a48d" title="opencog::AtomTable\l::factory" alt="" coords="242,5,382,46"/>
+<area shape="rect" id="node4" href="$dc/d0d/namespaceopencog.html#ab4ff4628bf058a0b7e6bddb0c7da82ac" title="opencog::do_imply" alt="" coords="248,71,376,97"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#aa283d9c5c15db39f94e013901a592fd5" title="opencog::DefaultForwardChainer\lCB::apply_rule" alt="" coords="208,122,416,163"/>
+<area shape="rect" id="node6" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#af85c5dc88e9af0de188eb536f5bbd51d" title="opencog::DefaultForwardChainer\lCB::substitute_rule_part" alt="" coords="208,187,416,229"/>
+<area shape="rect" id="node7" href="$db/d32/classopencog_1_1ForwardChainer.html#ac86ecbbae078f94cff11862f5961de81" title="opencog::ForwardChainer\l::do_pm" alt="" coords="229,253,395,294"/>
+<area shape="rect" id="node8" href="$dc/db5/classopencog_1_1Rule.html#a4db13e87af0581493245c269fca91dce" title="opencog::Rule::get\l_implicant" alt="" coords="249,318,375,359"/>
+<area shape="rect" id="node11" href="$dc/db5/classopencog_1_1Rule.html#a6d211e91e69148d991df18787cf1fa10" title="opencog::Rule::get\l_implicand" alt="" coords="490,381,617,422"/>
+<area shape="rect" id="node12" href="$dc/db5/classopencog_1_1Rule.html#ab83fa13befbc4e17da99782f0d82ab24" title="opencog::Rule::get\l_implicand_seq" alt="" coords="249,439,375,481"/>
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="470,12,637,39"/>
+<area shape="rect" id="node9" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="691,410,869,451"/>
+<area shape="rect" id="node10" href="$dc/db5/classopencog_1_1Rule.html#af018e77561ce9c45dd8975a0b493d161" title="opencog::Rule::get\l_implicant_seq" alt="" coords="490,315,617,357"/>
+<area shape="rect" id="node13" href="$d6/d95/classopencog_1_1BackwardChainer.html#a8263128cde6e46e9f30702302774e820" title="opencog::BackwardChainer\l::filter_rules" alt="" coords="464,498,643,539"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="opencog::DefaultForwardChainerCB::substitute_rule_part" name="opencog::DefaultForwardChainerCB::substitute_rule_part">
+<area shape="rect" id="node2" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f" title="opencog::DefaultForwardChainer\lCB::unify" alt="" coords="261,38,469,79"/>
+<area shape="rect" id="node3" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a4ed5c58e80e7ac22aad8658a18aa45f3" title="opencog::DefaultForwardChainer\lCB::choose_rules" alt="" coords="517,5,725,46"/>
+<area shape="rect" id="node4" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a82fa81675839c7fbba6e6b840c927060" title="opencog::DefaultForwardChainer\lCB::subatom_unify" alt="" coords="517,70,725,111"/>
+</map>

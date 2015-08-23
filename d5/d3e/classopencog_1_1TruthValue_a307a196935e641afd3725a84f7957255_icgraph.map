@@ -1,0 +1,4 @@
+<map id="opencog::TruthValue::getConfidence" name="opencog::TruthValue::getConfidence">
+<area shape="rect" id="node2" href="$de/d2e/classopencog_1_1CountTruthValue.html#ab46b0a9583fd41c719e39475c6fd817d" title="opencog::CountTruthValue\l::CountTruthValue" alt="" coords="201,5,375,46"/>
+<area shape="rect" id="node3" href="$db/d31/classopencog_1_1ProbabilisticTruthValue.html#afe9dc31833938d2067ee47a85771c941" title="opencog::ProbabilisticTruth\lValue::ProbabilisticTruthValue" alt="" coords="192,70,384,111"/>
+</map>

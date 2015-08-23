@@ -1,0 +1,5 @@
+<map id="opencog::TypeIndex::getNumAtomsOfType" name="opencog::TypeIndex::getNumAtomsOfType">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#ad900038cba09452b1d844053dc6d8a2e" title="opencog::AtomTable\l::getNumAtomsOfType" alt="" coords="205,38,357,79"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a0a76e024aeb15b291678079c30036ca3" title="opencog::AtomSpace\l::get_num_atoms_of_type" alt="" coords="406,5,575,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a6997d92fffa4ed16aa93b0252a4556eb" title="opencog::AtomSpace\l::get_handles_by_type" alt="" coords="417,70,565,111"/>
+</map>

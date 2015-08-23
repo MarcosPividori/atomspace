@@ -1,0 +1,17 @@
+<map id="opencog/benchmark/AtomSpaceBenchmark.cc" name="opencog/benchmark/AtomSpaceBenchmark.cc">
+<area shape="rect" id="node10" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="2267,253,2449,280"/>
+<area shape="rect" id="node11" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="1615,246,1809,287"/>
+<area shape="rect" id="node19" href="$d1/d8b/CountTruthValue_8h.html" title="opencog/atomspace/CountTruth\lValue.h" alt="" coords="2037,246,2243,287"/>
+<area shape="rect" id="node20" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="1939,336,2153,363"/>
+<area shape="rect" id="node22" href="$da/d75/IndefiniteTruthValue_8h.html" title="opencog/atomspace/Indefinite\lTruthValue.h" alt="" coords="2784,246,2979,287"/>
+<area shape="rect" id="node23" href="$db/d08/SimpleTruthValue_8h.html" title="opencog/atomspace/Simple\lTruthValue.h" alt="" coords="2577,246,2759,287"/>
+<area shape="rect" id="node24" href="$df/df3/TLB_8h.html" title="opencog/atomspace/TLB.h" alt="" coords="1623,96,1799,123"/>
+<area shape="rect" id="node29" href="$d5/d71/PythonEval_8h.html" title="opencog/cython/PythonEval.h" alt="" coords="1142,253,1332,280"/>
+<area shape="rect" id="node34" href="$d9/d7a/SchemeEval_8h.html" title="opencog/guile/SchemeEval.h" alt="" coords="530,253,717,280"/>
+<area shape="rect" id="node37" href="$d9/d45/AtomSpaceBenchmark_8h.html" title="AtomSpaceBenchmark.h" alt="" coords="2431,96,2597,123"/>
+<area shape="rect" id="node14" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="873,336,1065,363"/>
+<area shape="rect" id="node27" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="1766,171,1948,197"/>
+<area shape="rect" id="node30" href="$df/d4d/PyIncludeWrapper_8h.html" title="PyIncludeWrapper.h" alt="" coords="1435,336,1572,363"/>
+<area shape="rect" id="node33" href="$da/d6b/GenericEval_8h.html" title="opencog/shell/GenericEval.h" alt="" coords="532,336,716,363"/>
+<area shape="rect" id="node41" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="2126,171,2345,197"/>
+</map>

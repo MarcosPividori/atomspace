@@ -1,0 +1,5 @@
+<map id="opencog::Atom::decVLTI" name="opencog::Atom::decVLTI">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a9283d2e3d33384670d20fbb5274cc28b" title="opencog::AtomSpace\l::dec_VLTI" alt="" coords="223,5,369,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a2e5f52b8337a939a577206dd412717cd" title="opencog::SchemeSmob\l::ss_dec_vlti" alt="" coords="217,70,375,111"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="425,70,583,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="opencog::Target::increment_selection_count" name="opencog::Target::increment_selection_count">
+<area shape="rect" id="node2" href="$df/d83/classopencog_1_1TargetSet.html#a4f8d0d25a3556db1e15940020daf643a" title="opencog::TargetSet\l::select" alt="" coords="233,5,367,46"/>
+<area shape="rect" id="node3" href="$d6/d95/classopencog_1_1BackwardChainer.html#ac8277f22eeefd76b064fd36f269a3e2d" title="opencog::BackwardChainer\l::do_step" alt="" coords="416,5,595,46"/>
+</map>

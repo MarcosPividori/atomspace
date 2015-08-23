@@ -1,0 +1,5 @@
+<map id="ZMQAttentionValueHolderMessage::set_vlti" name="ZMQAttentionValueHolderMessage::set_vlti">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a2556f88ae9dbf340a04c323d0f30fc37" title="opencog::ProtocolBufferSerializer\l::serializeAttentionValue" alt="" coords="284,5,495,46"/>
+<area shape="rect" id="node4" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#ab2668262a78497f5151202b201a9a00e" title="ZMQAttentionValueHolderMessage\l::MergeFrom" alt="" coords="278,70,501,111"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a20ad65745dd3f593e30681913d67f2fe" title="opencog::ProtocolBufferSerializer\l::serializeAttentionValueHolder" alt="" coords="549,5,760,46"/>
+</map>

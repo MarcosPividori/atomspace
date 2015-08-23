@@ -1,0 +1,4 @@
+<map id="opencog::PatternMatchCallback::node_match" name="opencog::PatternMatchCallback::node_match">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#ac4d14ad8c998c3a2ca6a6abb4fb7cf32" title="Compare two nodes, one in the pattern, one proposed grounding. " alt="" coords="259,5,453,46"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="501,5,696,46"/>
+</map>

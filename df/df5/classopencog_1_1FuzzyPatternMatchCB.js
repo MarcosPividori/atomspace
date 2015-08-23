@@ -1,0 +1,25 @@
+var classopencog_1_1FuzzyPatternMatchCB =
+[
+    [ "Starter", "d7/da3/structopencog_1_1FuzzyPatternMatchCB_1_1Starter.html", "d7/da3/structopencog_1_1FuzzyPatternMatchCB_1_1Starter" ],
+    [ "FuzzyPatternMatchCB", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#ad2ae2e3361247674a21b05ff21fa8d67", null ],
+    [ "check_if_accept", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#abe0af41e981ecabc6fcb7889b456ba6a", null ],
+    [ "find_starters", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aa24d9f1ee6a10b7569ec32bc4ecb088c", null ],
+    [ "fuzzy_match", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#af4188f10e5d77aef4b8da082417f4863", null ],
+    [ "grounding", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#af4d3d4878a2d8073917325fc6a957cc1", null ],
+    [ "initiate_search", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a13fc4446e362503e5697c784e9341ea4", null ],
+    [ "link_match", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a5a5f5304c026634b320e5c32218003af", null ],
+    [ "node_match", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a4557e8267804e471b6ecc3ec090e709e", null ],
+    [ "set_pattern", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#adac2285b79bd30e7caf2399e4dc54c55", null ],
+    [ "_pattern", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#acd68d03559afa88e2f8360b679e97abc", null ],
+    [ "clause", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a5b37adbede3baee9a9119c8e699b7fd7", null ],
+    [ "excl_list", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#ad9c1ccd335fbb55516fbbc6ed83d547c", null ],
+    [ "in_set_sizes", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aa689374804910eb0a1c24cfcf739e8c3", null ],
+    [ "max_similarity", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aa088689ea66469020f763ec090c7513c", null ],
+    [ "min_size_diff", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aeb9a810230cabf667c7944d7682ac0d9", null ],
+    [ "pat_nodes", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a8ca7e82f53927097ab2b519a93f39e38", null ],
+    [ "pat_size", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a363ef547726ed754bd629fbb5db05290", null ],
+    [ "prev_compared", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#adb4a6db5e0c2ea788526b8acf085d05c", null ],
+    [ "rtn_type", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a55d9f876111efcbc69bd78748e70758f", null ],
+    [ "solns", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#ab10a57646df8225d3bed797bddbc33a6", null ],
+    [ "starters", "df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aedd96d9671e9883342d093544da649e6", null ]
+];

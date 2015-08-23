@@ -1,0 +1,9 @@
+<map id="opencog::AtomTable::put_atom_into_index" name="opencog::AtomTable::put_atom_into_index">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="201,176,367,203"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#aff149a05ef962966b1081e4fc111797c" title="opencog::AtomSpace\l::add_atom" alt="" coords="417,5,562,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a9fe714343ca5345a282b5747386a70d4" title="opencog::AtomSpace\l::add_node" alt="" coords="417,70,562,111"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html#a0fc100c7a19d30173526edd49796c86f" title="opencog::AtomSpace\l::get_node" alt="" coords="417,135,562,177"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#acbfa75e7eb74aa039eda840ac1035804" title="opencog::AtomSpace\l::add_link" alt="" coords="417,201,562,242"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html#af574a11e6d0ad66ea0a9f9f10aca0161" title="opencog::AtomSpace\l::get_link" alt="" coords="417,266,562,307"/>
+<area shape="rect" id="node8" href="$d2/d55/classopencog_1_1AtomSpace.html#a226a0b59d86e738c10555377bf324969" title="opencog::AtomSpace\l::fetch_atom" alt="" coords="417,331,562,373"/>
+</map>

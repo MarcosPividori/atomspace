@@ -1,0 +1,10 @@
+<map id="opencog::PythonEval::atomspace_py_object" name="opencog::PythonEval::atomspace_py_object">
+<area shape="rect" id="node2" href="$df/d55/classopencog_1_1PythonEval.html#a8bf5059709b9cf9f6937481d449e81e6" title="opencog::PythonEval\l::initialize_python\l_objects_and_imports" alt="" coords="208,12,355,68"/>
+<area shape="rect" id="node4" href="$df/d55/classopencog_1_1PythonEval.html#a0c1d610c22eb77717c1fdd72e54408ec" title="opencog::PythonEval\l::call_user_function" alt="" coords="211,106,352,147"/>
+<area shape="rect" id="node7" href="$df/d55/classopencog_1_1PythonEval.html#aafa65d097ae5d39df4fe5f34e4317f8e" title="opencog::PythonEval\l::import_module" alt="" coords="211,201,352,242"/>
+<area shape="rect" id="node3" href="$df/d55/classopencog_1_1PythonEval.html#aca775d5641e46634f17dcd3f35cdc38a" title="opencog::PythonEval\l::PythonEval" alt="" coords="409,5,551,46"/>
+<area shape="rect" id="node5" href="$df/d55/classopencog_1_1PythonEval.html#af7a8cd4054ffe69df50181827c52e1f0" title="opencog::PythonEval\l::apply" alt="" coords="409,70,551,111"/>
+<area shape="rect" id="node6" href="$df/d55/classopencog_1_1PythonEval.html#a815d0196480df375d7543af8dd54e0d2" title="opencog::PythonEval\l::apply_tv" alt="" coords="409,135,551,177"/>
+<area shape="rect" id="node8" href="$df/d55/classopencog_1_1PythonEval.html#af6480416ba1830c268fbb5f1f5dc3449" title="opencog::PythonEval\l::add_module_directory" alt="" coords="403,201,557,242"/>
+<area shape="rect" id="node9" href="$df/d55/classopencog_1_1PythonEval.html#a46e811f14112ce0c70606fff18ac146b" title="opencog::PythonEval\l::add_module_file" alt="" coords="409,266,551,307"/>
+</map>

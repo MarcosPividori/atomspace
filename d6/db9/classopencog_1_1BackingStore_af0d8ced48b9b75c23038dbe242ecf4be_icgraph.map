@@ -1,0 +1,4 @@
+<map id="opencog::BackingStore::getIncomingSet" name="opencog::BackingStore::getIncomingSet">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a0834757b938067e8c9086183ac85a313" title="opencog::AtomSpace\l::fetch_incoming_set" alt="" coords="209,5,354,46"/>
+<area shape="rect" id="node3" href="$d8/d41/classopencog_1_1PersistSCM.html#a9f1b5cedeec4c13f30f39d036248f6c7" title="opencog::PersistSCM\l::fetch_incoming_set" alt="" coords="403,5,549,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opencog::HandleSetIndex::get" name="opencog::HandleSetIndex::get">
+<area shape="rect" id="node2" href="$dc/d21/classopencog_1_1IncomingIndex.html#ac0349561fcf1d34e4efa75432d8a09cf" title="opencog::IncomingIndex\l::insertAtom" alt="" coords="246,5,407,46"/>
+<area shape="rect" id="node3" href="$dc/d21/classopencog_1_1IncomingIndex.html#a806263cbb828569e29d91adea6e1e3e3" title="opencog::IncomingIndex\l::removeAtom" alt="" coords="246,70,407,111"/>
+<area shape="rect" id="node4" href="$dc/d21/classopencog_1_1IncomingIndex.html#a0d8d1458deff1fb7d258427cfa1351ca" title="opencog::IncomingIndex\l::getIncomingSet" alt="" coords="246,135,407,177"/>
+<area shape="rect" id="node5" href="$dc/d21/classopencog_1_1IncomingIndex.html#ae569544c11ea74ff1e2d05cc707388cf" title="opencog::IncomingIndex\l::begin" alt="" coords="246,201,407,242"/>
+</map>

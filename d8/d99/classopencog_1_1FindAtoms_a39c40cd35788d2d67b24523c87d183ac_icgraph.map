@@ -1,0 +1,21 @@
+<map id="opencog::FindAtoms::search_set" name="opencog::FindAtoms::search_set">
+<area shape="rect" id="node2" href="$d2/d43/classopencog_1_1PatternLink.html#ab2ee0ba78fe140de6df3730ceba5ed0e" title="opencog::PatternLink\l::unbundle_virtual" alt="" coords="225,70,367,111"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#a0ae49ad0181c1f9f083cab9d51816c71" title="opencog::get_connected\l_components" alt="" coords="215,5,377,46"/>
+<area shape="rect" id="node6" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="209,135,383,177"/>
+<area shape="rect" id="node8" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="719,333,897,374"/>
+<area shape="rect" id="node10" href="$d6/d95/classopencog_1_1BackwardChainer.html#affad62fad13ecc94aaa28b2a16652de4" title="opencog::BackwardChainer\l::match_knowledge_base" alt="" coords="207,253,385,294"/>
+<area shape="rect" id="node11" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4054c27984aedb47cbaec781efc5ecd6" title="opencog::BackwardChainer\l::ground_premises" alt="" coords="463,303,641,345"/>
+<area shape="rect" id="node12" href="$d6/d95/classopencog_1_1BackwardChainer.html#a3bb6444b221fcb277ca8b7d87bcd0978" title="opencog::BackwardChainer\l::unify" alt="" coords="207,370,385,411"/>
+<area shape="rect" id="node14" href="$d6/d95/classopencog_1_1BackwardChainer.html#a3404e80459f01e5a42ced5627b772411" title="opencog::BackwardChainer\l::gen_sub_varlist" alt="" coords="207,435,385,477"/>
+<area shape="rect" id="node15" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f" title="opencog::DefaultForwardChainer\lCB::unify" alt="" coords="704,610,912,651"/>
+<area shape="rect" id="node18" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#abd13ca1bb78b3f60f07f5a110bb2296d" title="opencog::DefaultForwardChainer\lCB::gen_sub_varlist" alt="" coords="192,589,400,630"/>
+<area shape="rect" id="node20" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#af398199e5423cd6fce068cdbee3f5f03" title="opencog::DefaultForwardChainer\lCB::is_valid_implicant" alt="" coords="448,705,656,746"/>
+<area shape="rect" id="node3" href="$d2/d43/classopencog_1_1PatternLink.html#a255aee332f5584075da627a45ae89ddb" title="opencog::PatternLink\l::common_init" alt="" coords="481,5,623,46"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a495e0f7f1b70a6f5f4afea9cc8b4885c" title="opencog::PatternLink\l::PatternLink" alt="" coords="481,70,623,111"/>
+<area shape="rect" id="node7" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="465,135,639,177"/>
+<area shape="rect" id="node9" href="$d6/d95/classopencog_1_1BackwardChainer.html#ac8277f22eeefd76b064fd36f269a3e2d" title="opencog::BackwardChainer\l::do_step" alt="" coords="975,333,1153,374"/>
+<area shape="rect" id="node13" href="$d6/d95/classopencog_1_1BackwardChainer.html#a8263128cde6e46e9f30702302774e820" title="opencog::BackwardChainer\l::filter_rules" alt="" coords="463,421,641,462"/>
+<area shape="rect" id="node16" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a4ed5c58e80e7ac22aad8658a18aa45f3" title="opencog::DefaultForwardChainer\lCB::choose_rules" alt="" coords="960,577,1168,618"/>
+<area shape="rect" id="node17" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a82fa81675839c7fbba6e6b840c927060" title="opencog::DefaultForwardChainer\lCB::subatom_unify" alt="" coords="960,642,1168,683"/>
+<area shape="rect" id="node19" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#af85c5dc88e9af0de188eb536f5bbd51d" title="opencog::DefaultForwardChainer\lCB::substitute_rule_part" alt="" coords="448,639,656,681"/>
+</map>

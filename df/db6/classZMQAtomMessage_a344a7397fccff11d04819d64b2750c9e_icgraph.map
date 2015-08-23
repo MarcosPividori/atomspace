@@ -1,0 +1,6 @@
+<map id="ZMQAtomMessage::set_has_type" name="ZMQAtomMessage::set_has_type">
+<area shape="rect" id="node2" href="$df/db6/classZMQAtomMessage.html#afd61fda8694bf38a611739f07af7acb3" title="ZMQAtomMessage::MergePartial\lFromCodedStream" alt="" coords="211,5,423,46"/>
+<area shape="rect" id="node3" href="$df/db6/classZMQAtomMessage.html#a2847f0172e0f18a4425a2bc6cd392154" title="ZMQAtomMessage::set_type" alt="" coords="224,71,411,97"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#aa7119edea69bd0b165f93a1232fee286" title="opencog::ProtocolBufferSerializer\l::serializeAtom" alt="" coords="472,34,683,75"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a0cad03cbcda48a2688e72f8e9e4ee888" title="ZMQAtomMessage::MergeFrom" alt="" coords="475,100,680,127"/>
+</map>

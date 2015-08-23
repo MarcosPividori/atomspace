@@ -1,0 +1,12 @@
+<map id="opencog/query/AttentionalFocusCB.h" name="opencog/query/AttentionalFocusCB.h">
+<area shape="rect" id="node2" href="$d2/d58/AttentionalFocusCB_8cc.html" title="opencog/query/Attentional\lFocusCB.cc" alt="" coords="241,103,412,145"/>
+<area shape="rect" id="node3" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="437,111,656,137"/>
+<area shape="rect" id="node9" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="978,96,1181,152"/>
+<area shape="rect" id="node4" href="$d4/d1a/Implicator_8cc.html" title="opencog/query/Implicator.cc" alt="" coords="5,215,189,241"/>
+<area shape="rect" id="node5" href="$d2/d26/BackwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer\lPMCB.h" alt="" coords="214,200,441,256"/>
+<area shape="rect" id="node6" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="513,304,713,360"/>
+<area shape="rect" id="node7" href="$d2/d46/VarGroundingPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/VarGrounding\lPMCB.h" alt="" coords="517,200,709,256"/>
+<area shape="rect" id="node8" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="733,207,955,249"/>
+<area shape="rect" id="node10" href="$d3/d98/DefaultForwardChainerCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.h" alt="" coords="979,200,1180,256"/>
+<area shape="rect" id="node11" href="$dd/d10/ForwardChainerPMCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.cc" alt="" coords="1205,200,1408,256"/>
+</map>

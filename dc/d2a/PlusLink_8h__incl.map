@@ -1,0 +1,11 @@
+<map id="opencog/atoms/reduct/PlusLink.h" name="opencog/atoms/reduct/PlusLink.h">
+<area shape="rect" id="node2" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="385,277,604,304"/>
+<area shape="rect" id="node14" href="$d6/d81/ArithmeticLink_8h.html" title="opencog/atoms/reduct\l/ArithmeticLink.h" alt="" coords="482,97,632,138"/>
+<area shape="rect" id="node7" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="533,360,747,387"/>
+<area shape="rect" id="node9" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="929,443,1124,485"/>
+<area shape="rect" id="node10" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="343,451,563,477"/>
+<area shape="rect" id="node11" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="690,451,904,477"/>
+<area shape="rect" id="node12" href="$d1/d42/AttentionBank_8h.html" title="opencog/atomspace/Attention\lBank.h" alt="" coords="823,353,1017,394"/>
+<area shape="rect" id="node13" href="$d9/dc4/BackingStore_8h.html" title="opencog/atomspace/Backing\lStore.h" alt="" coords="217,353,407,394"/>
+<area shape="rect" id="node15" href="$d1/d47/FoldLink_8h.html" title="opencog/atoms/reduct\l/FoldLink.h" alt="" coords="533,187,683,229"/>
+</map>

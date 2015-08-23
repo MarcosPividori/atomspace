@@ -1,0 +1,8 @@
+<map id="opencog::AtomSpace::get_handle" name="opencog::AtomSpace::get_handle">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a5a7bd104477e8e3fcc56fd317f0d30f2" title="opencog::AtomSpace\l::get_handle" alt="" coords="219,5,365,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#af49621f5d3860e1cf73d9f55f0ce4b2e" title="opencog::AtomSpace\l::get_handles_by_name" alt="" coords="214,70,370,111"/>
+<area shape="rect" id="node4" href="$d0/de1/group__grp__atomspace.html#ga2739b09b1e07f7c20e4f746762f52177" title="opencog::add_prefixed_node" alt="" coords="200,136,384,163"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a8cce86839db8fbc9c0914485a6db374b" title="opencog::SchemeSmob\l::ss_node" alt="" coords="213,187,371,229"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#af4b3a9f2cff7e8b7eb66829dce4cf659" title="opencog::SchemeSmob\l::ss_link" alt="" coords="213,253,371,294"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="433,221,591,262"/>
+</map>

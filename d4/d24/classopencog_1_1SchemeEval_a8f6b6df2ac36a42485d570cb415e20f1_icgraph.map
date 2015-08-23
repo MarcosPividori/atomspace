@@ -1,0 +1,9 @@
+<map id="opencog::SchemeEval::set_captured_stack" name="opencog::SchemeEval::set_captured_stack">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#a4780737b5a64f702bde4546b76b0bcdc" title="opencog::SchemeEval\l::preunwind_handler" alt="" coords="203,53,352,94"/>
+<area shape="rect" id="node4" href="$d4/d24/classopencog_1_1SchemeEval.html#a59c4a6e3502e0b61bdd5935e90cb6dff" title="opencog::SchemeEval\l::do_eval" alt="" coords="611,50,760,91"/>
+<area shape="rect" id="node5" href="$d4/d24/classopencog_1_1SchemeEval.html#a6ec0f4cf4969aab036e877d5cffb685e" title="opencog::SchemeEval\l::do_scm_eval" alt="" coords="611,122,760,163"/>
+<area shape="rect" id="node6" href="$d4/d24/classopencog_1_1SchemeEval.html#a5c715646315c3be178a01fd2e5de068f" title="opencog::SchemeEval\l::catch_handler" alt="" coords="203,122,352,163"/>
+<area shape="rect" id="node8" href="$d4/d24/classopencog_1_1SchemeEval.html#a963374433d7214432a81534d740679ca" title="opencog::SchemeEval\l::do_poll_result" alt="" coords="203,239,352,281"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#af598f10e593b54a588281ec182502ef2" title="opencog::SchemeEval\l::preunwind_handler\l_wrapper" alt="" coords="407,43,556,99"/>
+<area shape="rect" id="node7" href="$d4/d24/classopencog_1_1SchemeEval.html#a7b26aa2b3cc55e65a91108958d33dbeb" title="opencog::SchemeEval\l::catch_handler_wrapper" alt="" coords="401,122,562,163"/>
+</map>

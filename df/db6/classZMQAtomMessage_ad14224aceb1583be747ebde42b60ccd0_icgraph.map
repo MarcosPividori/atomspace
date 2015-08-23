@@ -1,0 +1,6 @@
+<map id="ZMQAtomMessage::set_has_truthvalue" name="ZMQAtomMessage::set_has_truthvalue">
+<area shape="rect" id="node2" href="$df/db6/classZMQAtomMessage.html#a290b7623eead29c51a25fd080f083610" title="ZMQAtomMessage::mutable\l_truthvalue" alt="" coords="211,70,397,111"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#aa7119edea69bd0b165f93a1232fee286" title="opencog::ProtocolBufferSerializer\l::serializeAtom" alt="" coords="447,5,657,46"/>
+<area shape="rect" id="node4" href="$df/db6/classZMQAtomMessage.html#afd61fda8694bf38a611739f07af7acb3" title="ZMQAtomMessage::MergePartial\lFromCodedStream" alt="" coords="446,70,658,111"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a0cad03cbcda48a2688e72f8e9e4ee888" title="ZMQAtomMessage::MergeFrom" alt="" coords="449,136,655,163"/>
+</map>

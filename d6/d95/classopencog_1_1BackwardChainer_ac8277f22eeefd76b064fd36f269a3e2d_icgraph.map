@@ -1,0 +1,4 @@
+<map id="opencog::BackwardChainer::do_step" name="opencog::BackwardChainer::do_step">
+<area shape="rect" id="node2" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4e142501d5b8b6b903d69064ae2e9b9b" title="opencog::BackwardChainer\l::do_chain" alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a4ed0171b58c3ba389f963b517d4a9271" title="opencog::InferenceSCM\l::do_backward_chaining" alt="" coords="459,5,619,46"/>
+</map>

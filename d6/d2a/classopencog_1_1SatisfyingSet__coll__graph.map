@@ -1,0 +1,11 @@
+<map id="opencog::SatisfyingSet" name="opencog::SatisfyingSet">
+<area shape="rect" id="node2" href="$d7/d33/classopencog_1_1InitiateSearchCB.html" title="opencog::InitiateSearchCB" alt="" coords="578,143,753,169"/>
+<area shape="rect" id="node3" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="224,309,429,336"/>
+<area shape="rect" id="node9" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="558,325,773,352"/>
+<area shape="rect" id="node4" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="268,259,385,285"/>
+<area shape="rect" id="node5" href="$dd/d44/structopencog_1_1Variables.html" title="opencog::Variables" alt="" coords="262,5,391,32"/>
+<area shape="rect" id="node6" href="$d7/d55/classopencog_1_1ClassServer.html" title="opencog::ClassServer" alt="" coords="254,169,399,196"/>
+<area shape="rect" id="node7" href="$d2/da4/structopencog_1_1Pattern.html" title="opencog::Pattern" alt="" coords="267,56,386,83"/>
+<area shape="rect" id="node8" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="6,360,151,387"/>
+<area shape="rect" id="node10" href="$d2/d58/classopencog_1_1Instantiator.html" title="opencog::Instantiator" alt="" coords="256,360,397,387"/>
+</map>

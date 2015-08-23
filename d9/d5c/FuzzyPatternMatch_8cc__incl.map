@@ -1,0 +1,16 @@
+<map id="opencog/query/FuzzyMatch/FuzzyPatternMatch.cc" name="opencog/query/FuzzyMatch/FuzzyPatternMatch.cc">
+<area shape="rect" id="node2" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="671,269,890,296"/>
+<area shape="rect" id="node15" href="$df/d92/PatternLink_8h.html" title="opencog/atoms/bind\l/PatternLink.h" alt="" coords="42,171,181,213"/>
+<area shape="rect" id="node19" href="$db/dc1/FuzzyPatternMatchCB_8h.html" title="FuzzyPatternMatchCB.h" alt="" coords="401,96,562,123"/>
+<area shape="rect" id="node21" href="$d5/dad/FuzzyPatternMatch_8h.html" title="FuzzyPatternMatch.h" alt="" coords="647,96,789,123"/>
+<area shape="rect" id="node7" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="956,360,1170,387"/>
+<area shape="rect" id="node9" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="494,443,689,485"/>
+<area shape="rect" id="node10" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="764,451,983,477"/>
+<area shape="rect" id="node12" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="1212,451,1426,477"/>
+<area shape="rect" id="node13" href="$d1/d42/AttentionBank_8h.html" title="opencog/atomspace/Attention\lBank.h" alt="" coords="474,353,669,394"/>
+<area shape="rect" id="node14" href="$d9/dc4/BackingStore_8h.html" title="opencog/atomspace/Backing\lStore.h" alt="" coords="281,443,470,485"/>
+<area shape="rect" id="node16" href="$d6/d31/Pattern_8h.html" title="opencog/query/Pattern.h" alt="" coords="43,451,206,477"/>
+<area shape="rect" id="node17" href="$d2/dac/VariableList_8h.html" title="opencog/atoms/bind\l/VariableList.h" alt="" coords="67,353,206,394"/>
+<area shape="rect" id="node18" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="149,262,337,303"/>
+<area shape="rect" id="node20" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="377,171,570,213"/>
+</map>

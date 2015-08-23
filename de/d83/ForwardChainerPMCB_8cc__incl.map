@@ -1,0 +1,12 @@
+<map id="opencog/rule&#45;engine/forwardchainer/ForwardChainerPMCB.cc" name="opencog/rule&#45;engine/forwardchainer/ForwardChainerPMCB.cc">
+<area shape="rect" id="node2" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="ForwardChainerPMCB.h" alt="" coords="320,109,479,136"/>
+<area shape="rect" id="node10" href="$dc/d45/URECommons_8h.html" title="opencog/rule&#45;engine\l/URECommons.h" alt="" coords="668,275,807,317"/>
+<area shape="rect" id="node3" href="$d4/d7d/FCMemory_8h.html" title="FCMemory.h" alt="" coords="5,192,99,219"/>
+<area shape="rect" id="node5" href="$d1/d15/Implicator_8h.html" title="opencog/query/Implicator.h" alt="" coords="123,192,300,219"/>
+<area shape="rect" id="node6" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="450,275,643,317"/>
+<area shape="rect" id="node8" href="$db/d63/InitiateSearchCB_8h.html" title="opencog/query/InitiateSearchCB.h" alt="" coords="207,283,425,309"/>
+<area shape="rect" id="node9" href="$d6/d41/AttentionalFocusCB_8h.html" title="opencog/query/Attentional\lFocusCB.h" alt="" coords="377,185,548,226"/>
+<area shape="rect" id="node4" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="206,365,425,392"/>
+<area shape="rect" id="node7" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="451,365,633,392"/>
+<area shape="rect" id="node13" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="1012,365,1204,392"/>
+</map>

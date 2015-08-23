@@ -1,0 +1,5 @@
+<map id="opencog::VariableList::get_variables" name="opencog::VariableList::get_variables">
+<area shape="rect" id="node2" href="$d2/d43/classopencog_1_1PatternLink.html#a4ac1f61fe0fddc89e9c21fbe08c780db" title="opencog::PatternLink\l::init_scoped_variables" alt="" coords="198,38,349,79"/>
+<area shape="rect" id="node3" href="$dc/dcc/classopencog_1_1BindLink.html#a87d813ff949dd27a39f14a5648f1e3be" title="opencog::BindLink::\lextract_variables" alt="" coords="403,5,536,46"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#ad254f62142ef520affe385480cfcae21" title="opencog::PatternLink\l::extract_variables" alt="" coords="398,70,541,111"/>
+</map>

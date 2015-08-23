@@ -1,0 +1,8 @@
+<map id="opencog::PatternMatchEngine::is_optional" name="opencog::PatternMatchEngine::is_optional">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a3f0923d88be13491e12046cb63aafedf" title="opencog::PatternMatchEngine\l::clause_accept" alt="" coords="248,95,443,137"/>
+<area shape="rect" id="node5" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afceb7da2344ec1d65f0a96e2b2c79ae5" title="opencog::PatternMatchEngine\l::do_next_clause" alt="" coords="733,154,928,195"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afdda402e667b5424fc7a52a89b7211bc" title="opencog::PatternMatchEngine\l::get_next_thinnest_clause" alt="" coords="248,238,443,279"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="491,5,685,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a6a69cda0ec4c8f6275a7c1b2ddad375d" title="opencog::PatternMatchEngine\l::explore_clause" alt="" coords="491,70,685,111"/>
+<area shape="rect" id="node7" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a2ff7f3cc1b255b388a26b5b78958e395" title="opencog::PatternMatchEngine\l::get_next_untried_clause" alt="" coords="491,238,685,279"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="opencog::ClassServer::getTypeName" name="opencog::ClassServer::getTypeName">
+<area shape="rect" id="node2" href="$dc/dcc/classopencog_1_1BindLink.html#a9fbd5870391ac31314ec8433f7484073" title="opencog::BindLink::\lBindLink" alt="" coords="239,5,372,46"/>
+<area shape="rect" id="node3" href="$de/df4/classopencog_1_1DefineLink.html#aac4f461a0e7366726bc3f9ec56b05215" title="opencog::DefineLink\l::DefineLink" alt="" coords="237,70,374,111"/>
+<area shape="rect" id="node4" href="$d9/de0/classopencog_1_1LambdaLink.html#afa480582bc6810b6ad0ba7def69e94a2" title="opencog::LambdaLink\l::LambdaLink" alt="" coords="232,135,379,177"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a55e5f9119172a699dc601de877a08c15" title="opencog::PatternLink\l::PatternLink" alt="" coords="234,201,377,242"/>
+<area shape="rect" id="node6" href="$dc/d31/classopencog_1_1VariableList.html#a5d751208a818268523119627f060dde2" title="opencog::VariableList\l::VariableList" alt="" coords="234,266,377,307"/>
+<area shape="rect" id="node7" href="$da/d10/classopencog_1_1AssignLink.html#a8668377e72a866419f102c420dba7271" title="opencog::AssignLink\l::AssignLink" alt="" coords="236,331,375,373"/>
+<area shape="rect" id="node8" href="$d2/d70/classopencog_1_1InsertLink.html#ad80b6e980c9b6d46b785ee565c840a2b" title="opencog::InsertLink\l::InsertLink" alt="" coords="239,397,372,438"/>
+<area shape="rect" id="node9" href="$de/dbc/classopencog_1_1RemoveLink.html#a0ca687dec594f6411c26d74664030657" title="opencog::RemoveLink\l::RemoveLink" alt="" coords="231,462,379,503"/>
+<area shape="rect" id="node10" href="$d8/d73/classopencog_1_1DeleteLink.html#a87b6c4d3222cf5939fb1e73ef89e747b" title="opencog::DeleteLink\l::DeleteLink" alt="" coords="236,527,375,569"/>
+<area shape="rect" id="node11" href="$d3/da0/classopencog_1_1Link.html#a58448a52e47d7472064ff233549177c2" title="opencog::Link::toShortString" alt="" coords="214,593,397,620"/>
+<area shape="rect" id="node12" href="$d4/d9e/classopencog_1_1Node.html#a60f224430b8fc7beeba79b5ec6fd1c02" title="opencog::Node::toShortString" alt="" coords="211,644,400,671"/>
+<area shape="rect" id="node13" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a1a520f6d7f8bdacf8d441b09a3aa2344" title="opencog::AtomSpaceBenchmark\l::makeRandomNode" alt="" coords="200,695,411,737"/>
+<area shape="rect" id="node14" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#ad41b11c733d9369df4ad25c4e5f98554" title="opencog::AtomSpaceBenchmark\l::makeRandomLink" alt="" coords="200,761,411,802"/>
+<area shape="rect" id="node15" href="$db/dcd/classopencog_1_1SchemeSmob.html#abced0360017b5b540fea15bd938ee02a" title="opencog::SchemeSmob\l::ss_type" alt="" coords="226,826,385,867"/>
+<area shape="rect" id="node17" href="$db/dcd/classopencog_1_1SchemeSmob.html#a38874f20dae10b79c1fe66fbfc272ecd" title="opencog::SchemeSmob\l::ss_get_types" alt="" coords="226,891,385,933"/>
+<area shape="rect" id="node18" href="$db/dcd/classopencog_1_1SchemeSmob.html#a217bc53c42079d04afaea619b9b51559" title="opencog::SchemeSmob\l::ss_get_subtypes" alt="" coords="226,957,385,998"/>
+<area shape="rect" id="node19" href="$db/dcd/classopencog_1_1SchemeSmob.html#a386288c57562a61ebb9894cf4a52a0c1" title="opencog::SchemeSmob\l::handle_to_string" alt="" coords="226,1022,385,1063"/>
+<area shape="rect" id="node20" href="$d0/d76/AtomSpace__CWrapper_8h.html#ad3b283a08883f29205503da57f772ea8" title="AtomSpace_getAtomByHandle" alt="" coords="205,1088,406,1115"/>
+<area shape="rect" id="node21" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="218,1139,393,1181"/>
+<area shape="rect" id="node23" href="$d7/d58/classopencog_1_1UREConfigReader.html#a325ae4784fd4c36091baa21f06ff36ae" title="opencog::UREConfigReader\l::fetch_num_param" alt="" coords="215,1205,395,1246"/>
+<area shape="rect" id="node16" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="470,891,629,933"/>
+<area shape="rect" id="node22" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="462,1139,637,1181"/>
+<area shape="rect" id="node24" href="$d7/d58/classopencog_1_1UREConfigReader.html#a71752db33ee06c79901bdceeb476cfb5" title="opencog::UREConfigReader\l::UREConfigReader" alt="" coords="459,1205,639,1246"/>
+</map>

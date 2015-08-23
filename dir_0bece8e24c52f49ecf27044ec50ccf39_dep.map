@@ -1,0 +1,19 @@
+<map id="opencog/atoms/bind" name="opencog/atoms/bind">
+<area shape="rect" id="node1" href="dir_0bece8e24c52f49ecf27044ec50ccf39.html" title="bind" alt="" coords="155,101,227,149"/>
+<area shape="rect" id="node2" href="dir_5b38ec9ccd7226fde552ba79f22e87cf.html" title="atomutils" alt="" coords="5,101,79,149"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000015_000021.html" title="2" alt="" coords="94,126,102,141"/>
+<area shape="rect" id="node3" href="dir_9a780a9186324b658073cb17d54af824.html" title="atomspace" alt="" coords="71,197,156,245"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000015_000019.html" title="12" alt="" coords="135,180,149,195"/>
+<area shape="rect" id="node4" href="dir_d2fccdd6b6e05f21d4093ea39715a9ce.html" title="core" alt="" coords="77,293,149,341"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000015_000016.html" title="2" alt="" coords="150,277,158,292"/>
+<area shape="rect" id="node5" href="dir_c209ca9852744f793a1c3643fa9a10c1.html" title="query" alt="" coords="81,5,153,53"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000015_000032.html" title="3" alt="" coords="136,66,144,81"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000021_000015.html" title="1" alt="" coords="132,110,140,124"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000021_000019.html" title="15" alt="" coords="85,170,99,185"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000019_000015.html" title="5" alt="" coords="158,152,166,166"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000019_000016.html" title="1" alt="" coords="109,267,117,282"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000016_000019.html" title="5" alt="" coords="110,257,118,272"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000032_000021.html" title="4" alt="" coords="75,85,83,100"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000032_000019.html" title="28" alt="" coords="115,172,130,186"/>
+<area shape="rect" id="clust1" href="dir_ff66ff4524ec8202b36690286516173a.html" title="atoms" alt="" coords="144,65,237,160"/>
+</map>

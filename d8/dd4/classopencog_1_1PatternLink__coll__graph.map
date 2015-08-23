@@ -1,0 +1,7 @@
+<map id="opencog::PatternLink" name="opencog::PatternLink">
+<area shape="rect" id="node2" href="$d3/da0/classopencog_1_1Link.html" title="opencog::Link" alt="" coords="8,96,109,123"/>
+<area shape="rect" id="node3" href="$d6/d0d/classopencog_1_1Atom.html" title="opencog::Atom" alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node4" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="133,96,249,123"/>
+<area shape="rect" id="node5" href="$dd/d44/structopencog_1_1Variables.html" title="opencog::Variables" alt="" coords="377,96,505,123"/>
+<area shape="rect" id="node6" href="$d2/da4/structopencog_1_1Pattern.html" title="opencog::Pattern" alt="" coords="530,96,648,123"/>
+</map>

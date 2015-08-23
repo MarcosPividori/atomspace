@@ -1,0 +1,6 @@
+<map id="get_module_paths" name="get_module_paths">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#a9f5d9be7d48abf1358b2a6be2a33ef2d" title="opencog::global_python\l_initialize" alt="" coords="189,5,345,46"/>
+<area shape="rect" id="node5" href="$df/d55/classopencog_1_1PythonEval.html#a375776bca1cf1c4168d494679144c961" title="opencog::PythonEval\l::add_modules_from_path" alt="" coords="182,70,351,111"/>
+<area shape="rect" id="node3" href="$dc/d0d/namespaceopencog.html#ab85c14c8a7c23c5d026c128121dae16d" title="opencog::initialize\l_opencog" alt="" coords="409,5,532,46"/>
+<area shape="rect" id="node4" href="$df/d55/classopencog_1_1PythonEval.html#aca775d5641e46634f17dcd3f35cdc38a" title="opencog::PythonEval\l::PythonEval" alt="" coords="400,70,541,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ZMQSingleTruthValueMessage::set_has_symmetric" name="ZMQSingleTruthValueMessage::set_has_symmetric">
+<area shape="rect" id="node2" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a38f1f11d530d4c8c2ef9d2d594d84724" title="ZMQSingleTruthValueMessage\l::MergePartialFromCodedStream" alt="" coords="253,5,464,46"/>
+<area shape="rect" id="node3" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a5ba628e680abc396be630330d5ab52ba" title="ZMQSingleTruthValueMessage\l::set_symmetric" alt="" coords="259,70,459,111"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a3aaa731f14e4e83ca425acb548d77df6" title="opencog::ProtocolBufferSerializer\l::serializeIndefiniteTruthValue" alt="" coords="512,37,723,78"/>
+<area shape="rect" id="node5" href="$dd/d3a/classZMQSingleTruthValueMessage.html#ae991d3e030095a2ebcf408f63f914d09" title="ZMQSingleTruthValueMessage\l::MergeFrom" alt="" coords="517,102,717,143"/>
+</map>

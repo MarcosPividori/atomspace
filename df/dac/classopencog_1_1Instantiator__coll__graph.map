@@ -1,0 +1,6 @@
+<map id="opencog::Instantiator" name="opencog::Instantiator">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="114,96,259,123"/>
+<area shape="rect" id="node5" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="171,187,311,213"/>
+<area shape="rect" id="node3" href="$df/d07/classopencog_1_1AttentionBank.html" title="opencog::AttentionBank" alt="" coords="17,5,175,32"/>
+<area shape="rect" id="node4" href="$d6/db9/classopencog_1_1BackingStore.html" title="opencog::BackingStore" alt="" coords="200,5,353,32"/>
+</map>

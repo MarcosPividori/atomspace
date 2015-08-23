@@ -1,0 +1,14 @@
+<map id="opencog/query/Implicator.h" name="opencog/query/Implicator.h">
+<area shape="rect" id="node2" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="411,95,629,121"/>
+<area shape="rect" id="node8" href="$de/d65/PatternMatch_8h.html" title="opencog/query/PatternMatch.h" alt="" coords="981,95,1179,121"/>
+<area shape="rect" id="node11" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="1429,80,1632,136"/>
+<area shape="rect" id="node3" href="$d4/d1a/Implicator_8cc.html" title="opencog/query/Implicator.cc" alt="" coords="769,199,953,225"/>
+<area shape="rect" id="node4" href="$d2/d26/BackwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer\lPMCB.h" alt="" coords="5,184,232,240"/>
+<area shape="rect" id="node5" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="641,288,841,344"/>
+<area shape="rect" id="node6" href="$d2/d46/VarGroundingPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/VarGrounding\lPMCB.h" alt="" coords="308,184,500,240"/>
+<area shape="rect" id="node7" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="524,191,745,233"/>
+<area shape="rect" id="node9" href="$d2/de7/PatternMatch_8cc.html" title="opencog/query/PatternMatch.cc" alt="" coords="977,199,1183,225"/>
+<area shape="rect" id="node10" href="$de/d6e/PatternSCM_8cc.html" title="opencog/query/PatternSCM.cc" alt="" coords="1207,199,1405,225"/>
+<area shape="rect" id="node12" href="$d3/d98/DefaultForwardChainerCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.h" alt="" coords="1430,184,1631,240"/>
+<area shape="rect" id="node13" href="$dd/d10/ForwardChainerPMCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.cc" alt="" coords="1655,184,1859,240"/>
+</map>

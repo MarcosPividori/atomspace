@@ -1,0 +1,9 @@
+<map id="ZMQSingleTruthValueMessage::has_versionhandle" name="ZMQSingleTruthValueMessage::has_versionhandle">
+<area shape="rect" id="node2" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a754380901d07df7606e7869dee5ea628" title="ZMQSingleTruthValueMessage\l::Clear" alt="" coords="265,5,465,46"/>
+<area shape="rect" id="node4" href="$dd/d3a/classZMQSingleTruthValueMessage.html#adcc4c2d985c5f3b21b84b2996b53caf8" title="ZMQSingleTruthValueMessage\l::SerializeWithCachedSizes" alt="" coords="265,70,465,111"/>
+<area shape="rect" id="node5" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a0a54c4966f29227ed5775ba5f40d5ec6" title="ZMQSingleTruthValueMessage\l::SerializeWithCachedSizesToArray" alt="" coords="254,135,477,177"/>
+<area shape="rect" id="node6" href="$dd/d3a/classZMQSingleTruthValueMessage.html#aedd6bd0e9be6761463d2ebb5ee4cefca" title="ZMQSingleTruthValueMessage\l::ByteSize" alt="" coords="265,201,465,242"/>
+<area shape="rect" id="node7" href="$dd/d3a/classZMQSingleTruthValueMessage.html#ae991d3e030095a2ebcf408f63f914d09" title="ZMQSingleTruthValueMessage\l::MergeFrom" alt="" coords="265,266,465,307"/>
+<area shape="rect" id="node8" href="$dd/d3a/classZMQSingleTruthValueMessage.html#abd8b4a21978766140f537f60b92dadb4" title="ZMQSingleTruthValueMessage\l::IsInitialized" alt="" coords="265,331,465,373"/>
+<area shape="rect" id="node3" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a7c35aea1dda7fba31d32f3208c67d6fd" title="ZMQSingleTruthValueMessage\l::CopyFrom" alt="" coords="525,5,725,46"/>
+</map>

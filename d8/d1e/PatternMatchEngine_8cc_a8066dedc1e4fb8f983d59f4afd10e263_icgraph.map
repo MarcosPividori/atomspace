@@ -1,0 +1,10 @@
+<map id="prtmsg" name="prtmsg">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aa80a7e1ba07387ad2fb4087134087b56" title="opencog::PatternMatchEngine\l::variable_compare" alt="" coords="115,5,309,46"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="357,63,552,105"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#ac4d14ad8c998c3a2ca6a6abb4fb7cf32" title="Compare two nodes, one in the pattern, one proposed grounding. " alt="" coords="115,122,309,163"/>
+<area shape="rect" id="node5" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="843,210,1037,251"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a3f0923d88be13491e12046cb63aafedf" title="opencog::PatternMatchEngine\l::clause_accept" alt="" coords="600,239,795,281"/>
+<area shape="rect" id="node7" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afceb7da2344ec1d65f0a96e2b2c79ae5" title="opencog::PatternMatchEngine\l::do_next_clause" alt="" coords="357,290,552,331"/>
+<area shape="rect" id="node8" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#ae497a235a7c69a7d0036cf4c46fb08ca" title="opencog::PatternMatchEngine\l::print_solution" alt="" coords="115,341,309,382"/>
+<area shape="rect" id="node9" href="$d2/dc4/classopencog_1_1PatternMatch.html#a49523abc0662e1ac05ff9da59d5869d6" title="opencog::PatternMatch\l::recursive_virtual" alt="" coords="377,355,532,397"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="opencog::TypeNode::validate" name="opencog::TypeNode::validate">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#ad85f950e08e1f48e1e4c577794ca08e3" title="opencog::AtomTable\l::getHandle" alt="" coords="195,283,335,325"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#aff149a05ef962966b1081e4fc111797c" title="opencog::AtomSpace\l::add_atom" alt="" coords="601,5,746,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a9fe714343ca5345a282b5747386a70d4" title="opencog::AtomSpace\l::add_node" alt="" coords="601,70,746,111"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html#a0fc100c7a19d30173526edd49796c86f" title="opencog::AtomSpace\l::get_node" alt="" coords="601,135,746,177"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#acbfa75e7eb74aa039eda840ac1035804" title="opencog::AtomSpace\l::add_link" alt="" coords="601,201,746,242"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html#af574a11e6d0ad66ea0a9f9f10aca0161" title="opencog::AtomSpace\l::get_link" alt="" coords="601,266,746,307"/>
+<area shape="rect" id="node8" href="$d2/d55/classopencog_1_1AtomSpace.html#a226a0b59d86e738c10555377bf324969" title="opencog::AtomSpace\l::fetch_atom" alt="" coords="601,331,746,373"/>
+<area shape="rect" id="node9" href="$d2/d55/classopencog_1_1AtomSpace.html#a2a60aca3290343322c8890382e72943b" title="opencog::AtomSpace\l::get_atom" alt="" coords="795,361,941,402"/>
+<area shape="rect" id="node10" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="385,189,551,216"/>
+<area shape="rect" id="node11" href="$d9/da7/classopencog_1_1AtomTable.html#a085e1558aa0ef53e0dad9d2890feb6e8" title="opencog::AtomTable\l::extract" alt="" coords="398,446,538,487"/>
+<area shape="rect" id="node12" href="$d9/da7/classopencog_1_1AtomTable.html#abd26eef2d35fe24411c4e14aeee59f4b" title="opencog::AtomTable\l::getNode" alt="" coords="398,511,538,553"/>
+<area shape="rect" id="node13" href="$d9/da7/classopencog_1_1AtomTable.html#a052ebc04c63342e031d48cf5c0554a92" title="opencog::AtomTable\l::getLink" alt="" coords="398,577,538,618"/>
+</map>

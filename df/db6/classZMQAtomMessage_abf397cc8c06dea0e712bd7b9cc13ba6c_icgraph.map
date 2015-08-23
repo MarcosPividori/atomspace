@@ -1,0 +1,6 @@
+<map id="ZMQAtomMessage::mutable_trail" name="ZMQAtomMessage::mutable_trail">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1a31d254894acf9fc6419c16ef556e95" title="opencog::ProtocolBufferSerializer\l::serializeLink" alt="" coords="241,5,452,46"/>
+<area shape="rect" id="node4" href="$df/db6/classZMQAtomMessage.html#afd61fda8694bf38a611739f07af7acb3" title="ZMQAtomMessage::MergePartial\lFromCodedStream" alt="" coords="241,70,453,111"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a0cad03cbcda48a2688e72f8e9e4ee888" title="ZMQAtomMessage::MergeFrom" alt="" coords="244,136,449,163"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a5c03256b592534bb2ccd7563d60536a7" title="opencog::ProtocolBufferSerializer\l::serialize" alt="" coords="501,5,712,46"/>
+</map>

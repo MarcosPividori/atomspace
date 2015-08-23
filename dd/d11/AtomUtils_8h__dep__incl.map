@@ -1,0 +1,9 @@
+<map id="opencog/atomutils/AtomUtils.h" name="opencog/atomutils/AtomUtils.h">
+<area shape="rect" id="node2" href="$d0/db0/AtomUtils_8cc.html" title="opencog/atomutils/AtomUtils.cc" alt="" coords="5,95,208,121"/>
+<area shape="rect" id="node3" href="$dd/d94/FuzzyPatternMatchCB_8cc.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatchCB.cc" alt="" coords="233,87,412,129"/>
+<area shape="rect" id="node4" href="$d0/d51/BackwardChainer_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.cc" alt="" coords="436,87,681,129"/>
+<area shape="rect" id="node5" href="$d6/de6/Target_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/Target.cc" alt="" coords="705,87,887,129"/>
+<area shape="rect" id="node6" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="911,80,1112,136"/>
+<area shape="rect" id="node7" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="1137,87,1359,129"/>
+<area shape="rect" id="node8" href="$dc/df5/URECommons_8cc.html" title="opencog/rule&#45;engine\l/URECommons.cc" alt="" coords="1383,87,1521,129"/>
+</map>

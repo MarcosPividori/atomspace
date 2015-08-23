@@ -1,0 +1,5 @@
+<map id="opencog::PatternMatchEngine::clear_current_state" name="opencog::PatternMatchEngine::clear_current_state">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a7547a30d0209c7d0fa37cc35797ef952" title="opencog::PatternMatchEngine\l::redex_compare" alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afb2cf5a42d3dcde142fea426b66495fb" title="opencog::PatternMatchEngine\l::explore_redex" alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#ae91355f640eb86c26b8bcf81e3f5e35d" title="opencog::PatternMatchEngine\l::explore_neighborhood" alt="" coords="491,70,685,111"/>
+</map>

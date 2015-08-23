@@ -1,0 +1,6 @@
+<map id="ZMQTruthValueMessage::singletruthvalue" name="ZMQTruthValueMessage::singletruthvalue">
+<area shape="rect" id="node2" href="$d0/d4d/classZMQTruthValueMessage.html#a5c5950bad172fa4fcc691edb92e251f2" title="ZMQTruthValueMessage\l::SerializeWithCachedSizes" alt="" coords="227,5,405,46"/>
+<area shape="rect" id="node3" href="$d0/d4d/classZMQTruthValueMessage.html#a65c0f3f78bf5fcf9cb678b0ffd4505aa" title="ZMQTruthValueMessage\l::SerializeWithCachedSizesTo\lArray" alt="" coords="219,69,413,125"/>
+<area shape="rect" id="node4" href="$d0/d4d/classZMQTruthValueMessage.html#adafedca8b93b48ffdcf19d24349d229d" title="ZMQTruthValueMessage\l::ByteSize" alt="" coords="234,149,398,190"/>
+<area shape="rect" id="node5" href="$d0/d4d/classZMQTruthValueMessage.html#a0a15dff9a211614fbd8f8ad51b64da9f" title="ZMQTruthValueMessage\l::IsInitialized" alt="" coords="234,214,398,255"/>
+</map>

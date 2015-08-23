@@ -1,0 +1,5 @@
+<map id="opencog::DefineLinkCast" name="opencog::DefineLinkCast">
+<area shape="rect" id="node2" href="$de/df4/classopencog_1_1DefineLink.html#aaaa96946c909bad5626985a484a1e940" title="opencog::DefineLink\l::get_definition" alt="" coords="218,5,355,46"/>
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html#aa8b7a8dfd7a931a891a5faf33af3a48d" title="opencog::AtomTable\l::factory" alt="" coords="217,70,357,111"/>
+<area shape="rect" id="node4" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="406,77,573,104"/>
+</map>

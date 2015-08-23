@@ -1,0 +1,11 @@
+<map id="opencog/guile/SchemePrimitive.h" name="opencog/guile/SchemePrimitive.h">
+<area shape="rect" id="node2" href="$da/dbb/PrimitiveExample_8cc.html" title="examples/c++&#45;guile\l/PrimitiveExample.cc" alt="" coords="5,81,147,122"/>
+<area shape="rect" id="node3" href="$dc/d8a/SchemeEval_8cc.html" title="opencog/guile/SchemeEval.cc" alt="" coords="172,88,367,115"/>
+<area shape="rect" id="node4" href="$d5/da6/SchemeModule_8cc.html" title="opencog/guile/SchemeModule.cc" alt="" coords="391,88,604,115"/>
+<area shape="rect" id="node5" href="$d2/df7/SchemePrimitive_8cc.html" title="opencog/guile/SchemePrimitive.cc" alt="" coords="628,88,849,115"/>
+<area shape="rect" id="node6" href="$d1/d84/SchemeSmob_8cc.html" title="opencog/guile/SchemeSmob.cc" alt="" coords="873,88,1079,115"/>
+<area shape="rect" id="node7" href="$d8/d84/SchemeSmobGC_8cc.html" title="opencog/guile/SchemeSmob\lGC.cc" alt="" coords="1103,81,1291,122"/>
+<area shape="rect" id="node8" href="$d2/da0/PersistSCM_8cc.html" title="opencog/persist/guile\l/PersistSCM.cc" alt="" coords="1315,81,1457,122"/>
+<area shape="rect" id="node9" href="$d7/d96/SQLPersistSCM_8cc.html" title="opencog/persist/sql\l/SQLPersistSCM.cc" alt="" coords="1482,81,1619,122"/>
+<area shape="rect" id="node10" href="$d7/d1f/InferenceSCM_8cc.html" title="opencog/rule&#45;engine\l/InferenceSCM.cc" alt="" coords="1644,81,1783,122"/>
+</map>

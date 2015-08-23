@@ -1,0 +1,4 @@
+<map id="opencog::Target::get_varmap" name="opencog::Target::get_varmap">
+<area shape="rect" id="node2" href="$d6/d95/classopencog_1_1BackwardChainer.html#a1f0e2ae7a6f9b59e3682bb22aa3fd0f2" title="opencog::BackwardChainer\l::get_chaining_result" alt="" coords="192,5,371,46"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a4ed0171b58c3ba389f963b517d4a9271" title="opencog::InferenceSCM\l::do_backward_chaining" alt="" coords="419,5,579,46"/>
+</map>

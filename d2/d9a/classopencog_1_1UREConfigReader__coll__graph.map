@@ -1,0 +1,7 @@
+<map id="opencog::UREConfigReader" name="opencog::UREConfigReader">
+<area shape="rect" id="node2" href="$dd/dc5/classopencog_1_1UREConfigReader_1_1RuleBaseParameters.html" title="opencog::UREConfigReader\l::RuleBaseParameters" alt="" coords="5,97,184,138"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="209,104,353,131"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="242,203,381,229"/>
+<area shape="rect" id="node4" href="$df/d07/classopencog_1_1AttentionBank.html" title="opencog::AttentionBank" alt="" coords="111,5,269,32"/>
+<area shape="rect" id="node5" href="$d6/db9/classopencog_1_1BackingStore.html" title="opencog::BackingStore" alt="" coords="295,5,448,32"/>
+</map>

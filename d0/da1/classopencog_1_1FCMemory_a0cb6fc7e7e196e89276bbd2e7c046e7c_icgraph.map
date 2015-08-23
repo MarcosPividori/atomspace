@@ -1,0 +1,4 @@
+<map id="opencog::FCMemory::get_result" name="opencog::FCMemory::get_result">
+<area shape="rect" id="node2" href="$db/d32/classopencog_1_1ForwardChainer.html#a22c98bdc9752f9d00413de288e8a2d11" title="opencog::ForwardChainer\l::get_chaining_result" alt="" coords="201,5,367,46"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a960bdf8c81fe98396c4de1a657eb8d98" title="opencog::InferenceSCM\l::do_forward_chaining" alt="" coords="416,5,576,46"/>
+</map>

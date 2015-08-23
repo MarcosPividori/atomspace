@@ -1,0 +1,6 @@
+<map id="add_to_map" name="add_to_map">
+<area shape="rect" id="node2" href="$d2/d43/classopencog_1_1PatternLink.html#ab2ee0ba78fe140de6df3730ceba5ed0e" title="opencog::PatternLink\l::unbundle_virtual" alt="" coords="147,70,290,111"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a8a31c243a1c0de73d4853c9bc5096aaa" title="opencog::PatternLink\l::trace_connectives" alt="" coords="147,5,290,46"/>
+<area shape="rect" id="node3" href="$d2/d43/classopencog_1_1PatternLink.html#a255aee332f5584075da627a45ae89ddb" title="opencog::PatternLink\l::common_init" alt="" coords="339,5,482,46"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a495e0f7f1b70a6f5f4afea9cc8b4885c" title="opencog::PatternLink\l::PatternLink" alt="" coords="339,70,482,111"/>
+</map>

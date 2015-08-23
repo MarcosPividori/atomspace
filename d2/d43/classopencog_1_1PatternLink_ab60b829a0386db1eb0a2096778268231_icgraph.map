@@ -1,0 +1,6 @@
+<map id="opencog::PatternLink::validate_clauses" name="opencog::PatternLink::validate_clauses">
+<area shape="rect" id="node2" href="$d2/d43/classopencog_1_1PatternLink.html#a255aee332f5584075da627a45ae89ddb" title="opencog::PatternLink\l::common_init" alt="" coords="198,57,341,98"/>
+<area shape="rect" id="node3" href="$dc/dcc/classopencog_1_1BindLink.html#a9388aa1e6a88b1257da84e01b89c1b1c" title="opencog::BindLink::init" alt="" coords="390,5,541,32"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a3e249a73953d8147fe945175f6106d02" title="opencog::PatternLink\l::init" alt="" coords="394,57,537,98"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a95c79e990cd0a9a4c23df3f60108762e" title="opencog::PatternLink\l::PatternLink" alt="" coords="394,122,537,163"/>
+</map>

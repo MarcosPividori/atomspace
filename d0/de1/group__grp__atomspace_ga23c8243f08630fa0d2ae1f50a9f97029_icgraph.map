@@ -1,0 +1,9 @@
+<map id="opencog::NumberNodeCast" name="opencog::NumberNodeCast">
+<area shape="rect" id="node2" href="$d0/d90/EvaluationLink_8cc.html#a724302ba139897fc54c1f1b5f1e83793" title="greater" alt="" coords="291,20,354,47"/>
+<area shape="rect" id="node4" href="$dc/db0/ArithmeticLink_8cc.html#ab943c7b8206be436df342999a8246d65" title="get_double" alt="" coords="280,77,365,104"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html#aa8b7a8dfd7a931a891a5faf33af3a48d" title="opencog::AtomTable\l::factory" alt="" coords="253,129,393,170"/>
+<area shape="rect" id="node8" href="$d7/d58/classopencog_1_1UREConfigReader.html#a325ae4784fd4c36091baa21f06ff36ae" title="opencog::UREConfigReader\l::fetch_num_param" alt="" coords="233,194,413,235"/>
+<area shape="rect" id="node3" href="$d4/dc7/classopencog_1_1EvaluationLink.html#a387acff2981f9cfbaa603445f52cfcac" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="465,5,625,46"/>
+<area shape="rect" id="node5" href="$d6/d7c/classopencog_1_1ArithmeticLink.html#a633747bf710f64aaed14ec3d6eef3535" title="opencog::ArithmeticLink\l::execute" alt="" coords="465,70,625,111"/>
+<area shape="rect" id="node7" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="462,136,629,163"/>
+</map>

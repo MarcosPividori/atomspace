@@ -1,0 +1,6 @@
+<map id="opencog::ForwardChainerPMCB" name="opencog::ForwardChainerPMCB">
+<area shape="rect" id="node2" href="$d7/d71/classopencog_1_1Implicator.html" title="opencog::Implicator" alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="148,5,353,32"/>
+<area shape="rect" id="node4" href="$d7/d33/classopencog_1_1InitiateSearchCB.html" title="opencog::InitiateSearchCB" alt="" coords="163,80,337,107"/>
+<area shape="rect" id="node5" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="362,80,576,107"/>
+</map>

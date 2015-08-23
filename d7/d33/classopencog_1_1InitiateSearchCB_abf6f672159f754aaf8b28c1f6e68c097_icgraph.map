@@ -1,0 +1,8 @@
+<map id="opencog::InitiateSearchCB::set_pattern" name="opencog::InitiateSearchCB::set_pattern">
+<area shape="rect" id="node2" href="$d3/ddb/classopencog_1_1DefaultImplicator.html#a92a5d03cdbc3f9dd615d21f8c183000c" title="opencog::DefaultImplicator\l::set_pattern" alt="" coords="245,5,419,46"/>
+<area shape="rect" id="node3" href="$d1/d76/classopencog_1_1AFImplicator.html#af4b94b7fa0c3603befbda620c13a74fe" title="opencog::AFImplicator\l::set_pattern" alt="" coords="257,70,407,111"/>
+<area shape="rect" id="node4" href="$df/dce/classopencog_1_1Satisfier.html#ac2c625714c6701e48ec808e8dfd5bdb8" title="opencog::Satisfier\l::set_pattern" alt="" coords="271,135,393,177"/>
+<area shape="rect" id="node5" href="$d1/d16/classopencog_1_1SatisfyingSet.html#ac5cc6e4604543558143625f31c00512c" title="opencog::SatisfyingSet\l::set_pattern" alt="" coords="255,201,409,242"/>
+<area shape="rect" id="node6" href="$df/de3/classopencog_1_1BackwardChainerPMCB.html#a805161e14d89193c97625a477922e7c4" title="opencog::BackwardChainer\lPMCB::set_pattern" alt="" coords="243,266,421,307"/>
+<area shape="rect" id="node7" href="$d7/d68/classopencog_1_1ForwardChainerPMCB.html#abe4857fed9b59ebea17c33ed0ee7cb4c" title="opencog::ForwardChainerPMCB\l::set_pattern" alt="" coords="229,331,435,373"/>
+</map>

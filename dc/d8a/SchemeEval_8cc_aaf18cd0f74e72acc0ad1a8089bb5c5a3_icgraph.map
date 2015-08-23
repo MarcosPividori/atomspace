@@ -1,0 +1,7 @@
+<map id="return_to_pool" name="return_to_pool">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#a2167f542970d80f542a5f3f5254305fb" title="opencog::SchemeEval\l::get_evaluator" alt="" coords="157,99,307,141"/>
+<area shape="rect" id="node3" href="$d4/dc7/classopencog_1_1EvaluationLink.html#aac399f17845ebd7c4a214d421a3cd9eb" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="361,5,521,46"/>
+<area shape="rect" id="node4" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html#ae16a76e9b94d0b5bfee3ab2093406e85" title="opencog::ExecutionOutput\lLink::do_execute" alt="" coords="355,70,527,111"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#ad8b22039e16a2de37c0ca9ac1e2d7989" title="opencog::eval_scheme" alt="" coords="365,136,517,163"/>
+<area shape="rect" id="node6" href="$dc/d0d/namespaceopencog.html#a60ab4e45ede79b63512904e6c3cc32f3" title="opencog::eval_scheme_h" alt="" coords="358,187,525,213"/>
+</map>

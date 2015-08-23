@@ -1,0 +1,14 @@
+<map id="opencog/query/InitiateSearchCB.h" name="opencog/query/InitiateSearchCB.h">
+<area shape="rect" id="node2" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="437,95,656,121"/>
+<area shape="rect" id="node8" href="$db/d0a/InitiateSearchCB_8cc.html" title="opencog/query/InitiateSearch\lCB.cc" alt="" coords="767,87,957,129"/>
+<area shape="rect" id="node9" href="$dc/d1f/Satisfier_8h.html" title="opencog/query/Satisfier.h" alt="" coords="982,95,1148,121"/>
+<area shape="rect" id="node11" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="1175,80,1379,136"/>
+<area shape="rect" id="node3" href="$d4/d1a/Implicator_8cc.html" title="opencog/query/Implicator.cc" alt="" coords="5,199,189,225"/>
+<area shape="rect" id="node4" href="$d2/d26/BackwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer\lPMCB.h" alt="" coords="214,184,441,240"/>
+<area shape="rect" id="node5" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="513,288,713,344"/>
+<area shape="rect" id="node6" href="$d2/d46/VarGroundingPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/VarGrounding\lPMCB.h" alt="" coords="517,184,709,240"/>
+<area shape="rect" id="node7" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="733,191,955,233"/>
+<area shape="rect" id="node10" href="$d1/d57/Satisfier_8cc.html" title="opencog/query/Satisfier.cc" alt="" coords="979,199,1152,225"/>
+<area shape="rect" id="node12" href="$d3/d98/DefaultForwardChainerCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.h" alt="" coords="1177,184,1377,240"/>
+<area shape="rect" id="node13" href="$dd/d10/ForwardChainerPMCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.cc" alt="" coords="1402,184,1605,240"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opencog::TruthValue::FALSE_TV" name="opencog::TruthValue::FALSE_TV">
+<area shape="rect" id="node2" href="$d0/d90/EvaluationLink_8cc.html#a724302ba139897fc54c1f1b5f1e83793" title="greater" alt="" coords="241,5,303,32"/>
+<area shape="rect" id="node4" href="$d0/d90/EvaluationLink_8cc.html#a6617510b14f97ce5c05c3d021602921f" title="equal" alt="" coords="245,56,299,83"/>
+<area shape="rect" id="node5" href="$d4/dc7/classopencog_1_1EvaluationLink.html#aac399f17845ebd7c4a214d421a3cd9eb" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="192,107,352,149"/>
+<area shape="rect" id="node3" href="$d4/dc7/classopencog_1_1EvaluationLink.html#a387acff2981f9cfbaa603445f52cfcac" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="400,23,560,65"/>
+</map>

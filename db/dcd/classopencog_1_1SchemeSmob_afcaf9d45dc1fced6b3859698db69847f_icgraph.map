@@ -1,0 +1,7 @@
+<map id="opencog::SchemeSmob::throw_exception" name="opencog::SchemeSmob::throw_exception">
+<area shape="rect" id="node2" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#ab56335074dc9006429620a168b6e3cfe" title="opencog::PrimitiveEnviron\l::do_call" alt="" coords="214,5,383,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="219,70,378,111"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="219,135,378,177"/>
+<area shape="rect" id="node3" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#af4b8123525ad6f1c792e3cfe61b59bb5" title="opencog::PrimitiveEnviron\l::init_in_module" alt="" coords="433,5,602,46"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="438,102,597,143"/>
+</map>

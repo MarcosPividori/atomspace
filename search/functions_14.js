@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['u',['u',['../dd/d3a/classZMQSingleTruthValueMessage.html#a556f373dfd99c06be2967348d8b8de0f',1,'ZMQSingleTruthValueMessage']]],
+  ['unbundle_5fclauses',['unbundle_clauses',['../d2/d43/classopencog_1_1PatternLink.html#a253b2b5b477cb3748e3fa96611933ab1',1,'opencog::PatternLink']]],
+  ['unbundle_5fvirtual',['unbundle_virtual',['../d2/d43/classopencog_1_1PatternLink.html#ab2ee0ba78fe140de6df3730ceba5ed0e',1,'opencog::PatternLink']]],
+  ['unify',['unify',['../d6/d95/classopencog_1_1BackwardChainer.html#a3bb6444b221fcb277ca8b7d87bcd0978',1,'opencog::BackwardChainer::unify()'],['../d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f',1,'opencog::DefaultForwardChainerCB::unify()']]],
+  ['unifypmcb',['UnifyPMCB',['../d0/d1d/classopencog_1_1UnifyPMCB.html#ab9f7b04aecae9c428f072bebdbc3eb4e',1,'opencog::UnifyPMCB']]],
+  ['unique_5fid',['unique_id',['../df/d4f/classviz__graph_1_1Viz__Graph.html#a3c37b6d8a8509a4ca2ad0c55d3240c1a',1,'viz_graph::Viz_Graph']]],
+  ['unknown_5ffields',['unknown_fields',['../d1/d9c/classZMQAttentionValueHolderMessage.html#ad44a550818e9078c6b2dd29d26ccfede',1,'ZMQAttentionValueHolderMessage::unknown_fields()'],['../de/df2/classZMQVersionHandleMessage.html#a2c2c5cb5d100bf5106507837ad48f64e',1,'ZMQVersionHandleMessage::unknown_fields()'],['../dd/d3a/classZMQSingleTruthValueMessage.html#a9874922ea9ace03d6cb5e1cd133bafc8',1,'ZMQSingleTruthValueMessage::unknown_fields()'],['../d0/d4d/classZMQTruthValueMessage.html#a6502d989353d653244e7bd5c56cd69e8',1,'ZMQTruthValueMessage::unknown_fields()'],['../dc/d9a/classZMQTrailMessage.html#a5d467875f78902a61993e6578b5548d2',1,'ZMQTrailMessage::unknown_fields()'],['../df/db6/classZMQAtomMessage.html#aee2520adb4d5036f7dab778dee755e8f',1,'ZMQAtomMessage::unknown_fields()'],['../d5/d28/classZMQRequestMessage.html#ac3caf8862ba62ea3e43b151192de3020',1,'ZMQRequestMessage::unknown_fields()'],['../d1/dbd/classZMQReplyMessage.html#a7d28e615da1dad8aa9c7778800abae58',1,'ZMQReplyMessage::unknown_fields()']]],
+  ['unorder_5fcompare',['unorder_compare',['../d0/d9a/classopencog_1_1PatternMatchEngine.html#adc229e5119488f48fcc9a3c21e7f6ef7',1,'opencog::PatternMatchEngine']]],
+  ['unregisterbackingstore',['unregisterBackingStore',['../d2/d55/classopencog_1_1AtomSpace.html#a4865df40ce6692093df890ec35b50333',1,'opencog::AtomSpace']]],
+  ['unsetremovalflag',['unsetRemovalFlag',['../d6/d0d/classopencog_1_1Atom.html#a25faf52c23f7a4f5824a85bb43f9e9f0',1,'opencog::Atom']]],
+  ['update_5flti_5ffunds',['update_LTI_funds',['../d2/d55/classopencog_1_1AtomSpace.html#a92f2787c1ce54ca3ffdc51708353e5f6',1,'opencog::AtomSpace']]],
+  ['update_5fmax_5fsti',['update_max_STI',['../d2/d55/classopencog_1_1AtomSpace.html#a076852e34544c5b33b03379a022e4cc2',1,'opencog::AtomSpace']]],
+  ['update_5fmin_5fsti',['update_min_STI',['../d2/d55/classopencog_1_1AtomSpace.html#a84b89ebae1647f43bacc12cbdf271b81',1,'opencog::AtomSpace']]],
+  ['update_5fpotential_5fsources',['update_potential_sources',['../d0/da1/classopencog_1_1FCMemory.html#a755db4dd4e91a83f9081fdffeef54623',1,'opencog::FCMemory']]],
+  ['update_5fsti_5ffunds',['update_STI_funds',['../d2/d55/classopencog_1_1AtomSpace.html#a875ecf08eba723565f34372e98165a0c',1,'opencog::AtomSpace']]],
+  ['updateafile',['updateAFile',['../d5/d85/namespaceupdate-links.html#a3af69236c78f66994b1a6ca123d87d27',1,'update-links']]],
+  ['updateimportance',['updateImportance',['../de/d15/classopencog_1_1ImportanceIndex.html#a182688d0f34c886a79e51533b1518eb3',1,'opencog::ImportanceIndex']]],
+  ['updateimportanceindex',['updateImportanceIndex',['../d9/da7/classopencog_1_1AtomTable.html#a7f2cad3415e2ff14f6b223c03a7f134f',1,'opencog::AtomTable']]],
+  ['updateltifunds',['updateLTIFunds',['../df/d07/classopencog_1_1AttentionBank.html#a46bcc2da724ef17762645c979bcf9f10',1,'opencog::AttentionBank']]],
+  ['updatemaxsti',['updateMaxSTI',['../df/d07/classopencog_1_1AttentionBank.html#a1c6a3ed68669b2b998b1b202be9a50ab',1,'opencog::AttentionBank']]],
+  ['updateminsti',['updateMinSTI',['../df/d07/classopencog_1_1AttentionBank.html#a0e9b5494a888559a948eebae60dea013',1,'opencog::AttentionBank']]],
+  ['updatestifunds',['updateSTIFunds',['../df/d07/classopencog_1_1AttentionBank.html#a03e19fe935c693cb3c54c1017760f185',1,'opencog::AttentionBank']]],
+  ['urecommons',['URECommons',['../dd/dde/classopencog_1_1URECommons.html#ac0b09bfe58b8aa164c0afe6c97515757',1,'opencog::URECommons']]],
+  ['ureconfigreader',['UREConfigReader',['../d7/d58/classopencog_1_1UREConfigReader.html#a71752db33ee06c79901bdceeb476cfb5',1,'opencog::UREConfigReader']]]
+];

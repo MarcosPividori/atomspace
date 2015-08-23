@@ -1,0 +1,6 @@
+<map id="opencog::SchemeSmob::verify_handle_list" name="opencog::SchemeSmob::verify_handle_list">
+<area shape="rect" id="node2" href="$de/d3e/classopencog_1_1SchemePrimitive.html#a8908022ff4f036ecfd3bab0dbbd72b64" title="opencog::SchemePrimitive\l::invoke" alt="" coords="214,5,389,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="222,70,381,111"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#af4b3a9f2cff7e8b7eb66829dce4cf659" title="opencog::SchemeSmob\l::ss_link" alt="" coords="222,135,381,177"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="438,103,597,145"/>
+</map>

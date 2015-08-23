@@ -1,0 +1,9 @@
+<map id="opencog::ForwardChainer" name="opencog::ForwardChainer">
+<area shape="rect" id="node2" href="$d0/da1/classopencog_1_1FCMemory.html" title="opencog::FCMemory" alt="" coords="575,179,715,205"/>
+<area shape="rect" id="node3" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="5,44,123,71"/>
+<area shape="rect" id="node6" href="$dc/db5/classopencog_1_1Rule.html" title="opencog::Rule" alt="" coords="291,105,394,132"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="270,315,415,341"/>
+<area shape="rect" id="node8" href="$d7/d58/classopencog_1_1UREConfigReader.html" title="opencog::UREConfigReader" alt="" coords="555,329,735,356"/>
+<area shape="rect" id="node10" href="$dd/dde/classopencog_1_1URECommons.html" title="opencog::URECommons" alt="" coords="565,279,726,305"/>
+<area shape="rect" id="node9" href="$dd/dc5/classopencog_1_1UREConfigReader_1_1RuleBaseParameters.html" title="opencog::UREConfigReader\l::RuleBaseParameters" alt="" coords="253,409,433,450"/>
+</map>

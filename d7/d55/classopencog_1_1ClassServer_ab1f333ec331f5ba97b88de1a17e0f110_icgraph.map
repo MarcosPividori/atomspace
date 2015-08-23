@@ -1,0 +1,21 @@
+<map id="opencog::ClassServer::isA" name="opencog::ClassServer::isA">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#a26415f9680c0459d7f338371b540496f" title="opencog::Atom::isType" alt="" coords="247,5,398,32"/>
+<area shape="rect" id="node4" href="$d7/d55/classopencog_1_1ClassServer.html#a9c571e22aa481af6f8aab4878afe5adc" title="opencog::ClassServer\l::isValid" alt="" coords="250,57,395,98"/>
+<area shape="rect" id="node5" href="$d7/d55/classopencog_1_1ClassServer.html#a67304ecc5ee64214690afdc057a4e86e" title="opencog::ClassServer\l::isLink" alt="" coords="250,122,395,163"/>
+<area shape="rect" id="node6" href="$d7/d55/classopencog_1_1ClassServer.html#a7dfb291c273b9700ed20474a62045e6f" title="opencog::ClassServer\l::isNode" alt="" coords="250,187,395,229"/>
+<area shape="rect" id="node9" href="$d1/dfd/classopencog_1_1TypeIndex_1_1iterator.html#a903a1679db91d0d4c4915be2e0315401" title="opencog::TypeIndex\l::iterator::operator++" alt="" coords="254,253,391,294"/>
+<area shape="rect" id="node10" href="$d0/de1/group__grp__atomspace.html#ga45d120bbd72c2f74bb6130794670b94c" title="opencog::get_predicates" alt="" coords="242,319,403,345"/>
+<area shape="rect" id="node11" href="$d0/de1/group__grp__atomspace.html#ga941da7efdbccc2ebda7bc798f7a741eb" title="opencog::get_predicates_for" alt="" coords="231,369,414,396"/>
+<area shape="rect" id="node12" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a74390d15d01302a4da386917331ca2be" title="opencog::DefaultPatternMatch\lCB::eval_sentence" alt="" coords="225,421,421,462"/>
+<area shape="rect" id="node14" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="225,486,420,527"/>
+<area shape="rect" id="node20" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af2ce602757667042ebbc27f32634df2e" title="opencog::PatternMatchEngine\l::explore_link_branches" alt="" coords="225,551,420,593"/>
+<area shape="rect" id="node3" href="$dc/db5/classopencog_1_1Rule.html#a3521fd3181c1ba6d46486e992ee97708" title="opencog::Rule::Rule" alt="" coords="501,5,635,32"/>
+<area shape="rect" id="node7" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#ac738743c85795e7ebf4c81bcfa8fc11b" title="opencog::AtomspaceHTabler\l::getAtom" alt="" coords="475,147,661,189"/>
+<area shape="rect" id="node8" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#ad9f58d38d72616e793e046ac5b52c481" title="opencog::InitiateSearchCB\l::find_starter" alt="" coords="481,213,655,254"/>
+<area shape="rect" id="node13" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ab95ca26f5d965a35d27cbf86d30fa981" title="opencog::DefaultPatternMatch\lCB::evaluate_sentence" alt="" coords="470,303,666,345"/>
+<area shape="rect" id="node15" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0381a269c73901433f7480bfaf912e72" title="opencog::PatternMatchEngine\l::quote_compare" alt="" coords="471,369,665,410"/>
+<area shape="rect" id="node16" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aed7ef161ea221bee09078d2960f531f7" title="opencog::PatternMatchEngine\l::ordered_compare" alt="" coords="471,434,665,475"/>
+<area shape="rect" id="node17" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a538d4fa4da3bdda44ee00eb664562f1b" title="opencog::PatternMatchEngine\l::choice_compare" alt="" coords="471,499,665,541"/>
+<area shape="rect" id="node18" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#adc229e5119488f48fcc9a3c21e7f6ef7" title="opencog::PatternMatchEngine\l::unorder_compare" alt="" coords="471,565,665,606"/>
+<area shape="rect" id="node19" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="471,630,665,671"/>
+</map>

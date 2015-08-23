@@ -1,0 +1,9 @@
+<map id="opencog::Implicator::get_result_list" name="opencog::Implicator::get_result_list">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#ab4ff4628bf058a0b7e6bddb0c7da82ac" title="opencog::do_imply" alt="" coords="228,56,356,83"/>
+<area shape="rect" id="node6" href="$db/d32/classopencog_1_1ForwardChainer.html#ac86ecbbae078f94cff11862f5961de81" title="opencog::ForwardChainer\l::do_pm" alt="" coords="209,107,375,149"/>
+<area shape="rect" id="node7" href="$d7/d68/classopencog_1_1ForwardChainerPMCB.html#a2da3c8a0daa666c19643eb1e9f71b115" title="opencog::ForwardChainerPMCB\l::get_products" alt="" coords="189,173,395,214"/>
+<area shape="rect" id="node3" href="$dc/d0d/namespaceopencog.html#a6261c450231e150cfd981889413f20ac" title="opencog::bindlink" alt="" coords="486,5,607,32"/>
+<area shape="rect" id="node4" href="$dc/d0d/namespaceopencog.html#a282a6cfbe94b8cbed964f119056843b9" title="opencog::single_bindlink" alt="" coords="466,56,627,83"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#a3620c0f0d19f9ea816928ae822ff6cb5" title="opencog::af_bindlink" alt="" coords="477,107,616,133"/>
+<area shape="rect" id="node8" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#aa283d9c5c15db39f94e013901a592fd5" title="opencog::DefaultForwardChainer\lCB::apply_rule" alt="" coords="443,173,651,214"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="opencog/query/AttentionalFocusCB.h" name="opencog/query/AttentionalFocusCB.h">
+<area shape="rect" id="node2" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="DefaultPatternMatchCB.h" alt="" coords="263,96,432,123"/>
+<area shape="rect" id="node3" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="5,179,187,205"/>
+<area shape="rect" id="node4" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="123,269,343,296"/>
+<area shape="rect" id="node5" href="$dc/dd0/Instantiator_8h.html" title="opencog/atoms/execution\l/Instantiator.h" alt="" coords="263,171,432,213"/>
+<area shape="rect" id="node6" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="442,262,629,303"/>
+<area shape="rect" id="node7" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="509,171,696,213"/>
+</map>

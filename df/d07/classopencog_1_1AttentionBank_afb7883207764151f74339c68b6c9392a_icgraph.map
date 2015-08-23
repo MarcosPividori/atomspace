@@ -1,0 +1,10 @@
+<map id="opencog::AttentionBank::getAttentionalFocusBoundary" name="opencog::AttentionBank::getAttentionalFocusBoundary">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a535b9c0bdbcc88c64321b2e8995f70ac" title="opencog::AtomSpace\l::get_attentional_focus\l_boundary" alt="" coords="255,176,406,232"/>
+<area shape="rect" id="node8" href="$df/d07/classopencog_1_1AttentionBank.html#af6070f88220832b1c68ed2ca6b682ac4" title="opencog::AttentionBank\l::getNormalisedSTI" alt="" coords="251,285,410,326"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a5c5720241323c8775fb33c4d922ccf6b" title="opencog::AtomSpace\l::get_handle_set_in\l_attentional_focus" alt="" coords="474,5,619,61"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a19faaa73926fc3d6dbc42e9a46e0d32a" title="opencog::SchemeSmob\l::ss_af_boundary" alt="" coords="467,85,626,126"/>
+<area shape="rect" id="node5" href="$dc/d42/classopencog_1_1AttentionalFocusCB.html#af3940d94e58cb2817de52de39f649c45" title="opencog::AttentionalFocus\lCB::node_match" alt="" coords="459,150,634,191"/>
+<area shape="rect" id="node6" href="$dc/d42/classopencog_1_1AttentionalFocusCB.html#af244049935944790c0e8008c4d284b05" title="opencog::AttentionalFocus\lCB::link_match" alt="" coords="459,215,634,257"/>
+<area shape="rect" id="node7" href="$dc/d42/classopencog_1_1AttentionalFocusCB.html#ae6c5bb29feec869cd89d007c24a43ad4" title="opencog::AttentionalFocus\lCB::get_incoming_set" alt="" coords="459,281,634,322"/>
+<area shape="rect" id="node9" href="$d2/d55/classopencog_1_1AtomSpace.html#a1310ad93d1277d9b76dd26c4bd8e4c0d" title="opencog::AtomSpace\l::get_normalised_STI" alt="" coords="474,346,619,387"/>
+</map>

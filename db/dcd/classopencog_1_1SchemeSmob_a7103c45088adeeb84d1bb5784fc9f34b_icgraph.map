@@ -1,0 +1,5 @@
+<map id="opencog::SchemeSmob::verify_av" name="opencog::SchemeSmob::verify_av">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#ac6932d6140262265a73f57d648891baa" title="opencog::SchemeSmob\l::ss_set_av" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a61d67960744220b2d291bdb467470944" title="opencog::SchemeSmob\l::ss_av_get_value" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="422,38,581,79"/>
+</map>

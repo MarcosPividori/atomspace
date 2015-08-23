@@ -1,0 +1,5 @@
+<map id="opencog::HandleSeqIndex::get" name="opencog::HandleSeqIndex::get">
+<area shape="rect" id="node2" href="$dc/d01/classopencog_1_1LinkIndex.html#aedbcffbfc8d6f58e9ed83590b7d85909" title="opencog::LinkIndex\l::getHandle" alt="" coords="249,11,381,53"/>
+<area shape="rect" id="node4" href="$dc/d01/classopencog_1_1LinkIndex.html#ad222746cda81c8ed9af107764234093b" title="opencog::LinkIndex\l::getHandleSet" alt="" coords="434,70,566,111"/>
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html#a55980c45285cc3c70e199cf50ccbac0d" title="opencog::AtomTable\l::getHandle" alt="" coords="430,5,570,46"/>
+</map>

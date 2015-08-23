@@ -1,0 +1,25 @@
+var classopencog_1_1DefaultPatternMatchCB =
+[
+    [ "DefaultPatternMatchCB", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a0747894db331adbdebfd1dd5471c89ca", null ],
+    [ "clause_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9", null ],
+    [ "eval_sentence", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a74390d15d01302a4da386917331ca2be", null ],
+    [ "eval_term", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60", null ],
+    [ "evaluate_sentence", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ab95ca26f5d965a35d27cbf86d30fa981", null ],
+    [ "get_connectives", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ac7392d0a920c9be5c6f0278f2d0585e1", null ],
+    [ "link_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a40e1d75ecfe68b154402695e4539e56c", null ],
+    [ "node_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a2f5955c97bf7326ef8d0c22313fd856f", null ],
+    [ "optional_clause_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ac0023075a0c92e04c7bc81df2736a125", null ],
+    [ "optionals_present", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#af6dcece5de06809b9e4d6abda71758b6", null ],
+    [ "post_link_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a0d5e17b4b69c79d099788ef37f29b9c4", null ],
+    [ "set_pattern", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#aa88be5eea35d32e07fa917e13687dbe4", null ],
+    [ "variable_match", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#add73b079c255399ab89d086351a28893", null ],
+    [ "_as", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a742c87ffb13f76f76306b458aa1eb4b1", null ],
+    [ "_classserver", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#aaa7f6eb6779594567e72cbe374ea5f76", null ],
+    [ "_connectives", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a6ec3efc8646e2c57b848ca8d6d37eb60", null ],
+    [ "_dynamic", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ad82349ec61b9304ffd5a93074c1a888d", null ],
+    [ "_have_evaluatables", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a449774e2a1401b6e843aeb851b5277d7", null ],
+    [ "_instor", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a2bac30a0323209f08b67b891f691ff9e", null ],
+    [ "_optionals_present", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a3d480f242b82eb0a5c42c947a617702f", null ],
+    [ "_temp_aspace", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a08e9eb3160254effaeca3c5992517294", null ],
+    [ "_type_restrictions", "d5/d55/classopencog_1_1DefaultPatternMatchCB.html#ae0d922261b08598ff2ab5119154c1a68", null ]
+];

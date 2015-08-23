@@ -1,0 +1,6 @@
+<map id="opencog::Link::getArity" name="opencog::Link::getArity">
+<area shape="rect" id="node2" href="$d3/da0/classopencog_1_1Link.html#a16ffd914059dfe14dc6bd47425ff2891" title="opencog::Link::operator==" alt="" coords="224,5,395,32"/>
+<area shape="rect" id="node3" href="$d3/da0/classopencog_1_1Link.html#a9000f3a0b939a1be8bcffaa8e757e7d0" title="opencog::Link::getOutgoingAtom" alt="" coords="205,56,413,83"/>
+<area shape="rect" id="node4" href="$df/d52/test_8cc.html#a3f3007211863eabce83dce06d960ad7f" title="atomCompare" alt="" coords="258,107,361,133"/>
+<area shape="rect" id="node5" href="$df/d52/test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="461,107,512,133"/>
+</map>

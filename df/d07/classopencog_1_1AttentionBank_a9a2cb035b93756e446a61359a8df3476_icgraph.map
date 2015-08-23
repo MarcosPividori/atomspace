@@ -1,0 +1,7 @@
+<map id="opencog::AttentionBank::getMaxSTI" name="opencog::AttentionBank::getMaxSTI">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#aa7e01cf40585c2c0291ad22e4ecd4164" title="opencog::AtomSpace\l::get_max_STI" alt="" coords="239,5,385,46"/>
+<area shape="rect" id="node3" href="$df/d07/classopencog_1_1AttentionBank.html#af6070f88220832b1c68ed2ca6b682ac4" title="opencog::AttentionBank\l::getNormalisedSTI" alt="" coords="233,70,391,111"/>
+<area shape="rect" id="node5" href="$df/d07/classopencog_1_1AttentionBank.html#ad8d2e2427d5dc32ecee7ea82a96fd87f" title="opencog::AttentionBank\l::getNormalisedZeroToOneSTI" alt="" coords="214,137,410,178"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a1310ad93d1277d9b76dd26c4bd8e4c0d" title="opencog::AtomSpace\l::get_normalised_STI" alt="" coords="459,67,605,109"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#a9d4631ae52223415a855120c4430a07d" title="opencog::AtomSpace\l::get_normalised_zero\l_to_one_STI" alt="" coords="459,132,605,188"/>
+</map>

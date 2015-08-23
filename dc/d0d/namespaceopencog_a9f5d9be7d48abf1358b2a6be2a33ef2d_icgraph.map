@@ -1,0 +1,5 @@
+<map id="opencog::global_python_initialize" name="opencog::global_python_initialize">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#ab85c14c8a7c23c5d026c128121dae16d" title="opencog::initialize\l_opencog" alt="" coords="627,6,749,47"/>
+<area shape="rect" id="node3" href="$df/d55/classopencog_1_1PythonEval.html#aca775d5641e46634f17dcd3f35cdc38a" title="opencog::PythonEval\l::PythonEval" alt="" coords="211,35,352,77"/>
+<area shape="rect" id="node4" href="$df/d55/classopencog_1_1PythonEval.html#a6c31f6971d6a2d4a550b7e046b9226b7" title="opencog::PythonEval\l::create_singleton_instance" alt="" coords="401,35,578,77"/>
+</map>

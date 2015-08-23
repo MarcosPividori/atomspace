@@ -1,0 +1,8 @@
+<map id="opencog::ProtocolBufferSerializer::deserialize" name="opencog::ProtocolBufferSerializer::deserialize">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#af1b96270dca6e6fd17dcbbce98c824c3" title="opencog::ProtocolBufferSerializer\l::deserializeAtom" alt="" coords="264,55,475,97"/>
+<area shape="rect" id="node5" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#adbcb110bbe199cb24b7102ec0faf8814" title="opencog::ProtocolBufferSerializer\l::deserializeCompositeTruthValue" alt="" coords="264,121,475,162"/>
+<area shape="rect" id="node6" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a16fc34c055f217a9876083611143e0b6" title="opencog::ProtocolBufferSerializer\l::deserialize" alt="" coords="523,150,733,191"/>
+<area shape="rect" id="node7" href="$d0/dfe/classopencog_1_1ZMQClient.html#a05d121a898755fb7e5fe32ab201f7b0c" title="opencog::ZMQClient\l::getAtom" alt="" coords="300,238,439,279"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1f8f579821c461a7f30a8d3e74d7a80e" title="opencog::ProtocolBufferSerializer\l::deserializeLink" alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#ad1d1dcd7879e1369a21375b7b5f54e1b" title="opencog::ProtocolBufferSerializer\l::deserializeNode" alt="" coords="523,70,733,111"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opencog::Implicator" name="opencog::Implicator">
+<area shape="rect" id="node2" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="5,96,211,123"/>
+<area shape="rect" id="node3" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="235,96,351,123"/>
+<area shape="rect" id="node4" href="$d2/d58/classopencog_1_1Instantiator.html" title="opencog::Instantiator" alt="" coords="477,96,617,123"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="475,5,620,32"/>
+</map>

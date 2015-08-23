@@ -1,0 +1,12 @@
+<map id="opencog::AtomTable::updateImportanceIndex" name="opencog::AtomTable::updateImportanceIndex">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#a8eb7f36b5a732ab08379049623e40540" title="Sets the AttentionValue object of the atom. " alt="" coords="217,223,399,265"/>
+<area shape="rect" id="node3" href="$d6/d0d/classopencog_1_1Atom.html#aecc973caf351443cf0e449aba9aa3338" title="opencog::Atom::chgVLTI" alt="" coords="460,5,623,32"/>
+<area shape="rect" id="node4" href="$d6/d0d/classopencog_1_1Atom.html#a389cc9f226b5e4756bc903152c44ebcb" title="opencog::Atom::setSTI" alt="" coords="465,56,617,83"/>
+<area shape="rect" id="node5" href="$d6/d0d/classopencog_1_1Atom.html#aacd00c6432d9e822e9fee58e0a8ef9b6" title="opencog::Atom::setLTI" alt="" coords="466,107,617,133"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#af0ce146d4af7bb9fa1412de2dab8d67b" title="opencog::AtomSpace\l::set_AV" alt="" coords="469,158,614,199"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#ac6932d6140262265a73f57d648891baa" title="opencog::SchemeSmob\l::ss_set_av" alt="" coords="462,223,621,265"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="462,289,621,330"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="462,354,621,395"/>
+<area shape="rect" id="node10" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#ac738743c85795e7ebf4c81bcfa8fc11b" title="opencog::AtomspaceHTabler\l::getAtom" alt="" coords="448,419,635,461"/>
+<area shape="rect" id="node11" href="$df/d52/test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="683,456,733,483"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="opencog::ClassServer::getNumberOfClasses" name="opencog::ClassServer::getNumberOfClasses">
+<area shape="rect" id="node2" href="$dc/d01/classopencog_1_1LinkIndex.html#ad222746cda81c8ed9af107764234093b" title="opencog::LinkIndex\l::getHandleSet" alt="" coords="242,5,374,46"/>
+<area shape="rect" id="node3" href="$d2/d92/classopencog_1_1TypeIndex.html#a9eaad783d48fd7a5a09779b2c7e73962" title="opencog::TypeIndex\l::resize" alt="" coords="240,70,376,111"/>
+<area shape="rect" id="node6" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a494831c6d14b03acd246db7a06a43aa6" title="opencog::AtomSpaceBenchmark\l::startBenchmark" alt="" coords="203,135,413,177"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a38874f20dae10b79c1fe66fbfc272ecd" title="opencog::SchemeSmob\l::ss_get_types" alt="" coords="229,201,387,242"/>
+<area shape="rect" id="node4" href="$d9/da7/classopencog_1_1AtomTable.html#a1cc733840d6843a05a10188aaa9ed680" title="opencog::AtomTable\l::typeAdded" alt="" coords="471,9,611,50"/>
+<area shape="rect" id="node5" href="$d2/d92/classopencog_1_1TypeIndex.html#ac5fa7fbb1718596968113a98273ce013" title="opencog::TypeIndex\l::TypeIndex" alt="" coords="473,74,609,115"/>
+<area shape="rect" id="node7" href="$d7/dd3/atomspace__bm_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="516,143,567,169"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="462,201,621,242"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="opencog::SimpleTruthValue::createTV" name="opencog::SimpleTruthValue::createTV">
+<area shape="rect" id="node2" href="$d4/dc7/classopencog_1_1EvaluationLink.html#a387acff2981f9cfbaa603445f52cfcac" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="257,187,417,229"/>
+<area shape="rect" id="node9" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#aca2621ec1271464851e6541ee6f19c9f" title="opencog::AtomSpaceBenchmark\l::bm_setTruthValue" alt="" coords="232,318,443,359"/>
+<area shape="rect" id="node3" href="$d4/dc7/classopencog_1_1EvaluationLink.html#aad835e6cc4c0de71276ba413175e0146" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="516,5,676,46"/>
+<area shape="rect" id="node4" href="$d4/dc7/classopencog_1_1EvaluationLink.html#a5ec876b28544629907d3e144d9ce8afe" title="opencog::EvaluationLink\l::evaluate" alt="" coords="516,70,676,111"/>
+<area shape="rect" id="node5" href="$d2/d37/ExecSCM_8cc.html#a438afaf665dce401ef482ae3d076c4ec" title="ss_evaluate" alt="" coords="551,136,641,163"/>
+<area shape="rect" id="node6" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a0d5e17b4b69c79d099788ef37f29b9c4" title="opencog::DefaultPatternMatch\lCB::post_link_match" alt="" coords="498,187,694,229"/>
+<area shape="rect" id="node7" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9" title="opencog::DefaultPatternMatch\lCB::clause_match" alt="" coords="498,253,694,294"/>
+<area shape="rect" id="node8" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60" title="opencog::DefaultPatternMatch\lCB::eval_term" alt="" coords="498,318,694,359"/>
+<area shape="rect" id="node10" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a529dafa19bca7c7af6b3de1381405ee1" title="opencog::AtomSpaceBenchmark\l::setMethod" alt="" coords="491,383,701,425"/>
+</map>

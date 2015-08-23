@@ -1,0 +1,5 @@
+<map id="ZMQVersionHandleMessage::set_indicator" name="ZMQVersionHandleMessage::set_indicator">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#ac901f71891e61ca1252390b862ff218c" title="opencog::ProtocolBufferSerializer\l::serializeVersionHandle" alt="" coords="237,5,448,46"/>
+<area shape="rect" id="node4" href="$de/df2/classZMQVersionHandleMessage.html#a491f2894726f6e093b5d1036be6fcf77" title="ZMQVersionHandleMessage\l::MergeFrom" alt="" coords="251,70,435,111"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a05a4d3e60b28fc30dea592b12d266d0a" title="opencog::ProtocolBufferSerializer\l::serializeCompositeTruthValue" alt="" coords="496,5,707,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opencog::LambdaLink" name="opencog::LambdaLink">
+<area shape="rect" id="node2" href="$dc/d31/classopencog_1_1VariableList.html" title="opencog::VariableList" alt="" coords="54,96,196,123"/>
+<area shape="rect" id="node3" href="$d3/da0/classopencog_1_1Link.html" title="opencog::Link" alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node4" href="$dd/d44/structopencog_1_1Variables.html" title="opencog::Variables" alt="" coords="131,5,260,32"/>
+<area shape="rect" id="node5" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="220,96,336,123"/>
+</map>

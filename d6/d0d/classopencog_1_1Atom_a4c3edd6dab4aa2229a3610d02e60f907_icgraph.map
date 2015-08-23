@@ -1,0 +1,7 @@
+<map id="opencog::Atom::getAtomTable" name="opencog::Atom::getAtomTable">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#a085e1558aa0ef53e0dad9d2890feb6e8" title="opencog::AtomTable\l::extract" alt="" coords="249,70,389,111"/>
+<area shape="rect" id="node5" href="$d9/da7/classopencog_1_1AtomTable.html#ae6ac0483a20ed0ede2c08744a43bf349" title="opencog::AtomTable\l::holds" alt="" coords="249,135,389,177"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a5b618632b8db2e1bfb09c63311086128" title="opencog::AtomSpace\l::remove_atom" alt="" coords="438,5,583,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a061736b2f6b29536381000822e99501e" title="opencog::AtomSpace\l::purge_atom" alt="" coords="438,70,583,111"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#a226a0b59d86e738c10555377bf324969" title="opencog::AtomSpace\l::fetch_atom" alt="" coords="438,135,583,177"/>
+</map>

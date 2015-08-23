@@ -1,0 +1,8 @@
+<map id="opencog::SQLPersistSCM" name="opencog::SQLPersistSCM">
+<area shape="rect" id="node2" href="$d0/da6/classopencog_1_1AtomStorage.html" title="opencog::AtomStorage" alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node3" href="$d1/d71/classopencog_1_1SQLBackingStore.html" title="opencog::SQLBackingStore" alt="" coords="144,96,325,123"/>
+<area shape="rect" id="node4" href="$d6/db9/classopencog_1_1BackingStore.html" title="opencog::BackingStore" alt="" coords="183,5,336,32"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="350,96,495,123"/>
+<area shape="rect" id="node7" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="349,187,488,213"/>
+<area shape="rect" id="node6" href="$df/d07/classopencog_1_1AttentionBank.html" title="opencog::AttentionBank" alt="" coords="362,5,520,32"/>
+</map>

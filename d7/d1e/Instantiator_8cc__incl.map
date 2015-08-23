@@ -1,0 +1,11 @@
+<map id="opencog/atoms/execution/Instantiator.cc" name="opencog/atoms/execution/Instantiator.cc">
+<area shape="rect" id="node2" href="$d7/d8a/PutLink_8h.html" title="opencog/atoms/core\l/PutLink.h" alt="" coords="5,187,144,229"/>
+<area shape="rect" id="node6" href="$dc/d3e/FunctionLink_8h.html" title="opencog/atoms/reduct\l/FunctionLink.h" alt="" coords="169,187,319,229"/>
+<area shape="rect" id="node7" href="$d5/d48/ExecutionOutputLink_8h.html" title="opencog/atoms/execution\l/ExecutionOutputLink.h" alt="" coords="235,97,404,138"/>
+<area shape="rect" id="node8" href="$dd/d7b/BindLinkAPI_8h.html" title="opencog/query/BindLinkAPI.h" alt="" coords="480,104,672,131"/>
+<area shape="rect" id="node10" href="$dc/dd0/Instantiator_8h.html" title="Instantiator.h" alt="" coords="395,285,491,312"/>
+<area shape="rect" id="node3" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="222,368,441,395"/>
+<area shape="rect" id="node5" href="$d0/d41/FreeLink_8h.html" title="opencog/atoms/core\l/FreeLink.h" alt="" coords="131,278,269,319"/>
+<area shape="rect" id="node4" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="335,443,549,469"/>
+<area shape="rect" id="node9" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="565,195,757,221"/>
+</map>

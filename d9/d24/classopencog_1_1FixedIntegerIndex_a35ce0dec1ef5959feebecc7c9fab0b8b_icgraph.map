@@ -1,0 +1,7 @@
+<map id="opencog::FixedIntegerIndex::insert" name="opencog::FixedIntegerIndex::insert">
+<area shape="rect" id="node2" href="$de/d15/classopencog_1_1ImportanceIndex.html#a182688d0f34c886a79e51533b1518eb3" title="opencog::ImportanceIndex\l::updateImportance" alt="" coords="232,5,405,46"/>
+<area shape="rect" id="node4" href="$de/d15/classopencog_1_1ImportanceIndex.html#a11bfe9d28b0efccf9c09951524ee9d64" title="opencog::ImportanceIndex\l::insertAtom" alt="" coords="232,70,405,111"/>
+<area shape="rect" id="node6" href="$d2/d92/classopencog_1_1TypeIndex.html#a4b351e3786a783b5fe80c5015eca5676" title="opencog::TypeIndex\l::insertAtom" alt="" coords="251,135,387,177"/>
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html#a7f2cad3415e2ff14f6b223c03a7f134f" title="opencog::AtomTable\l::updateImportanceIndex" alt="" coords="453,5,616,46"/>
+<area shape="rect" id="node5" href="$d0/de1/group__grp__atomspace.html#gab9e5ba437b8370ed32ca13d1858da2ed" title="opencog::AtomTable\l::put_atom_into_index" alt="" coords="461,102,608,143"/>
+</map>

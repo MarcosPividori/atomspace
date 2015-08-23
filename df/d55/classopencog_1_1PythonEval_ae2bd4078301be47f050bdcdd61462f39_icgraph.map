@@ -1,0 +1,5 @@
+<map id="opencog::PythonEval::add_to_sys_path" name="opencog::PythonEval::add_to_sys_path">
+<area shape="rect" id="node2" href="$df/d55/classopencog_1_1PythonEval.html#af6480416ba1830c268fbb5f1f5dc3449" title="opencog::PythonEval\l::add_module_directory" alt="" coords="195,5,349,46"/>
+<area shape="rect" id="node4" href="$df/d55/classopencog_1_1PythonEval.html#a46e811f14112ce0c70606fff18ac146b" title="opencog::PythonEval\l::add_module_file" alt="" coords="201,70,343,111"/>
+<area shape="rect" id="node3" href="$df/d55/classopencog_1_1PythonEval.html#a4b16682ca396ab1130c61d000ad1e243" title="opencog::PythonEval\l::add_modules_from_abspath" alt="" coords="397,38,587,79"/>
+</map>

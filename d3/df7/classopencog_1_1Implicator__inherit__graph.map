@@ -1,0 +1,7 @@
+<map id="opencog::Implicator" name="opencog::Implicator">
+<area shape="rect" id="node3" href="$d1/d76/classopencog_1_1AFImplicator.html" title="opencog::AFImplicator" alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node4" href="$d3/ddb/classopencog_1_1DefaultImplicator.html" title="opencog::DefaultImplicator" alt="" coords="179,155,353,181"/>
+<area shape="rect" id="node6" href="$d7/d68/classopencog_1_1ForwardChainerPMCB.html" title="opencog::ForwardChainerPMCB" alt="" coords="379,155,584,181"/>
+<area shape="rect" id="node2" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="164,5,369,32"/>
+<area shape="rect" id="node5" href="$db/d25/classopencog_1_1VarGroundingPMCB.html" title="opencog::VarGroundingPMCB" alt="" coords="170,229,363,256"/>
+</map>

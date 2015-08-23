@@ -1,0 +1,7 @@
+<map id="opencog::PatternLink::setup_components" name="opencog::PatternLink::setup_components">
+<area shape="rect" id="node2" href="$dc/dcc/classopencog_1_1BindLink.html#a9388aa1e6a88b1257da84e01b89c1b1c" title="opencog::BindLink::init" alt="" coords="198,15,349,41"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a3e249a73953d8147fe945175f6106d02" title="opencog::PatternLink\l::init" alt="" coords="202,67,345,109"/>
+<area shape="rect" id="node6" href="$d2/d43/classopencog_1_1PatternLink.html#a95c79e990cd0a9a4c23df3f60108762e" title="opencog::PatternLink\l::PatternLink" alt="" coords="202,133,345,174"/>
+<area shape="rect" id="node3" href="$dc/dcc/classopencog_1_1BindLink.html#abdcb43a6e47d2587b6cf220fdfc95394" title="opencog::BindLink::\lBindLink" alt="" coords="403,5,536,46"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a96f04278d6c2d4a19cdbe39608adfcbc" title="opencog::PatternLink\l::PatternLink" alt="" coords="398,70,541,111"/>
+</map>

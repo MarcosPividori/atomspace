@@ -1,0 +1,8 @@
+<map id="ZMQAttentionValueHolderMessage::sti" name="ZMQAttentionValueHolderMessage::sti">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a85c134934460e2058d957d9822959a1c" title="opencog::ProtocolBufferSerializer\l::deserializeAttentionValue" alt="" coords="303,5,513,46"/>
+<area shape="rect" id="node4" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#ad54d988f377f6b42c11c2ad13eed5c38" title="ZMQAttentionValueHolderMessage\l::SerializeWithCachedSizes" alt="" coords="297,70,519,111"/>
+<area shape="rect" id="node5" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#a27fc1aded757d91954f3ab12761d47eb" title="ZMQAttentionValueHolderMessage\l::SerializeWithCachedSizesToArray" alt="" coords="297,135,519,177"/>
+<area shape="rect" id="node6" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#a5ae23725c7651e6f61b9f7d66902bd44" title="ZMQAttentionValueHolderMessage\l::ByteSize" alt="" coords="297,201,519,242"/>
+<area shape="rect" id="node7" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#ab2668262a78497f5151202b201a9a00e" title="ZMQAttentionValueHolderMessage\l::MergeFrom" alt="" coords="297,266,519,307"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a6737b7ef583f76dcaa3fad628b8799f0" title="opencog::ProtocolBufferSerializer\l::deserializeAttentionValueHolder" alt="" coords="568,5,779,46"/>
+</map>

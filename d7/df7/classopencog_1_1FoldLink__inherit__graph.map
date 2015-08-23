@@ -1,0 +1,7 @@
+<map id="opencog::FoldLink" name="opencog::FoldLink">
+<area shape="rect" id="node4" href="$d6/d7c/classopencog_1_1ArithmeticLink.html" title="opencog::ArithmeticLink" alt="" coords="65,229,224,256"/>
+<area shape="rect" id="node2" href="$d3/d8d/classopencog_1_1FunctionLink.html" title="opencog::FunctionLink" alt="" coords="70,80,220,107"/>
+<area shape="rect" id="node3" href="$d7/d6f/classopencog_1_1FreeLink.html" title="opencog::FreeLink" alt="" coords="82,5,208,32"/>
+<area shape="rect" id="node5" href="$d6/d8a/classopencog_1_1PlusLink.html" title="opencog::PlusLink" alt="" coords="5,304,131,331"/>
+<area shape="rect" id="node6" href="$d8/d94/classopencog_1_1TimesLink.html" title="opencog::TimesLink" alt="" coords="156,304,291,331"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="opencog::PatternMatchEngine::solution_drop" name="opencog::PatternMatchEngine::solution_drop">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a538d4fa4da3bdda44ee00eb664562f1b" title="opencog::PatternMatchEngine\l::choice_compare" alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#adc229e5119488f48fcc9a3c21e7f6ef7" title="opencog::PatternMatchEngine\l::unorder_compare" alt="" coords="733,5,928,46"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="491,5,685,46"/>
+</map>

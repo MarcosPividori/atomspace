@@ -1,0 +1,29 @@
+<map id="opencog/atoms/bind/VariableList.h" name="opencog/atoms/bind/VariableList.h">
+<area shape="rect" id="node2" href="$d3/d7e/LambdaLink_8h.html" title="opencog/atoms/bind\l/LambdaLink.h" alt="" coords="24,97,163,138"/>
+<area shape="rect" id="node4" href="$df/d0e/AtomTable_8cc.html" title="opencog/atomspace/AtomTable.cc" alt="" coords="196,376,418,403"/>
+<area shape="rect" id="node5" href="$df/d92/PatternLink_8h.html" title="opencog/atoms/bind\l/PatternLink.h" alt="" coords="810,187,948,229"/>
+<area shape="rect" id="node11" href="$dc/d05/PatternLink_8cc.html" title="opencog/atoms/bind\l/PatternLink.cc" alt="" coords="238,278,376,319"/>
+<area shape="rect" id="node16" href="$d3/d7f/VariableList_8cc.html" title="opencog/atoms/bind\l/VariableList.cc" alt="" coords="763,97,902,138"/>
+<area shape="rect" id="node17" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="1476,97,1663,138"/>
+<area shape="rect" id="node24" href="$d2/d59/Rule_8h.html" title="opencog/rule&#45;engine\l/Rule.h" alt="" coords="2374,97,2512,138"/>
+<area shape="rect" id="node3" href="$da/d38/LambdaLink_8cc.html" title="opencog/atoms/bind\l/LambdaLink.cc" alt="" coords="24,187,163,229"/>
+<area shape="rect" id="node6" href="$d4/d7f/BindLink_8h.html" title="opencog/atoms/bind\l/BindLink.h" alt="" coords="902,278,1040,319"/>
+<area shape="rect" id="node7" href="$d2/de7/PatternMatch_8cc.html" title="opencog/query/PatternMatch.cc" alt="" coords="1122,376,1327,403"/>
+<area shape="rect" id="node8" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="997,459,1198,515"/>
+<area shape="rect" id="node9" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="1504,466,1726,507"/>
+<area shape="rect" id="node12" href="$de/d0c/Composition_8cc.html" title="opencog/query/Composition.cc" alt="" coords="1538,285,1736,312"/>
+<area shape="rect" id="node13" href="$d0/dc8/FuzzyPatternMatch_8cc.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatch.cc" alt="" coords="699,278,878,319"/>
+<area shape="rect" id="node14" href="$d1/d57/Satisfier_8cc.html" title="opencog/query/Satisfier.cc" alt="" coords="451,285,624,312"/>
+<area shape="rect" id="node15" href="$d0/d51/BackwardChainer_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.cc" alt="" coords="2227,369,2472,410"/>
+<area shape="rect" id="node10" href="$dd/d8d/Rule_8cc.html" title="opencog/rule&#45;engine\l/Rule.cc" alt="" coords="1426,369,1564,410"/>
+<area shape="rect" id="node18" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="2054,278,2247,319"/>
+<area shape="rect" id="node19" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="1663,376,1882,403"/>
+<area shape="rect" id="node20" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="1680,187,1867,229"/>
+<area shape="rect" id="node21" href="$db/d63/InitiateSearchCB_8h.html" title="opencog/query/InitiateSearchCB.h" alt="" coords="1811,285,2030,312"/>
+<area shape="rect" id="node22" href="$d1/d15/Implicator_8h.html" title="opencog/query/Implicator.h" alt="" coords="1413,195,1590,221"/>
+<area shape="rect" id="node23" href="$de/d65/PatternMatch_8h.html" title="opencog/query/PatternMatch.h" alt="" coords="1266,285,1464,312"/>
+<area shape="rect" id="node25" href="$d4/d48/BackwardChainer_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.h" alt="" coords="2402,278,2640,319"/>
+<area shape="rect" id="node26" href="$db/dc0/Target_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/Target.h" alt="" coords="2588,187,2762,229"/>
+<area shape="rect" id="node27" href="$d4/d7d/FCMemory_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/FCMemory.h" alt="" coords="2112,187,2299,229"/>
+<area shape="rect" id="node28" href="$d4/de6/UREConfigReader_8h.html" title="opencog/rule&#45;engine\l/UREConfigReader.h" alt="" coords="2374,187,2512,229"/>
+</map>

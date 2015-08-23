@@ -1,0 +1,5 @@
+<map id="opencog::IndefiniteTruthValue::getConfidence" name="opencog::IndefiniteTruthValue::getConfidence">
+<area shape="rect" id="node2" href="$df/d01/classopencog_1_1IndefiniteTruthValue.html#a098bcb1edc41257b544f23901bbd648a" title="opencog::IndefiniteTruth\lValue::merge" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#aae3997eca1b897d38cf5850e41d6420f" title="opencog::SchemeSmob\l::ss_tv_get_value" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="422,70,581,111"/>
+</map>

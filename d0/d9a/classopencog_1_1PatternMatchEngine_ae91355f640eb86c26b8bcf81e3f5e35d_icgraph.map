@@ -1,0 +1,8 @@
+<map id="opencog::PatternMatchEngine::explore_neighborhood" name="opencog::PatternMatchEngine::explore_neighborhood">
+<area shape="rect" id="node2" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a13fc4446e362503e5697c784e9341ea4" title="opencog::FuzzyPatternMatch\lCB::initiate_search" alt="" coords="249,5,437,46"/>
+<area shape="rect" id="node3" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a0f9733843e1c15401b049ddee32f87f4" title="opencog::InitiateSearchCB\l::neighbor_search" alt="" coords="255,70,430,111"/>
+<area shape="rect" id="node5" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a676351afb643a0a9c8ebdff85094a9cb" title="opencog::InitiateSearchCB\l::link_type_search" alt="" coords="255,135,430,177"/>
+<area shape="rect" id="node6" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="255,201,430,242"/>
+<area shape="rect" id="node7" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a759c99f221b34f39850db61854b012ce" title="opencog::InitiateSearchCB\l::no_search" alt="" coords="255,266,430,307"/>
+<area shape="rect" id="node4" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="486,169,661,210"/>
+</map>

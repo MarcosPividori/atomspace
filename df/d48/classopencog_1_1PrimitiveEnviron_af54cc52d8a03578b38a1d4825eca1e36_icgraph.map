@@ -1,0 +1,6 @@
+<map id="opencog::PrimitiveEnviron::init" name="opencog::PrimitiveEnviron::init">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#a2e5e65cc5e0ce161371501159fdddc89" title="opencog::SchemeEval\l::init" alt="" coords="235,5,384,46"/>
+<area shape="rect" id="node4" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#aca8a05ee3eede644ded76029dc2230dd" title="opencog::PrimitiveEnviron\l::really_do_register" alt="" coords="225,70,394,111"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#a1151c201c176061985a16f8fdfc57901" title="opencog::SchemeEval\l::c_wrap_init" alt="" coords="453,5,603,46"/>
+<area shape="rect" id="node5" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#a647613bce49345643cd89198c67b6a91" title="opencog::PrimitiveEnviron\l::c_wrap_register" alt="" coords="443,70,613,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="opencog::PatternMatchCallback::pop" name="opencog::PatternMatchCallback::pop">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aec1d7cab97fb1889af808adabcd6956a" title="opencog::PatternMatchEngine\l::clause_stacks_pop" alt="" coords="285,38,480,79"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a7547a30d0209c7d0fa37cc35797ef952" title="opencog::PatternMatchEngine\l::redex_compare" alt="" coords="528,5,723,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afceb7da2344ec1d65f0a96e2b2c79ae5" title="opencog::PatternMatchEngine\l::do_next_clause" alt="" coords="528,70,723,111"/>
+</map>

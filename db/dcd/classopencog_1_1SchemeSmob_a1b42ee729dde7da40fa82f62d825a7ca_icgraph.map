@@ -1,0 +1,8 @@
+<map id="opencog::SchemeSmob::as_ref_count" name="opencog::SchemeSmob::as_ref_count">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#acbc6648fb96311fea60d907dc394a944" title="opencog::SchemeSmob\l::ss_set_as" alt="" coords="214,22,373,63"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#ac6cf3f1fe1785622faa17efdf7f1e646" title="opencog::SchemeSmob\l::ss_set_env_as" alt="" coords="214,119,373,161"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="423,5,582,46"/>
+<area shape="rect" id="node5" href="$d4/d24/classopencog_1_1SchemeEval.html#a59c4a6e3502e0b61bdd5935e90cb6dff" title="opencog::SchemeEval\l::do_eval" alt="" coords="428,70,577,111"/>
+<area shape="rect" id="node6" href="$d4/d24/classopencog_1_1SchemeEval.html#a6ec0f4cf4969aab036e877d5cffb685e" title="opencog::SchemeEval\l::do_scm_eval" alt="" coords="428,135,577,177"/>
+<area shape="rect" id="node7" href="$d4/d24/classopencog_1_1SchemeEval.html#a48ccc954c3de5801b4a59e032c3695df" title="opencog::SchemeEval\l::c_wrap_set_atomspace" alt="" coords="421,201,584,242"/>
+</map>

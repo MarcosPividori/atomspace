@@ -1,0 +1,13 @@
+<map id="opencog::TruthValue::clone" name="opencog::TruthValue::clone">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a5bee1d949ebff7bc3f93d4e8c365a3f9" title="opencog::SchemeSmob\l::ss_set_tv" alt="" coords="193,5,351,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="193,70,351,111"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a8cce86839db8fbc9c0914485a6db374b" title="opencog::SchemeSmob\l::ss_node" alt="" coords="193,135,351,177"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="193,201,351,242"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#af4b3a9f2cff7e8b7eb66829dce4cf659" title="opencog::SchemeSmob\l::ss_link" alt="" coords="193,266,351,307"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#afc5830a9475fe639deb55c0b961b1588" title="opencog::SchemeSmob\l::to_tv" alt="" coords="193,331,351,373"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="401,135,559,177"/>
+<area shape="rect" id="node9" href="$d4/d24/classopencog_1_1SchemeEval.html#a5895c85baf8e0274765af002c8f4ae25" title="opencog::SchemeEval\l::eval_tv" alt="" coords="608,286,757,327"/>
+<area shape="rect" id="node10" href="$d4/d24/classopencog_1_1SchemeEval.html#a8b5bc7c8dafb128b669bbb02d81c17b3" title="opencog::SchemeEval\l::c_wrap_eval_tv" alt="" coords="405,302,555,343"/>
+<area shape="rect" id="node11" href="$d4/d24/classopencog_1_1SchemeEval.html#a2370923d17189afc29a3e995ef9eab89" title="opencog::SchemeEval\l::apply_tv" alt="" coords="608,377,757,418"/>
+<area shape="rect" id="node12" href="$d4/d24/classopencog_1_1SchemeEval.html#ad4701b63fcdfc126b76ad0b3dce79113" title="opencog::SchemeEval\l::c_wrap_apply_tv" alt="" coords="405,419,555,461"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="opencog/cython/opencog/PyScheme.cc" name="opencog/cython/opencog/PyScheme.cc">
+<area shape="rect" id="node2" href="$d5/d48/PyScheme_8h.html" title="PyScheme.h" alt="" coords="213,96,307,123"/>
+<area shape="rect" id="node4" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="18,171,237,197"/>
+<area shape="rect" id="node7" href="$d9/d7a/SchemeEval_8h.html" title="opencog/guile/SchemeEval.h" alt="" coords="625,171,812,197"/>
+<area shape="rect" id="node5" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="23,245,237,272"/>
+<area shape="rect" id="node13" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="623,245,815,272"/>
+<area shape="rect" id="node14" href="$da/d6b/GenericEval_8h.html" title="opencog/shell/GenericEval.h" alt="" coords="364,245,548,272"/>
+</map>

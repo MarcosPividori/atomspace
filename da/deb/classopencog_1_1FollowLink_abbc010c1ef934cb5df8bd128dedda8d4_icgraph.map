@@ -1,0 +1,5 @@
+<map id="opencog::FollowLink::find_link_type" name="opencog::FollowLink::find_link_type">
+<area shape="rect" id="node2" href="$da/deb/classopencog_1_1FollowLink.html#ab5bd5570dd5706482c6638fb57eacec5" title="opencog::FollowLink\l::follow_link" alt="" coords="192,38,331,79"/>
+<area shape="rect" id="node3" href="$da/deb/classopencog_1_1FollowLink.html#aee44fce2381cf1dde4271d00f4dbf826" title="opencog::FollowLink\l::follow_binary_link" alt="" coords="387,5,525,46"/>
+<area shape="rect" id="node4" href="$da/deb/classopencog_1_1FollowLink.html#ac4b19658e56fd3b9cb11b1c798751045" title="opencog::FollowLink\l::backtrack_binary_link" alt="" coords="379,70,533,111"/>
+</map>

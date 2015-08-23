@@ -1,0 +1,6 @@
+<map id="opencog::PrimitiveEnviron::get_size" name="opencog::PrimitiveEnviron::get_size">
+<area shape="rect" id="node2" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#aca8a05ee3eede644ded76029dc2230dd" title="opencog::PrimitiveEnviron\l::really_do_register" alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a30bfb7dd1ca20e6d3b431cf49601569e" title="opencog::SchemeSmob\l::free_misc" alt="" coords="230,70,389,111"/>
+<area shape="rect" id="node3" href="$df/d48/classopencog_1_1PrimitiveEnviron.html#a647613bce49345643cd89198c67b6a91" title="opencog::PrimitiveEnviron\l::c_wrap_register" alt="" coords="443,5,613,46"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a53ee876bbe45d9b92884b9a7add72a8f" title="opencog::SchemeSmob\l::init_smob_type" alt="" coords="449,70,607,111"/>
+</map>

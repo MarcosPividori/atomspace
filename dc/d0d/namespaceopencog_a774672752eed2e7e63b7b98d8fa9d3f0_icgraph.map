@@ -1,0 +1,12 @@
+<map id="opencog::any_unquoted_in_tree" name="opencog::any_unquoted_in_tree">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#a8e1e82e22364bb2bf43ee9e2d01fd658" title="opencog::remove_constants" alt="" coords="217,12,399,39"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#a0ae49ad0181c1f9f083cab9d51816c71" title="opencog::get_connected\l_components" alt="" coords="227,63,389,105"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="211,221,405,262"/>
+<area shape="rect" id="node3" href="$d2/d43/classopencog_1_1PatternLink.html#ab60b829a0386db1eb0a2096778268231" title="opencog::PatternLink\l::validate_clauses" alt="" coords="479,5,622,46"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a255aee332f5584075da627a45ae89ddb" title="opencog::PatternLink\l::common_init" alt="" coords="697,34,839,75"/>
+<area shape="rect" id="node7" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0381a269c73901433f7480bfaf912e72" title="opencog::PatternMatchEngine\l::quote_compare" alt="" coords="453,122,648,163"/>
+<area shape="rect" id="node8" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aed7ef161ea221bee09078d2960f531f7" title="opencog::PatternMatchEngine\l::ordered_compare" alt="" coords="453,187,648,229"/>
+<area shape="rect" id="node9" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a538d4fa4da3bdda44ee00eb664562f1b" title="opencog::PatternMatchEngine\l::choice_compare" alt="" coords="453,253,648,294"/>
+<area shape="rect" id="node10" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#adc229e5119488f48fcc9a3c21e7f6ef7" title="opencog::PatternMatchEngine\l::unorder_compare" alt="" coords="453,318,648,359"/>
+<area shape="rect" id="node11" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="453,383,648,425"/>
+</map>

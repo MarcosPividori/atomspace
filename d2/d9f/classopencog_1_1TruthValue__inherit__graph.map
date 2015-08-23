@@ -1,0 +1,8 @@
+<map id="opencog::TruthValue" name="opencog::TruthValue">
+<area shape="rect" id="node3" href="$de/d2e/classopencog_1_1CountTruthValue.html" title="a TruthValue that stores a mean, a confidence and the number of observations " alt="" coords="411,5,584,32"/>
+<area shape="rect" id="node4" href="$de/d3c/classopencog_1_1FuzzyTruthValue.html" title="a TruthValue that stores a mean and the number of observations (strength and confidence) ..." alt="" coords="411,56,583,83"/>
+<area shape="rect" id="node5" href="$df/d01/classopencog_1_1IndefiniteTruthValue.html" title="opencog::IndefiniteTruth\lValue" alt="" coords="418,107,577,149"/>
+<area shape="rect" id="node6" href="$d7/d5d/classopencog_1_1NullTruthValue.html" title="a special type of TruthValue " alt="" coords="417,173,578,200"/>
+<area shape="rect" id="node7" href="$db/d31/classopencog_1_1ProbabilisticTruthValue.html" title="a TruthValue that stores a mean, a confidence and the number of observations " alt="" coords="409,225,586,266"/>
+<area shape="rect" id="node8" href="$d6/ded/classopencog_1_1SimpleTruthValue.html" title="a TruthValue that stores a mean and the number of observations (strength and confidence) ..." alt="" coords="408,291,587,317"/>
+</map>

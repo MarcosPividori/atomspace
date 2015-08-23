@@ -1,0 +1,8 @@
+<map id="opencog/query/FuzzyMatch/FuzzyPatternMatchCB.h" name="opencog/query/FuzzyMatch/FuzzyPatternMatchCB.h">
+<area shape="rect" id="node2" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="251,97,444,138"/>
+<area shape="rect" id="node3" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="5,195,187,221"/>
+<area shape="rect" id="node4" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="123,285,343,312"/>
+<area shape="rect" id="node5" href="$dc/dd0/Instantiator_8h.html" title="opencog/atoms/execution\l/Instantiator.h" alt="" coords="263,187,432,229"/>
+<area shape="rect" id="node6" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="442,278,629,319"/>
+<area shape="rect" id="node7" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="509,187,696,229"/>
+</map>

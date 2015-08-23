@@ -1,0 +1,5 @@
+<map id="opencog::PatternMatchEngine::clause_accept" name="opencog::PatternMatchEngine::clause_accept">
+<area shape="rect" id="node2" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a6a69cda0ec4c8f6275a7c1b2ddad375d" title="opencog::PatternMatchEngine\l::explore_clause" alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node3" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="491,5,685,46"/>
+</map>

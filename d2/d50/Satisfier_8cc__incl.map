@@ -1,0 +1,19 @@
+<map id="opencog/query/Satisfier.cc" name="opencog/query/Satisfier.cc">
+<area shape="rect" id="node2" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="645,269,864,296"/>
+<area shape="rect" id="node16" href="$db/d08/SimpleTruthValue_8h.html" title="opencog/atomspace/Simple\lTruthValue.h" alt="" coords="88,81,270,122"/>
+<area shape="rect" id="node17" href="$df/d92/PatternLink_8h.html" title="opencog/atoms/bind\l/PatternLink.h" alt="" coords="1350,171,1488,213"/>
+<area shape="rect" id="node21" href="$dd/d7b/BindLinkAPI_8h.html" title="BindLinkAPI.h" alt="" coords="172,360,276,387"/>
+<area shape="rect" id="node22" href="$dc/d1f/Satisfier_8h.html" title="Satisfier.h" alt="" coords="802,88,880,115"/>
+<area shape="rect" id="node7" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="402,360,616,387"/>
+<area shape="rect" id="node9" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="1030,443,1224,485"/>
+<area shape="rect" id="node11" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="521,451,740,477"/>
+<area shape="rect" id="node13" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="28,451,242,477"/>
+<area shape="rect" id="node14" href="$d1/d42/AttentionBank_8h.html" title="opencog/atomspace/Attention\lBank.h" alt="" coords="1030,353,1224,394"/>
+<area shape="rect" id="node15" href="$d9/dc4/BackingStore_8h.html" title="opencog/atomspace/Backing\lStore.h" alt="" coords="816,443,1006,485"/>
+<area shape="rect" id="node10" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="1063,533,1255,560"/>
+<area shape="rect" id="node18" href="$d6/d31/Pattern_8h.html" title="opencog/query/Pattern.h" alt="" coords="1400,451,1563,477"/>
+<area shape="rect" id="node19" href="$d2/dac/VariableList_8h.html" title="opencog/atoms/bind\l/VariableList.h" alt="" coords="1350,353,1488,394"/>
+<area shape="rect" id="node20" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="1180,262,1367,303"/>
+<area shape="rect" id="node23" href="$db/d63/InitiateSearchCB_8h.html" title="opencog/query/InitiateSearchCB.h" alt="" coords="792,179,1011,205"/>
+<area shape="rect" id="node24" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="1036,171,1228,213"/>
+</map>

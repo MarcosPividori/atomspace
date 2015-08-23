@@ -1,0 +1,8 @@
+<map id="opencog::AtomSpaceBenchmark" name="opencog::AtomSpaceBenchmark">
+<area shape="rect" id="node2" href="$df/d55/classopencog_1_1PythonEval.html" title="opencog::PythonEval" alt="" coords="5,189,145,216"/>
+<area shape="rect" id="node3" href="$d7/de1/classopencog_1_1GenericEval.html" title="opencog::GenericEval" alt="" coords="141,97,288,124"/>
+<area shape="rect" id="node7" href="$d4/d24/classopencog_1_1SchemeEval.html" title="opencog::SchemeEval" alt="" coords="612,189,760,216"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="313,97,457,124"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="371,189,511,216"/>
+<area shape="rect" id="node8" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="723,97,839,124"/>
+</map>

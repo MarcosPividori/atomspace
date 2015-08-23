@@ -1,0 +1,19 @@
+<map id="opencog/atomspace/AtomTable.h" name="opencog/atomspace/AtomTable.h">
+<area shape="rect" id="node11" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="93,443,288,485"/>
+<area shape="rect" id="node16" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="1551,451,1771,477"/>
+<area shape="rect" id="node20" href="$d6/dcc/FixedIntegerIndex_8h.html" title="opencog/atomspace/FixedInteger\lIndex.h" alt="" coords="279,262,492,303"/>
+<area shape="rect" id="node22" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="2050,451,2264,477"/>
+<area shape="rect" id="node23" href="$d3/db1/ImportanceIndex_8h.html" title="opencog/atomspace/Importance\lIndex.h" alt="" coords="282,171,488,213"/>
+<area shape="rect" id="node24" href="$dc/d52/IncomingIndex_8h.html" title="opencog/atomspace/Incoming\lIndex.h" alt="" coords="981,353,1176,394"/>
+<area shape="rect" id="node26" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="1287,269,1463,296"/>
+<area shape="rect" id="node28" href="$de/dba/LinkIndex_8h.html" title="opencog/atomspace/LinkIndex.h" alt="" coords="699,360,905,387"/>
+<area shape="rect" id="node30" href="$db/d92/Node_8h.html" title="opencog/atomspace/Node.h" alt="" coords="1487,269,1669,296"/>
+<area shape="rect" id="node31" href="$db/d09/NodeIndex_8h.html" title="opencog/atomspace/NodeIndex.h" alt="" coords="1556,88,1769,115"/>
+<area shape="rect" id="node33" href="$d4/da3/TypeIndex_8h.html" title="opencog/atomspace/TypeIndex.h" alt="" coords="799,179,1008,205"/>
+<area shape="rect" id="node14" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="289,541,481,568"/>
+<area shape="rect" id="node19" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="1154,541,1336,568"/>
+<area shape="rect" id="node21" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="1353,360,1535,387"/>
+<area shape="rect" id="node25" href="$d9/da1/HandleSetIndex_8h.html" title="opencog/atomspace/Handle\lSetIndex.h" alt="" coords="621,443,803,485"/>
+<area shape="rect" id="node29" href="$de/de6/HandleSeqIndex_8h.html" title="opencog/atomspace/Handle\lSeqIndex.h" alt="" coords="414,443,596,485"/>
+<area shape="rect" id="node32" href="$d7/dc0/NameIndex_8h.html" title="opencog/atomspace/NameIndex.h" alt="" coords="1554,179,1771,205"/>
+</map>

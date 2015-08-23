@@ -1,0 +1,5 @@
+<map id="ZMQRequestMessage::function" name="ZMQRequestMessage::function">
+<area shape="rect" id="node2" href="$d5/d28/classZMQRequestMessage.html#ad868b60207e24ded46b41093c0116c69" title="ZMQRequestMessage::\lMergeFrom" alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$d8/d66/classopencog_1_1ZMQServer.html#ac7606c809a1c908f6a336aeb634b4e35" title="opencog::ZMQServer\l::zmqLoop" alt="" coords="214,70,357,111"/>
+<area shape="rect" id="node4" href="$d8/d66/classopencog_1_1ZMQServer.html#a9946f41e6fbd5643c305ad0172f3bac0" title="opencog::ZMQServer\l::ZMQServer" alt="" coords="411,70,554,111"/>
+</map>

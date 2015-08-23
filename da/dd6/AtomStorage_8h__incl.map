@@ -1,0 +1,17 @@
+<map id="opencog/persist/sql/AtomStorage.h" name="opencog/persist/sql/AtomStorage.h">
+<area shape="rect" id="node8" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="943,376,1125,403"/>
+<area shape="rect" id="node15" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="1594,557,1776,584"/>
+<area shape="rect" id="node18" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="141,195,317,221"/>
+<area shape="rect" id="node20" href="$db/d92/Node_8h.html" title="opencog/atomspace/Node.h" alt="" coords="342,195,524,221"/>
+<area shape="rect" id="node21" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="1390,104,1604,131"/>
+<area shape="rect" id="node31" href="$d0/d82/odbcxx_8h.html" title="opencog/persist/sql\l/odbcxx.h" alt="" coords="2431,97,2563,138"/>
+<area shape="rect" id="node13" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="411,459,605,501"/>
+<area shape="rect" id="node14" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="1275,467,1495,493"/>
+<area shape="rect" id="node17" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="782,467,996,493"/>
+<area shape="rect" id="node25" href="$d6/dcc/FixedIntegerIndex_8h.html" title="opencog/atomspace/FixedInteger\lIndex.h" alt="" coords="1583,278,1796,319"/>
+<area shape="rect" id="node26" href="$d3/db1/ImportanceIndex_8h.html" title="opencog/atomspace/Importance\lIndex.h" alt="" coords="702,187,908,229"/>
+<area shape="rect" id="node27" href="$dc/d52/IncomingIndex_8h.html" title="opencog/atomspace/Incoming\lIndex.h" alt="" coords="2247,369,2441,410"/>
+<area shape="rect" id="node28" href="$de/dba/LinkIndex_8h.html" title="opencog/atomspace/LinkIndex.h" alt="" coords="1575,376,1781,403"/>
+<area shape="rect" id="node29" href="$db/d09/NodeIndex_8h.html" title="opencog/atomspace/NodeIndex.h" alt="" coords="2009,376,2223,403"/>
+<area shape="rect" id="node30" href="$d4/da3/TypeIndex_8h.html" title="opencog/atomspace/TypeIndex.h" alt="" coords="1737,195,1947,221"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="opencog::ModuleWrap::module_init" name="opencog::ModuleWrap::module_init">
+<area shape="rect" id="node2" href="$d9/d12/ExampleSCM_8h.html#a4f6e4b5ea96b02c1996cf4d2d6f25cec" title="opencog_example_init" alt="" coords="203,5,354,32"/>
+<area shape="rect" id="node3" href="$dd/db9/ExecSCM_8h.html#ae025583fd3d4b33e733fad5078cf53c6" title="opencog_exec_init" alt="" coords="214,56,343,83"/>
+<area shape="rect" id="node4" href="$d5/d4b/PatternSCM_8h.html#a796408413ce26c910bed87b16df6745d" title="opencog_query_init" alt="" coords="212,107,345,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sokoban._generate_levels" name="sokoban._generate_levels">
+<area shape="rect" id="node2" href="$de/d49/namespacesokoban.html#a6b48867aa53a29c317d33b7cb7d60e48" title="sokoban.generate_levels\l_from_file" alt="" coords="224,17,387,58"/>
+<area shape="rect" id="node4" href="$de/d49/namespacesokoban.html#ad10a08bb39a496bab625503ca317f534" title="sokoban.generate_levels\l_from_url" alt="" coords="224,86,387,127"/>
+<area shape="rect" id="node3" href="$de/d49/namespacesokoban.html#a9ed52ee084c93fcc9047bd767a39ff92" title="sokoban.add_socoban\l_level_to_atomspace\l_from_file" alt="" coords="435,5,584,61"/>
+<area shape="rect" id="node5" href="$de/d49/namespacesokoban.html#a5eafa7b19b2ea7b444213f8d2f6a8f98" title="sokoban.add_socoban\l_level_to_atomspace\l_from_url" alt="" coords="435,85,584,141"/>
+</map>

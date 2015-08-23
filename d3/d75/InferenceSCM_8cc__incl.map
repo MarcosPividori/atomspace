@@ -1,0 +1,19 @@
+<map id="opencog/rule&#45;engine/InferenceSCM.cc" name="opencog/rule&#45;engine/InferenceSCM.cc">
+<area shape="rect" id="node2" href="$d4/d7f/InferenceSCM_8h.html" title="InferenceSCM.h" alt="" coords="879,111,993,137"/>
+<area shape="rect" id="node5" href="$df/d35/SchemePrimitive_8h.html" title="opencog/guile/SchemePrimitive.h" alt="" coords="995,312,1209,339"/>
+<area shape="rect" id="node7" href="$df/d3d/SchemeSmob_8h.html" title="opencog/guile/SchemeSmob.h" alt="" coords="722,403,920,429"/>
+<area shape="rect" id="node9" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="319,485,539,512"/>
+<area shape="rect" id="node11" href="$d0/ddd/ForwardChainer_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.h" alt="" coords="306,207,520,249"/>
+<area shape="rect" id="node17" href="$d3/d98/DefaultForwardChainerCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.h" alt="" coords="571,96,772,152"/>
+<area shape="rect" id="node20" href="$d4/d48/BackwardChainer_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.h" alt="" coords="43,207,281,249"/>
+<area shape="rect" id="node3" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="784,485,976,512"/>
+<area shape="rect" id="node6" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="651,560,865,587"/>
+<area shape="rect" id="node10" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="890,560,1109,587"/>
+<area shape="rect" id="node13" href="$d4/de6/UREConfigReader_8h.html" title="opencog/rule&#45;engine\l/UREConfigReader.h" alt="" coords="187,305,325,346"/>
+<area shape="rect" id="node15" href="$dc/d45/URECommons_8h.html" title="opencog/rule&#45;engine\l/URECommons.h" alt="" coords="360,395,499,437"/>
+<area shape="rect" id="node16" href="$d4/d7d/FCMemory_8h.html" title="FCMemory.h" alt="" coords="519,312,613,339"/>
+<area shape="rect" id="node14" href="$d2/d59/Rule_8h.html" title="Rule.h" alt="" coords="176,403,233,429"/>
+<area shape="rect" id="node18" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="545,200,748,256"/>
+<area shape="rect" id="node19" href="$d0/de0/ForwardChainerCallBack_8h.html" title="ForwardChainerCallBack.h" alt="" coords="523,403,697,429"/>
+<area shape="rect" id="node21" href="$db/dc0/Target_8h.html" title="Target.h" alt="" coords="93,312,163,339"/>
+</map>

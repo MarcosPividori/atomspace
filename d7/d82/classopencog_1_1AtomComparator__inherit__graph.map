@@ -1,0 +1,5 @@
+<map id="opencog::AtomComparator" name="opencog::AtomComparator">
+<area shape="rect" id="node2" href="$d0/d6f/structopencog_1_1AttentionValue_1_1LTIAndTVAscendingSort.html" title="functor for comparing atom&#39;s attention value " alt="" coords="232,5,403,46"/>
+<area shape="rect" id="node3" href="$de/d69/structopencog_1_1AttentionValue_1_1LTIThenTVAscendingSort.html" title="functor for comparing atom&#39;s attention value " alt="" coords="229,70,405,111"/>
+<area shape="rect" id="node4" href="$d1/db9/structopencog_1_1AttentionValue_1_1STISort.html" title="functor for comparing atom&#39;s attention value " alt="" coords="237,135,398,177"/>
+</map>

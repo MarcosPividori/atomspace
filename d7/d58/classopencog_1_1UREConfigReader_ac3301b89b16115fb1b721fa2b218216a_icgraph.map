@@ -1,0 +1,6 @@
+<map id="opencog::UREConfigReader::get_maximum_iterations" name="opencog::UREConfigReader::get_maximum_iterations">
+<area shape="rect" id="node2" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4e142501d5b8b6b903d69064ae2e9b9b" title="opencog::BackwardChainer\l::do_chain" alt="" coords="235,5,413,46"/>
+<area shape="rect" id="node4" href="$db/d32/classopencog_1_1ForwardChainer.html#ab861a290dcc7957a925e0be5eaf054d1" title="opencog::ForwardChainer\l::do_chain" alt="" coords="241,70,407,111"/>
+<area shape="rect" id="node3" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a4ed0171b58c3ba389f963b517d4a9271" title="opencog::InferenceSCM\l::do_backward_chaining" alt="" coords="461,5,621,46"/>
+<area shape="rect" id="node5" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a960bdf8c81fe98396c4de1a657eb8d98" title="opencog::InferenceSCM\l::do_forward_chaining" alt="" coords="461,70,621,111"/>
+</map>

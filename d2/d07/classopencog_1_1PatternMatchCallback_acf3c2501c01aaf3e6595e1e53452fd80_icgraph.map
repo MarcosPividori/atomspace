@@ -1,0 +1,6 @@
+<map id="opencog::PatternMatchCallback::get_incoming_set" name="opencog::PatternMatchCallback::get_incoming_set">
+<area shape="rect" id="node2" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a0f9733843e1c15401b049ddee32f87f4" title="opencog::InitiateSearchCB\l::neighbor_search" alt="" coords="269,5,443,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a4eae42fdf0080515d9ead23680fc2725" title="opencog::PatternMatchEngine\l::explore_up_branches" alt="" coords="259,70,453,111"/>
+<area shape="rect" id="node3" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="511,5,686,46"/>
+<area shape="rect" id="node5" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="501,70,696,111"/>
+</map>

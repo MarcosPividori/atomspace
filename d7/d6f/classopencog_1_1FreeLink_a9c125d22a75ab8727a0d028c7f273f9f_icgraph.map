@@ -1,0 +1,5 @@
+<map id="opencog::FreeLink::init" name="opencog::FreeLink::init">
+<area shape="rect" id="node2" href="$d7/d6f/classopencog_1_1FreeLink.html#a3610d4258e9af6ecab688d6ccacc14ea" title="opencog::FreeLink::\lFreeLink" alt="" coords="215,5,348,46"/>
+<area shape="rect" id="node3" href="$da/d10/classopencog_1_1AssignLink.html#a493098a0675b73b7126d44ba568437cb" title="opencog::AssignLink\l::AssignLink" alt="" coords="212,70,351,111"/>
+<area shape="rect" id="node4" href="$d3/d8d/classopencog_1_1FunctionLink.html#a9f2bf9ec9fbb77b94a8b7bdff1ebc089" title="opencog::FunctionLink\l::FunctionLink" alt="" coords="206,135,357,177"/>
+</map>

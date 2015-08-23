@@ -1,0 +1,5 @@
+<map id="opencog::AttentionBank::RemoveAFSignal" name="opencog::AttentionBank::RemoveAFSignal">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a33b93d88133458c973019f18cb1f2e5f" title="opencog::AtomSpace\l::RemoveAFSignal" alt="" coords="221,5,366,46"/>
+<area shape="rect" id="node3" href="$df/d07/classopencog_1_1AttentionBank.html#af23a51217c6b49664cf55af7a48579e4" title="opencog::AttentionBank\l::AVChanged" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node4" href="$df/d07/classopencog_1_1AttentionBank.html#ab9592243304a6d823eaad16e95b324b0" title="opencog::AttentionBank\l::AttentionBank" alt="" coords="422,70,581,111"/>
+</map>

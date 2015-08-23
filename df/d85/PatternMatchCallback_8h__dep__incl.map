@@ -1,0 +1,26 @@
+<map id="opencog/query/PatternMatchCallback.h" name="opencog/query/PatternMatchCallback.h">
+<area shape="rect" id="node2" href="$df/d92/PatternLink_8h.html" title="opencog/atoms/bind\l/PatternLink.h" alt="" coords="627,187,765,229"/>
+<area shape="rect" id="node5" href="$d2/de7/PatternMatch_8cc.html" title="opencog/query/PatternMatch.cc" alt="" coords="1709,383,1915,409"/>
+<area shape="rect" id="node9" href="$de/d0c/Composition_8cc.html" title="opencog/query/Composition.cc" alt="" coords="935,285,1133,312"/>
+<area shape="rect" id="node13" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="1627,187,1820,229"/>
+<area shape="rect" id="node15" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="1133,383,1352,409"/>
+<area shape="rect" id="node20" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="1905,97,2092,138"/>
+<area shape="rect" id="node21" href="$db/d63/InitiateSearchCB_8h.html" title="opencog/query/InitiateSearchCB.h" alt="" coords="2169,195,2388,221"/>
+<area shape="rect" id="node24" href="$d1/d15/Implicator_8h.html" title="opencog/query/Implicator.h" alt="" coords="2545,195,2721,221"/>
+<area shape="rect" id="node25" href="$de/d65/PatternMatch_8h.html" title="opencog/query/PatternMatch.h" alt="" coords="2537,285,2735,312"/>
+<area shape="rect" id="node3" href="$d4/d7f/BindLink_8h.html" title="opencog/atoms/bind\l/BindLink.h" alt="" coords="357,278,496,319"/>
+<area shape="rect" id="node4" href="$df/d0e/AtomTable_8cc.html" title="opencog/atomspace/AtomTable.cc" alt="" coords="335,383,557,409"/>
+<area shape="rect" id="node6" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="935,472,1136,528"/>
+<area shape="rect" id="node7" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="484,479,705,521"/>
+<area shape="rect" id="node8" href="$dc/d05/PatternLink_8cc.html" title="opencog/atoms/bind\l/PatternLink.cc" alt="" coords="520,278,659,319"/>
+<area shape="rect" id="node10" href="$d0/dc8/FuzzyPatternMatch_8cc.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatch.cc" alt="" coords="733,375,912,417"/>
+<area shape="rect" id="node11" href="$d1/d57/Satisfier_8cc.html" title="opencog/query/Satisfier.cc" alt="" coords="936,383,1109,409"/>
+<area shape="rect" id="node12" href="$d0/d51/BackwardChainer_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.cc" alt="" coords="27,278,272,319"/>
+<area shape="rect" id="node14" href="$d6/d41/AttentionalFocusCB_8h.html" title="opencog/query/Attentional\lFocusCB.h" alt="" coords="1209,278,1380,319"/>
+<area shape="rect" id="node16" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="2005,368,2208,424"/>
+<area shape="rect" id="node17" href="$d7/d83/DefaultPatternMatchCB_8cc.html" title="opencog/query/DefaultPattern\lMatchCB.cc" alt="" coords="1405,278,1597,319"/>
+<area shape="rect" id="node18" href="$db/dc1/FuzzyPatternMatchCB_8h.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatchCB.h" alt="" coords="1623,278,1801,319"/>
+<area shape="rect" id="node19" href="$dc/d1f/Satisfier_8h.html" title="opencog/query/Satisfier.h" alt="" coords="1877,285,2043,312"/>
+<area shape="rect" id="node22" href="$db/d0a/InitiateSearchCB_8cc.html" title="opencog/query/InitiateSearch\lCB.cc" alt="" coords="2119,278,2309,319"/>
+<area shape="rect" id="node23" href="$d8/d1e/PatternMatchEngine_8cc.html" title="opencog/query/PatternMatch\lEngine.cc" alt="" coords="1855,187,2043,229"/>
+</map>

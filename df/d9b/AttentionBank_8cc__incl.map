@@ -1,0 +1,15 @@
+<map id="opencog/atomspace/AttentionBank.cc" name="opencog/atomspace/AttentionBank.cc">
+<area shape="rect" id="node4" href="$d1/d42/AttentionBank_8h.html" title="AttentionBank.h" alt="" coords="143,179,257,205"/>
+<area shape="rect" id="node9" href="$d1/d2f/AtomTable_8h.html" title="AtomTable.h" alt="" coords="1450,96,1544,123"/>
+<area shape="rect" id="node8" href="$d3/dd6/AttentionValue_8h.html" title="opencog/atomspace/Attention\lValue.h" alt="" coords="639,262,833,303"/>
+<area shape="rect" id="node18" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="333,179,552,205"/>
+<area shape="rect" id="node19" href="$d6/dcc/FixedIntegerIndex_8h.html" title="opencog/atomspace/FixedInteger\lIndex.h" alt="" coords="965,262,1179,303"/>
+<area shape="rect" id="node20" href="$d3/db1/ImportanceIndex_8h.html" title="opencog/atomspace/Importance\lIndex.h" alt="" coords="730,171,936,213"/>
+<area shape="rect" id="node21" href="$dc/d52/IncomingIndex_8h.html" title="opencog/atomspace/Incoming\lIndex.h" alt="" coords="2137,171,2332,213"/>
+<area shape="rect" id="node22" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="2356,179,2532,205"/>
+<area shape="rect" id="node23" href="$de/dba/LinkIndex_8h.html" title="opencog/atomspace/LinkIndex.h" alt="" coords="2763,179,2969,205"/>
+<area shape="rect" id="node24" href="$db/d92/Node_8h.html" title="opencog/atomspace/Node.h" alt="" coords="2557,179,2739,205"/>
+<area shape="rect" id="node25" href="$db/d09/NodeIndex_8h.html" title="opencog/atomspace/NodeIndex.h" alt="" coords="1247,179,1460,205"/>
+<area shape="rect" id="node26" href="$de/d06/TruthValue_8h.html" title="opencog/atomspace/TruthValue.h" alt="" coords="3046,179,3260,205"/>
+<area shape="rect" id="node27" href="$d4/da3/TypeIndex_8h.html" title="opencog/atomspace/TypeIndex.h" alt="" coords="1012,179,1221,205"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="opencog::Atom" name="opencog::Atom">
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="326,109,466,136"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="587,113,733,140"/>
+<area shape="rect" id="node4" href="$d8/d2a/classopencog_1_1NodeIndex.html" title="opencog::NodeIndex" alt="" coords="23,33,161,60"/>
+<area shape="rect" id="node5" href="$de/d15/classopencog_1_1ImportanceIndex.html" title="opencog::ImportanceIndex" alt="" coords="5,84,179,111"/>
+<area shape="rect" id="node6" href="$dc/d01/classopencog_1_1LinkIndex.html" title="opencog::LinkIndex" alt="" coords="26,135,158,161"/>
+<area shape="rect" id="node8" href="$d2/d92/classopencog_1_1TypeIndex.html" title="opencog::TypeIndex" alt="" coords="24,185,160,212"/>
+</map>

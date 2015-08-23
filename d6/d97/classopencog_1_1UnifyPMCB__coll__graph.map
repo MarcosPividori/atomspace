@@ -1,0 +1,6 @@
+<map id="opencog::UnifyPMCB" name="opencog::UnifyPMCB">
+<area shape="rect" id="node2" href="$df/de3/classopencog_1_1BackwardChainerPMCB.html" title="opencog::BackwardChainerPMCB" alt="" coords="28,187,244,213"/>
+<area shape="rect" id="node3" href="$d7/d33/classopencog_1_1InitiateSearchCB.html" title="opencog::InitiateSearchCB" alt="" coords="49,109,223,136"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="63,5,208,32"/>
+<area shape="rect" id="node5" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="247,109,461,136"/>
+</map>

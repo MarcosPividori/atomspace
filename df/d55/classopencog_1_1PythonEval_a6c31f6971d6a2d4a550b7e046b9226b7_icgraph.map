@@ -1,0 +1,7 @@
+<map id="opencog::PythonEval::create_singleton_instance" name="opencog::PythonEval::create_singleton_instance">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#ab85c14c8a7c23c5d026c128121dae16d" title="opencog::initialize\l_opencog" alt="" coords="241,5,364,46"/>
+<area shape="rect" id="node3" href="$df/d55/classopencog_1_1PythonEval.html#a59e96a1064e84c9944e83e04e3926854" title="opencog::PythonEval\l::instance" alt="" coords="232,70,373,111"/>
+<area shape="rect" id="node4" href="$d4/dc7/classopencog_1_1EvaluationLink.html#aac399f17845ebd7c4a214d421a3cd9eb" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="447,5,607,46"/>
+<area shape="rect" id="node5" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html#ae16a76e9b94d0b5bfee3ab2093406e85" title="opencog::ExecutionOutput\lLink::do_execute" alt="" coords="441,70,613,111"/>
+<area shape="rect" id="node6" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a494831c6d14b03acd246db7a06a43aa6" title="opencog::AtomSpaceBenchmark\l::startBenchmark" alt="" coords="421,135,632,177"/>
+</map>

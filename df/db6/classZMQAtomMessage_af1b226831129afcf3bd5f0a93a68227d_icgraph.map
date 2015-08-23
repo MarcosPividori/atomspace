@@ -1,0 +1,9 @@
+<map id="ZMQAtomMessage::trail" name="ZMQAtomMessage::trail">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1f8f579821c461a7f30a8d3e74d7a80e" title="opencog::ProtocolBufferSerializer\l::deserializeLink" alt="" coords="213,5,424,46"/>
+<area shape="rect" id="node4" href="$df/db6/classZMQAtomMessage.html#a403b50b4b6bdf803330b6875d6827b59" title="ZMQAtomMessage::Serialize\lWithCachedSizes" alt="" coords="225,70,413,111"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a915b38ce60c7bdd2a745bc7ed5d22430" title="ZMQAtomMessage::Serialize\lWithCachedSizesToArray" alt="" coords="225,135,413,177"/>
+<area shape="rect" id="node6" href="$df/db6/classZMQAtomMessage.html#a4218938dc7c09ae4994e67b52078c282" title="ZMQAtomMessage::ByteSize" alt="" coords="223,201,414,228"/>
+<area shape="rect" id="node7" href="$df/db6/classZMQAtomMessage.html#a0cad03cbcda48a2688e72f8e9e4ee888" title="ZMQAtomMessage::MergeFrom" alt="" coords="216,252,421,279"/>
+<area shape="rect" id="node8" href="$df/db6/classZMQAtomMessage.html#a91492d7d86945a953099bf83a1069ff5" title="ZMQAtomMessage::IsInitialized" alt="" coords="217,303,420,329"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a7373e7c8aefbb120b59d9a8fc564aa9a" title="opencog::ProtocolBufferSerializer\l::deserialize" alt="" coords="472,5,683,46"/>
+</map>

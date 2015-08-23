@@ -1,0 +1,24 @@
+<map id="opencog::ClassServer::getType" name="opencog::ClassServer::getType">
+<area shape="rect" id="node2" href="$da/d10/classopencog_1_1AssignLink.html#a3f1b3f344c4f82e7ddcf3e501849452b" title="opencog::AssignLink\l::init" alt="" coords="211,5,349,46"/>
+<area shape="rect" id="node3" href="$d5/dbc/classopencog_1_1TypeNode.html#ae00185c03f42148418570ff7b94ea125" title="opencog::TypeNode::\lvalidate" alt="" coords="209,70,351,111"/>
+<area shape="rect" id="node5" href="$d7/d55/classopencog_1_1ClassServer.html#a98ff3ca24250274c45dc7d92203c6b5f" title="opencog::ClassServer\l::addType" alt="" coords="207,135,353,177"/>
+<area shape="rect" id="node6" href="$de/d3e/classopencog_1_1SchemePrimitive.html#a8908022ff4f036ecfd3bab0dbbd72b64" title="opencog::SchemePrimitive\l::invoke" alt="" coords="409,463,583,505"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a29786596c7cbca16c8cba189211528fb" title="opencog::SchemeSmob\l::ss_get_type" alt="" coords="417,165,575,206"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#acb1a045f99be65a8911b85380fca20ee" title="opencog::SchemeSmob\l::ss_type_p" alt="" coords="417,230,575,271"/>
+<area shape="rect" id="node10" href="$db/dcd/classopencog_1_1SchemeSmob.html#a82831b94d1af168e0601c577cd857a8f" title="opencog::SchemeSmob\l::ss_node_type_p" alt="" coords="417,295,575,337"/>
+<area shape="rect" id="node11" href="$db/dcd/classopencog_1_1SchemeSmob.html#a76f476cba03196af00005dbc03668377" title="opencog::SchemeSmob\l::ss_link_type_p" alt="" coords="201,354,359,395"/>
+<area shape="rect" id="node12" href="$db/dcd/classopencog_1_1SchemeSmob.html#a3008b0cd5dfc44357d5ae0ff67154c6b" title="opencog::SchemeSmob\l::ss_subtype_p" alt="" coords="201,419,359,461"/>
+<area shape="rect" id="node13" href="$db/dcd/classopencog_1_1SchemeSmob.html#aaab479894cb4f36b8b93c2f5bd083a62" title="opencog::SchemeSmob\l::verify_atom_type" alt="" coords="201,537,359,578"/>
+<area shape="rect" id="node20" href="$d0/d76/AtomSpace__CWrapper_8h.html#a759a30348db864def240c61cc9637448" title="AtomSpace_addNode" alt="" coords="206,603,354,629"/>
+<area shape="rect" id="node21" href="$d0/d76/AtomSpace__CWrapper_8h.html#aae3970bbf622a8d292ec800bac1a79df" title="AtomSpace_addLink" alt="" coords="209,653,351,680"/>
+<area shape="rect" id="node22" href="$d0/d76/AtomSpace__CWrapper_8h.html#a9c3f73d1db0bede61a2853f87cbbba0f" title="AtomSpace_getNode" alt="" coords="207,704,353,731"/>
+<area shape="rect" id="node23" href="$d0/d76/AtomSpace__CWrapper_8h.html#a098644de812809beed09389e6fe4a493" title="AtomSpace_getLink" alt="" coords="211,755,349,781"/>
+<area shape="rect" id="node4" href="$d9/da7/classopencog_1_1AtomTable.html#ad85f950e08e1f48e1e4c577794ca08e3" title="opencog::AtomTable\l::getHandle" alt="" coords="426,70,566,111"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="633,529,791,570"/>
+<area shape="rect" id="node14" href="$db/dcd/classopencog_1_1SchemeSmob.html#abc6ed62111ceb89d85aa1ba35868f717" title="opencog::SchemeSmob\l::ss_map_type" alt="" coords="417,725,575,766"/>
+<area shape="rect" id="node15" href="$db/dcd/classopencog_1_1SchemeSmob.html#a217bc53c42079d04afaea619b9b51559" title="opencog::SchemeSmob\l::ss_get_subtypes" alt="" coords="417,790,575,831"/>
+<area shape="rect" id="node16" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="417,855,575,897"/>
+<area shape="rect" id="node17" href="$db/dcd/classopencog_1_1SchemeSmob.html#a8cce86839db8fbc9c0914485a6db374b" title="opencog::SchemeSmob\l::ss_node" alt="" coords="417,529,575,570"/>
+<area shape="rect" id="node18" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="417,594,575,635"/>
+<area shape="rect" id="node19" href="$db/dcd/classopencog_1_1SchemeSmob.html#af4b3a9f2cff7e8b7eb66829dce4cf659" title="opencog::SchemeSmob\l::ss_link" alt="" coords="417,659,575,701"/>
+</map>

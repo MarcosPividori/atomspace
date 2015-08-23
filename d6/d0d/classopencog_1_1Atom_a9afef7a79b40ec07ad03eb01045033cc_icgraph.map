@@ -1,0 +1,34 @@
+<map id="opencog::Atom::toShortString" name="opencog::Atom::toShortString">
+<area shape="rect" id="node2" href="$d5/d7f/ExampleSCM_8cc.html#a2468db076b4f738e2cf87714406b33a8" title="ss_print" alt="" coords="311,12,377,39"/>
+<area shape="rect" id="node4" href="$d9/de0/classopencog_1_1LambdaLink.html#acc205d4c0c6787b3e723c4b2294e80e7" title="opencog::LambdaLink::prt" alt="" coords="260,63,428,89"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a1d6375cb0964690ca3adf43e65add1e8" title="opencog::PatternLink::prt" alt="" coords="262,113,426,140"/>
+<area shape="rect" id="node7" href="$d2/d55/classopencog_1_1AtomSpace.html#ac18cf34764b2cc8f0186228b0af9857e" title="opencog::AtomSpace\l::atom_as_string" alt="" coords="271,165,417,206"/>
+<area shape="rect" id="node8" href="$de/d0c/Composition_8cc.html#a8066dedc1e4fb8f983d59f4afd10e263" title="prtmsg" alt="" coords="313,231,375,257"/>
+<area shape="rect" id="node10" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9" title="opencog::DefaultPatternMatch\lCB::clause_match" alt="" coords="246,282,442,323"/>
+<area shape="rect" id="node11" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60" title="opencog::DefaultPatternMatch\lCB::eval_term" alt="" coords="246,347,442,389"/>
+<area shape="rect" id="node12" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a74390d15d01302a4da386917331ca2be" title="opencog::DefaultPatternMatch\lCB::eval_sentence" alt="" coords="491,373,687,414"/>
+<area shape="rect" id="node13" href="$dc/d0d/namespaceopencog.html#a99f2416f3caacc3a54097bfd1ae395f4" title="opencog::find_approximate\l_match" alt="" coords="257,465,431,506"/>
+<area shape="rect" id="node15" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a13fc4446e362503e5697c784e9341ea4" title="opencog::FuzzyPatternMatch\lCB::initiate_search" alt="" coords="250,530,438,571"/>
+<area shape="rect" id="node16" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#abe0af41e981ecabc6fcb7889b456ba6a" title="opencog::FuzzyPatternMatch\lCB::check_if_accept" alt="" coords="250,595,438,637"/>
+<area shape="rect" id="node18" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a0f9733843e1c15401b049ddee32f87f4" title="opencog::InitiateSearchCB\l::neighbor_search" alt="" coords="257,661,431,702"/>
+<area shape="rect" id="node20" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a676351afb643a0a9c8ebdff85094a9cb" title="opencog::InitiateSearchCB\l::link_type_search" alt="" coords="257,726,431,767"/>
+<area shape="rect" id="node21" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="257,791,431,833"/>
+<area shape="rect" id="node22" href="$d8/d1e/PatternMatchEngine_8cc.html#ac29680d68f8e89e981759f5e434336dc" title="prt" alt="" coords="325,857,363,884"/>
+<area shape="rect" id="node24" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aa80a7e1ba07387ad2fb4087134087b56" title="opencog::PatternMatchEngine\l::variable_compare" alt="" coords="247,909,441,950"/>
+<area shape="rect" id="node26" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#ae497a235a7c69a7d0036cf4c46fb08ca" title="opencog::PatternMatchEngine\l::print_solution" alt="" coords="247,974,441,1015"/>
+<area shape="rect" id="node29" href="$d6/d95/classopencog_1_1BackwardChainer.html#ac8277f22eeefd76b064fd36f269a3e2d" title="opencog::BackwardChainer\l::do_step" alt="" coords="963,1062,1141,1103"/>
+<area shape="rect" id="node31" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="736,1113,915,1154"/>
+<area shape="rect" id="node32" href="$d6/d95/classopencog_1_1BackwardChainer.html#affad62fad13ecc94aaa28b2a16652de4" title="opencog::BackwardChainer\l::match_knowledge_base" alt="" coords="255,1142,433,1183"/>
+<area shape="rect" id="node33" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4054c27984aedb47cbaec781efc5ecd6" title="opencog::BackwardChainer\l::ground_premises" alt="" coords="500,1193,679,1234"/>
+<area shape="rect" id="node3" href="$d1/d18/classopencog_1_1ExampleSCM.html#ae9e21a538fda1b01855a43c85568c5ce" title="opencog::ExampleSCM\l::init" alt="" coords="512,5,667,46"/>
+<area shape="rect" id="node6" href="$d2/d43/classopencog_1_1PatternLink.html#a12df41b72a14081eebb01d4951d8f2e9" title="opencog::PatternLink\l::debug_print" alt="" coords="518,106,661,147"/>
+<area shape="rect" id="node9" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a7547a30d0209c7d0fa37cc35797ef952" title="opencog::PatternMatchEngine\l::redex_compare" alt="" coords="492,223,687,265"/>
+<area shape="rect" id="node14" href="$d8/d46/classopencog_1_1PatternSCM.html#a5ccf3303fde7c67719edb8f0f10acff7" title="opencog::PatternSCM\l::init" alt="" coords="515,465,663,506"/>
+<area shape="rect" id="node17" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a5a5f5304c026634b320e5c32218003af" title="opencog::FuzzyPatternMatch\lCB::link_match" alt="" coords="495,595,683,637"/>
+<area shape="rect" id="node19" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="502,713,677,754"/>
+<area shape="rect" id="node23" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a109897bb6d232dd96000a21703129dd4" title="opencog::PatternMatchEngine\l::print_term" alt="" coords="492,778,687,819"/>
+<area shape="rect" id="node25" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="492,843,687,885"/>
+<area shape="rect" id="node27" href="$d2/dc4/classopencog_1_1PatternMatch.html#a49523abc0662e1ac05ff9da59d5869d6" title="opencog::PatternMatch\l::recursive_virtual" alt="" coords="512,909,667,950"/>
+<area shape="rect" id="node28" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afceb7da2344ec1d65f0a96e2b2c79ae5" title="opencog::PatternMatchEngine\l::do_next_clause" alt="" coords="492,974,687,1015"/>
+<area shape="rect" id="node30" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4e142501d5b8b6b903d69064ae2e9b9b" title="opencog::BackwardChainer\l::do_chain" alt="" coords="1189,1062,1368,1103"/>
+</map>

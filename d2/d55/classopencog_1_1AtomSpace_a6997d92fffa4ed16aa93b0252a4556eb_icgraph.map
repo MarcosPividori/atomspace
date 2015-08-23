@@ -1,0 +1,11 @@
+<map id="opencog::AtomSpace::get_handles_by_type" name="opencog::AtomSpace::get_handles_by_type">
+<area shape="rect" id="node2" href="$de/dbc/classopencog_1_1RemoveLink.html#a6c4f03dd054522ae925076c1415d3ac8" title="opencog::RemoveLink\l::execute" alt="" coords="217,5,365,46"/>
+<area shape="rect" id="node3" href="$d8/dcc/namespacestd.html#a817b03adf5018b290cf014bbf54d05c2" title="std::operator\&lt;\&lt;" alt="" coords="237,71,345,97"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a2f9d2eb68e3c540d3af6b79f35260c07" title="opencog::AtomSpace\l::foreach_handle_of_type" alt="" coords="208,122,373,163"/>
+<area shape="rect" id="node5" href="$d2/d55/classopencog_1_1AtomSpace.html#af49621f5d3860e1cf73d9f55f0ce4b2e" title="opencog::AtomSpace\l::get_handles_by_name" alt="" coords="213,187,369,229"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#abc6ed62111ceb89d85aa1ba35868f717" title="opencog::SchemeSmob\l::ss_map_type" alt="" coords="211,253,370,294"/>
+<area shape="rect" id="node8" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a676351afb643a0a9c8ebdff85094a9cb" title="opencog::InitiateSearchCB\l::link_type_search" alt="" coords="203,318,378,359"/>
+<area shape="rect" id="node10" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="203,383,378,425"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="435,253,594,294"/>
+<area shape="rect" id="node9" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="427,350,602,391"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="opencog::FuzzyTruthValue::confidenceToCount" name="opencog::FuzzyTruthValue::confidenceToCount">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a70ef5659a79ef4290bb535061713d411" title="opencog::SchemeSmob\l::ss_new_ftv" alt="" coords="227,5,386,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="435,5,594,46"/>
+</map>

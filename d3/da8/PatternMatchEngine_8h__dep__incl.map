@@ -1,0 +1,15 @@
+<map id="opencog/query/PatternMatchEngine.h" name="opencog/query/PatternMatchEngine.h">
+<area shape="rect" id="node2" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="opencog/query/DefaultPattern\lMatchCB.h" alt="" coords="487,97,679,138"/>
+<area shape="rect" id="node10" href="$de/d0c/Composition_8cc.html" title="opencog/query/Composition.cc" alt="" coords="1133,104,1331,131"/>
+<area shape="rect" id="node11" href="$db/d63/InitiateSearchCB_8h.html" title="opencog/query/InitiateSearchCB.h" alt="" coords="841,104,1059,131"/>
+<area shape="rect" id="node12" href="$db/d0a/InitiateSearchCB_8cc.html" title="opencog/query/InitiateSearch\lCB.cc" alt="" coords="1039,187,1229,229"/>
+<area shape="rect" id="node13" href="$d2/de7/PatternMatch_8cc.html" title="opencog/query/PatternMatch.cc" alt="" coords="10,292,215,319"/>
+<area shape="rect" id="node14" href="$d8/d1e/PatternMatchEngine_8cc.html" title="opencog/query/PatternMatch\lEngine.cc" alt="" coords="1356,97,1543,138"/>
+<area shape="rect" id="node3" href="$d6/d41/AttentionalFocusCB_8h.html" title="opencog/query/Attentional\lFocusCB.h" alt="" coords="497,187,669,229"/>
+<area shape="rect" id="node4" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="247,292,466,319"/>
+<area shape="rect" id="node6" href="$d3/dcb/ForwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer\lPMCB.h" alt="" coords="605,277,809,333"/>
+<area shape="rect" id="node7" href="$d7/d83/DefaultPatternMatchCB_8cc.html" title="opencog/query/DefaultPattern\lMatchCB.cc" alt="" coords="280,187,473,229"/>
+<area shape="rect" id="node8" href="$db/dc1/FuzzyPatternMatchCB_8h.html" title="opencog/query/FuzzyMatch\l/FuzzyPatternMatchCB.h" alt="" coords="26,187,205,229"/>
+<area shape="rect" id="node9" href="$dc/d1f/Satisfier_8h.html" title="opencog/query/Satisfier.h" alt="" coords="745,195,911,221"/>
+<area shape="rect" id="node5" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="133,381,334,437"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="opencog/query/DefaultImplicator.h" name="opencog/query/DefaultImplicator.h">
+<area shape="rect" id="node2" href="$d6/d41/AttentionalFocusCB_8h.html" title="AttentionalFocusCB.h" alt="" coords="392,80,539,107"/>
+<area shape="rect" id="node3" href="$de/d4e/DefaultPatternMatchCB_8h.html" title="DefaultPatternMatchCB.h" alt="" coords="270,155,439,181"/>
+<area shape="rect" id="node8" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="510,321,697,362"/>
+<area shape="rect" id="node10" href="$d1/d15/Implicator_8h.html" title="Implicator.h" alt="" coords="5,155,93,181"/>
+<area shape="rect" id="node11" href="$db/d63/InitiateSearchCB_8h.html" title="InitiateSearchCB.h" alt="" coords="539,155,668,181"/>
+<area shape="rect" id="node4" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="383,237,565,264"/>
+<area shape="rect" id="node5" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="123,328,343,355"/>
+<area shape="rect" id="node7" href="$dc/dd0/Instantiator_8h.html" title="opencog/atoms/execution\l/Instantiator.h" alt="" coords="87,230,256,271"/>
+<area shape="rect" id="node9" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="642,230,829,271"/>
+</map>

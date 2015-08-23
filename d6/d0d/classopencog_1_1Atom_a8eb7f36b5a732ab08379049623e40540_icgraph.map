@@ -1,0 +1,16 @@
+<map id="opencog::Atom::setAttentionValue" name="opencog::Atom::setAttentionValue">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#aecc973caf351443cf0e449aba9aa3338" title="opencog::Atom::chgVLTI" alt="" coords="249,56,412,83"/>
+<area shape="rect" id="node5" href="$d6/d0d/classopencog_1_1Atom.html#a389cc9f226b5e4756bc903152c44ebcb" title="opencog::Atom::setSTI" alt="" coords="255,115,407,141"/>
+<area shape="rect" id="node7" href="$d6/d0d/classopencog_1_1Atom.html#aacd00c6432d9e822e9fee58e0a8ef9b6" title="opencog::Atom::setLTI" alt="" coords="255,165,406,192"/>
+<area shape="rect" id="node9" href="$d2/d55/classopencog_1_1AtomSpace.html#af0ce146d4af7bb9fa1412de2dab8d67b" title="opencog::AtomSpace\l::set_AV" alt="" coords="258,217,403,258"/>
+<area shape="rect" id="node10" href="$db/dcd/classopencog_1_1SchemeSmob.html#ac6932d6140262265a73f57d648891baa" title="opencog::SchemeSmob\l::ss_set_av" alt="" coords="251,282,410,323"/>
+<area shape="rect" id="node12" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="251,347,410,389"/>
+<area shape="rect" id="node13" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="251,413,410,454"/>
+<area shape="rect" id="node14" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#ac738743c85795e7ebf4c81bcfa8fc11b" title="opencog::AtomspaceHTabler\l::getAtom" alt="" coords="237,478,424,519"/>
+<area shape="rect" id="node15" href="$df/d52/test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="528,515,579,541"/>
+<area shape="rect" id="node3" href="$d6/d0d/classopencog_1_1Atom.html#a8a3c9a4f4d89868e32a77747347a2e0a" title="opencog::Atom::incVLTI" alt="" coords="474,5,633,32"/>
+<area shape="rect" id="node4" href="$d6/d0d/classopencog_1_1Atom.html#ae7a1c0d926ac71d5199b3dd81aec9ec2" title="opencog::Atom::decVLTI" alt="" coords="472,56,635,83"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#a17e73e51569d26b05ba31791cc80ce97" title="opencog::AtomSpace\l::set_STI" alt="" coords="481,107,626,149"/>
+<area shape="rect" id="node8" href="$d2/d55/classopencog_1_1AtomSpace.html#a07305cbcc10107698a6717d9e90a19df" title="opencog::AtomSpace\l::set_LTI" alt="" coords="481,173,626,214"/>
+<area shape="rect" id="node11" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="474,347,633,389"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="opencog::PatternMatchCallback::evaluate_sentence" name="opencog::PatternMatchCallback::evaluate_sentence">
+<area shape="rect" id="node2" href="$d2/dc4/classopencog_1_1PatternMatch.html#a49523abc0662e1ac05ff9da59d5869d6" title="opencog::PatternMatch\l::recursive_virtual" alt="" coords="279,5,433,46"/>
+<area shape="rect" id="node4" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="259,70,453,111"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a6a69cda0ec4c8f6275a7c1b2ddad375d" title="opencog::PatternMatchEngine\l::explore_clause" alt="" coords="259,135,453,177"/>
+<area shape="rect" id="node3" href="$d2/d43/classopencog_1_1PatternLink.html#a662a4603c7233f237141d2c14c9fda26" title="opencog::PatternLink\l::satisfy" alt="" coords="527,5,670,46"/>
+<area shape="rect" id="node5" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="501,70,696,111"/>
+</map>

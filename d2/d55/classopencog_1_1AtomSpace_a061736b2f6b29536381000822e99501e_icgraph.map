@@ -1,0 +1,9 @@
+<map id="opencog::AtomSpace::purge_atom" name="opencog::AtomSpace::purge_atom">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#adb6dad4bc917b190cbdef2478ea871cf" title="Clear the atomspace, remove all atoms. " alt="" coords="207,70,353,111"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#a80f2c28c636ed5feef77e4cffabcf068" title="opencog::SchemeSmob\l::ss_purge" alt="" coords="201,135,359,177"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#ae35337b35d4fa7846b30f0d7af699f77" title="opencog::SchemeSmob\l::ss_purge_recursive" alt="" coords="201,201,359,242"/>
+<area shape="rect" id="node3" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9" title="opencog::DefaultPatternMatch\lCB::clause_match" alt="" coords="409,5,605,46"/>
+<area shape="rect" id="node4" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60" title="opencog::DefaultPatternMatch\lCB::eval_term" alt="" coords="409,70,605,111"/>
+<area shape="rect" id="node5" href="$df/d83/classopencog_1_1TargetSet.html#a63815ef8fc34ab547902a871df85b157" title="opencog::TargetSet\l::clear" alt="" coords="439,135,574,177"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="427,201,586,242"/>
+</map>

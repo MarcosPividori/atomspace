@@ -1,0 +1,7 @@
+<map id="opencog::BackwardChainer" name="opencog::BackwardChainer">
+<area shape="rect" id="node2" href="$df/d83/classopencog_1_1TargetSet.html" title="opencog::TargetSet" alt="" coords="154,113,288,140"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="144,13,289,40"/>
+<area shape="rect" id="node5" href="$d7/d58/classopencog_1_1UREConfigReader.html" title="opencog::UREConfigReader" alt="" coords="312,113,492,140"/>
+<area shape="rect" id="node4" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="517,113,633,140"/>
+<area shape="rect" id="node6" href="$dd/dc5/classopencog_1_1UREConfigReader_1_1RuleBaseParameters.html" title="opencog::UREConfigReader\l::RuleBaseParameters" alt="" coords="314,6,493,47"/>
+</map>

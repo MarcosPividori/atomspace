@@ -1,0 +1,7 @@
+<map id="ZMQAtomMessage::set_has_name" name="ZMQAtomMessage::set_has_name">
+<area shape="rect" id="node2" href="$df/db6/classZMQAtomMessage.html#ac9caf9f3ca1f6c65e43e5efd2e152900" title="ZMQAtomMessage::set_name" alt="" coords="225,71,420,97"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a480ae9d95f4664516d8a3bfc6338244a" title="ZMQAtomMessage::mutable_name" alt="" coords="211,125,435,152"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#afd1985dc792fc9fa24940d97f90e3bdb" title="opencog::ProtocolBufferSerializer\l::serializeNode" alt="" coords="484,5,695,46"/>
+<area shape="rect" id="node4" href="$df/db6/classZMQAtomMessage.html#a0cad03cbcda48a2688e72f8e9e4ee888" title="ZMQAtomMessage::MergeFrom" alt="" coords="487,71,692,97"/>
+<area shape="rect" id="node6" href="$df/db6/classZMQAtomMessage.html#afd61fda8694bf38a611739f07af7acb3" title="ZMQAtomMessage::MergePartial\lFromCodedStream" alt="" coords="483,122,695,163"/>
+</map>

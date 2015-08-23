@@ -1,0 +1,51 @@
+<map id="opencog::Handle::value" name="opencog::Handle::value">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#a6d253fc205c256da280bee4ccc1274a5" title="Sets the AtomTable in which this Atom is inserted. " alt="" coords="216,20,411,47"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a226a0b59d86e738c10555377bf324969" title="opencog::AtomSpace\l::fetch_atom" alt="" coords="734,55,879,97"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html#aad2b70139f6f41e82ffc94f63cd70bbe" title="opencog::AtomTable\l::~AtomTable" alt="" coords="243,638,383,679"/>
+<area shape="rect" id="node7" href="$d9/da7/classopencog_1_1AtomTable.html#ab18293e47677f4a0952c5d0972fce9c0" title="opencog::AtomTable\l::getHandle" alt="" coords="243,703,383,745"/>
+<area shape="rect" id="node8" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="481,321,647,348"/>
+<area shape="rect" id="node11" href="$d0/d76/AtomSpace__CWrapper_8h.html#a759a30348db864def240c61cc9637448" title="AtomSpace_addNode" alt="" coords="953,551,1101,577"/>
+<area shape="rect" id="node14" href="$d0/d76/AtomSpace__CWrapper_8h.html#a9c3f73d1db0bede61a2853f87cbbba0f" title="AtomSpace_getNode" alt="" coords="954,340,1099,367"/>
+<area shape="rect" id="node16" href="$d0/d76/AtomSpace__CWrapper_8h.html#aae3970bbf622a8d292ec800bac1a79df" title="AtomSpace_addLink" alt="" coords="955,165,1098,192"/>
+<area shape="rect" id="node18" href="$d0/d76/AtomSpace__CWrapper_8h.html#a098644de812809beed09389e6fe4a493" title="AtomSpace_getLink" alt="" coords="957,439,1096,465"/>
+<area shape="rect" id="node19" href="$de/dd7/structopencog_1_1handle__hash.html#a2c9f209ca8d3b95502fcf3bf43cee81e" title="opencog::handle_hash\l::operator()" alt="" coords="239,769,388,810"/>
+<area shape="rect" id="node20" href="$dc/d0d/namespaceopencog.html#a68dec0ca77ef2d1a42966227e96789ee" title="Boost needs this function to be called by exactly this name. " alt="" coords="243,835,384,861"/>
+<area shape="rect" id="node21" href="$dc/d34/structopencog_1_1handle__less.html#a43ee08aed568b06fe3b9eafe24948e43" title="opencog::handle_less\l::operator()" alt="" coords="241,886,385,927"/>
+<area shape="rect" id="node22" href="$dc/d0d/namespaceopencog.html#acae7529cff0fdca484beec4877e809eb" title="append string representation of the Hash to the string " alt="" coords="247,952,379,979"/>
+<area shape="rect" id="node23" href="$d8/dcc/namespacestd.html#a0e2a889b8d94b48dbbbded89e8f57518" title="std::operator\&lt;\&lt;" alt="" coords="259,1003,367,1029"/>
+<area shape="rect" id="node24" href="$d7/dc9/structstd_1_1hash_3_01opencog_1_1Handle_01_4.html#ac76c4b0803de34c8e3129e2737387902" title="std::hash\&lt; opencog\l::Handle \&gt;::operator()" alt="" coords="243,1054,383,1095"/>
+<area shape="rect" id="node25" href="$d8/dc3/classopencog_1_1TLB.html#a14927e5d582e4db7be7add5429e99471" title="opencog::TLB::isInvalidHandle" alt="" coords="217,1120,410,1147"/>
+<area shape="rect" id="node27" href="$d8/dc3/classopencog_1_1TLB.html#afdb85546429cf0fc0ff9699f85c3be16" title="opencog::TLB::addAtom" alt="" coords="234,380,393,407"/>
+<area shape="rect" id="node28" href="$d0/de1/group__grp__atomspace.html#gaccb7bc36884bd669f02f2c643fabd4bc" title="opencog::get_neighbors" alt="" coords="485,620,643,647"/>
+<area shape="rect" id="node29" href="$d0/de1/group__grp__atomspace.html#ga45d120bbd72c2f74bb6130794670b94c" title="opencog::get_predicates" alt="" coords="233,1171,394,1197"/>
+<area shape="rect" id="node30" href="$d0/de1/group__grp__atomspace.html#ga941da7efdbccc2ebda7bc798f7a741eb" title="opencog::get_predicates_for" alt="" coords="222,1221,405,1248"/>
+<area shape="rect" id="node31" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#adf3cd7a467538c4753e23e2af40e2042" title="opencog::AtomSpaceBenchmark\l::bm_rmAtom" alt="" coords="208,1273,419,1314"/>
+<area shape="rect" id="node32" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a6aff934f7a22a6a04154a3cb3e3130c0" title="opencog::AtomSpaceBenchmark\l::bm_getType" alt="" coords="208,1338,419,1379"/>
+<area shape="rect" id="node33" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a56d6d2584f4c708b0b3e81b0ff33cb3a" title="opencog::AtomSpaceBenchmark\l::bm_getTruthValue" alt="" coords="208,1403,419,1445"/>
+<area shape="rect" id="node34" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#aca2621ec1271464851e6541ee6f19c9f" title="opencog::AtomSpaceBenchmark\l::bm_setTruthValue" alt="" coords="208,1469,419,1510"/>
+<area shape="rect" id="node35" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#aa0b27b78684fecc7ffb12936378cbd97" title="opencog::AtomSpaceBenchmark\l::bm_getOutgoingSet" alt="" coords="208,1534,419,1575"/>
+<area shape="rect" id="node36" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a408185631a6dfc38ba00bba0171b8794" title="opencog::AtomSpaceBenchmark\l::bm_getIncomingSet" alt="" coords="208,1599,419,1641"/>
+<area shape="rect" id="node37" href="$db/dcd/classopencog_1_1SchemeSmob.html#ab42f136285827aa1a44332568645d8ba" title="opencog::SchemeSmob\l::ss_handle" alt="" coords="234,1665,393,1706"/>
+<area shape="rect" id="node38" href="$d6/d9c/PatternMatcher__CWrapper_8h.html#ac6e0cf053079db0f05fb7c749884681e" title="PatternMatcher_BindLink" alt="" coords="229,1731,397,1757"/>
+<area shape="rect" id="node39" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#a5493fc0137e139eb0d5304f370da80c4" title="opencog::AtomspaceHTabler\l::storeAtom" alt="" coords="220,1782,407,1823"/>
+<area shape="rect" id="node40" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#a239f8a105d9e1fa08e29205b162ec247" title="opencog::AtomspaceHTabler\l::getIncomingSet" alt="" coords="220,1847,407,1889"/>
+<area shape="rect" id="node41" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#ac738743c85795e7ebf4c81bcfa8fc11b" title="opencog::AtomspaceHTabler\l::getAtom" alt="" coords="220,1913,407,1954"/>
+<area shape="rect" id="node42" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1a31d254894acf9fc6419c16ef556e95" title="opencog::ProtocolBufferSerializer\l::serializeLink" alt="" coords="208,1978,419,2019"/>
+<area shape="rect" id="node43" href="$d0/dfe/classopencog_1_1ZMQClient.html#a05d121a898755fb7e5fe32ab201f7b0c" title="opencog::ZMQClient\l::getAtom" alt="" coords="244,2043,383,2085"/>
+<area shape="rect" id="node44" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#aa24d9f1ee6a10b7569ec32bc4ecb088c" title="opencog::FuzzyPatternMatch\lCB::find_starters" alt="" coords="219,2109,407,2150"/>
+<area shape="rect" id="node45" href="$df/df5/classopencog_1_1FuzzyPatternMatchCB.html#a5a5f5304c026634b320e5c32218003af" title="opencog::FuzzyPatternMatch\lCB::link_match" alt="" coords="219,2174,407,2215"/>
+<area shape="rect" id="node46" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a4eae42fdf0080515d9ead23680fc2725" title="opencog::PatternMatchEngine\l::explore_up_branches" alt="" coords="216,2342,411,2383"/>
+<area shape="rect" id="node47" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="467,2291,661,2333"/>
+<area shape="rect" id="node48" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a0c5e33fc32696c6fb0f1480ab5eacad8" title="opencog::PatternMatchEngine\l::explore_single_branch" alt="" coords="709,2262,904,2303"/>
+<area shape="rect" id="node49" href="$d3/dab/classopencog_1_1PatternTerm.html#a0da433f65af25e59f3bef6a7d2f37423" title="opencog::PatternTerm\l::toString" alt="" coords="239,2407,388,2449"/>
+<area shape="rect" id="node50" href="$d0/da1/classopencog_1_1FCMemory.html#a096e220823055e97ecda001036209343" title="opencog::FCMemory::\lisin_potential_sources" alt="" coords="239,2473,387,2514"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a2a60aca3290343322c8890382e72943b" title="opencog::AtomSpace\l::get_atom" alt="" coords="954,5,1099,46"/>
+<area shape="rect" id="node5" href="$d8/d41/classopencog_1_1PersistSCM.html#a064ff6fc9008e7fee18e925928a15ac1" title="opencog::PersistSCM\l::fetch_atom" alt="" coords="954,70,1099,111"/>
+<area shape="rect" id="node9" href="$d2/d55/classopencog_1_1AtomSpace.html#aff149a05ef962966b1081e4fc111797c" title="opencog::AtomSpace\l::add_atom" alt="" coords="734,303,879,345"/>
+<area shape="rect" id="node10" href="$d2/d55/classopencog_1_1AtomSpace.html#a9fe714343ca5345a282b5747386a70d4" title="opencog::AtomSpace\l::add_node" alt="" coords="734,587,879,629"/>
+<area shape="rect" id="node13" href="$d2/d55/classopencog_1_1AtomSpace.html#a0fc100c7a19d30173526edd49796c86f" title="opencog::AtomSpace\l::get_node" alt="" coords="734,238,879,279"/>
+<area shape="rect" id="node15" href="$d2/d55/classopencog_1_1AtomSpace.html#acbfa75e7eb74aa039eda840ac1035804" title="opencog::AtomSpace\l::add_link" alt="" coords="734,173,879,214"/>
+<area shape="rect" id="node17" href="$d2/d55/classopencog_1_1AtomSpace.html#af574a11e6d0ad66ea0a9f9f10aca0161" title="opencog::AtomSpace\l::get_link" alt="" coords="734,369,879,410"/>
+<area shape="rect" id="node12" href="$d7/d26/classopencog_1_1Target.html#a5fa02752063b80275fea51e7212ed1da" title="opencog::Target::rule\l_count" alt="" coords="956,631,1097,673"/>
+<area shape="rect" id="node26" href="$d8/dc3/classopencog_1_1TLB.html#ad480576b06947faa97cb2505c342a177" title="opencog::TLB::isValidHandle" alt="" coords="472,1120,656,1147"/>
+</map>

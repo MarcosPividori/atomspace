@@ -1,0 +1,7 @@
+<map id="opencog::TypeIndex::end" name="opencog::TypeIndex::end">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#a602961bdd859e8528dcb91c30eb95142" title="opencog::AtomTable\l::getHandlesByType" alt="" coords="223,58,363,99"/>
+<area shape="rect" id="node5" href="$d9/da7/classopencog_1_1AtomTable.html#a410cb00ce53c0556b00c8c71bc8e71f6" title="opencog::AtomTable\l::foreachHandleByType" alt="" coords="216,147,371,189"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#adb6dad4bc917b190cbdef2478ea871cf" title="Clear the atomspace, remove all atoms. " alt="" coords="421,5,566,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a9c1c7403ab5e2f376716a8f7436faa06" title="opencog::AtomSpace\l::get_handles_by_type" alt="" coords="419,70,567,111"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html#a3b203aef3d54b9b4c204ec82d04446e4" title="opencog::AtomTable\l::getRandom" alt="" coords="423,147,563,189"/>
+</map>

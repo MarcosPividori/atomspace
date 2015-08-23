@@ -1,0 +1,10 @@
+<map id="opencog::Rule::get_handle" name="opencog::Rule::get_handle">
+<area shape="rect" id="node2" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="196,5,375,46"/>
+<area shape="rect" id="node4" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a759514587d3a9e37168c7db8a6e9586f" title="opencog::DefaultForwardChainer\lCB::unify" alt="" coords="181,70,389,111"/>
+<area shape="rect" id="node7" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#aa283d9c5c15db39f94e013901a592fd5" title="opencog::DefaultForwardChainer\lCB::apply_rule" alt="" coords="181,135,389,177"/>
+<area shape="rect" id="node8" href="$db/d32/classopencog_1_1ForwardChainer.html#a68444731bda14954123a6fc14543d5b0" title="opencog::ForwardChainer\l::do_step" alt="" coords="202,201,369,242"/>
+<area shape="rect" id="node3" href="$d6/d95/classopencog_1_1BackwardChainer.html#ac8277f22eeefd76b064fd36f269a3e2d" title="opencog::BackwardChainer\l::do_step" alt="" coords="452,5,631,46"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a4ed5c58e80e7ac22aad8658a18aa45f3" title="opencog::DefaultForwardChainer\lCB::choose_rules" alt="" coords="437,70,645,111"/>
+<area shape="rect" id="node6" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a82fa81675839c7fbba6e6b840c927060" title="opencog::DefaultForwardChainer\lCB::subatom_unify" alt="" coords="437,135,645,177"/>
+<area shape="rect" id="node9" href="$db/d32/classopencog_1_1ForwardChainer.html#ab861a290dcc7957a925e0be5eaf054d1" title="opencog::ForwardChainer\l::do_chain" alt="" coords="458,201,625,242"/>
+</map>

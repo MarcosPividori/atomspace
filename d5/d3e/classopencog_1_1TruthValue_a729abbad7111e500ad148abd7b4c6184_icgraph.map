@@ -1,0 +1,14 @@
+<map id="opencog::TruthValue::getType" name="opencog::TruthValue::getType">
+<area shape="rect" id="node2" href="$d5/d3e/classopencog_1_1TruthValue.html#a4ac0a93d6c6c548e5fa1b502c959c061" title="opencog::TruthValue\l::isDefaultTV" alt="" coords="203,38,341,79"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a414bb4c678d71d761cbb302364cf48be" title="opencog::SchemeSmob\l::tv_to_string" alt="" coords="193,103,351,145"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#a5df84a71a738be2d62d797c5b35245e7" title="opencog::SchemeSmob\l::tv_p" alt="" coords="193,234,351,275"/>
+<area shape="rect" id="node13" href="$db/dcd/classopencog_1_1SchemeSmob.html#aae3997eca1b897d38cf5850e41d6420f" title="opencog::SchemeSmob\l::ss_tv_get_value" alt="" coords="193,361,351,402"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a6f772e962bfd98a5162489190ec40248" title="opencog::SchemeSmob\l::misc_to_string" alt="" coords="401,5,559,46"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a386288c57562a61ebb9894cf4a52a0c1" title="opencog::SchemeSmob\l::handle_to_string" alt="" coords="401,70,559,111"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#aaf82b8c47ff6ef82fa68c56fdd9b1bbd" title="opencog::SchemeSmob\l::ss_stv_p" alt="" coords="401,135,559,177"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#ae3ce76c2c146d215ea6aa1add961bafc" title="opencog::SchemeSmob\l::ss_ctv_p" alt="" coords="401,201,559,242"/>
+<area shape="rect" id="node10" href="$db/dcd/classopencog_1_1SchemeSmob.html#a4e50b7db60d6517746686570ea294338" title="opencog::SchemeSmob\l::ss_itv_p" alt="" coords="401,266,559,307"/>
+<area shape="rect" id="node11" href="$db/dcd/classopencog_1_1SchemeSmob.html#a6520391808d4b81dcb595dbff8c60b7b" title="opencog::SchemeSmob\l::ss_ptv_p" alt="" coords="401,331,559,373"/>
+<area shape="rect" id="node12" href="$db/dcd/classopencog_1_1SchemeSmob.html#abdbe0c53f6094751d3108eda631d7ae6" title="opencog::SchemeSmob\l::ss_ftv_p" alt="" coords="401,397,559,438"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="609,299,767,341"/>
+</map>

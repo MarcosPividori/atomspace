@@ -1,0 +1,7 @@
+<map id="ZMQAtomMessage::outgoing_size" name="ZMQAtomMessage::outgoing_size">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1f8f579821c461a7f30a8d3e74d7a80e" title="opencog::ProtocolBufferSerializer\l::deserializeLink" alt="" coords="272,5,483,46"/>
+<area shape="rect" id="node4" href="$df/db6/classZMQAtomMessage.html#a403b50b4b6bdf803330b6875d6827b59" title="ZMQAtomMessage::Serialize\lWithCachedSizes" alt="" coords="283,70,471,111"/>
+<area shape="rect" id="node5" href="$df/db6/classZMQAtomMessage.html#a915b38ce60c7bdd2a745bc7ed5d22430" title="ZMQAtomMessage::Serialize\lWithCachedSizesToArray" alt="" coords="283,135,471,177"/>
+<area shape="rect" id="node6" href="$df/db6/classZMQAtomMessage.html#a4218938dc7c09ae4994e67b52078c282" title="ZMQAtomMessage::ByteSize" alt="" coords="282,201,473,228"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a7373e7c8aefbb120b59d9a8fc564aa9a" title="opencog::ProtocolBufferSerializer\l::deserialize" alt="" coords="531,5,741,46"/>
+</map>

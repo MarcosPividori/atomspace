@@ -1,0 +1,7 @@
+<map id="opencog::PatternLink::make_connectivity_map" name="opencog::PatternLink::make_connectivity_map">
+<area shape="rect" id="node2" href="$d2/d43/classopencog_1_1PatternLink.html#a255aee332f5584075da627a45ae89ddb" title="opencog::PatternLink\l::common_init" alt="" coords="222,57,365,98"/>
+<area shape="rect" id="node6" href="$d2/d43/classopencog_1_1PatternLink.html#a495e0f7f1b70a6f5f4afea9cc8b4885c" title="opencog::PatternLink\l::PatternLink" alt="" coords="222,122,365,163"/>
+<area shape="rect" id="node3" href="$dc/dcc/classopencog_1_1BindLink.html#a9388aa1e6a88b1257da84e01b89c1b1c" title="opencog::BindLink::init" alt="" coords="414,5,565,32"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#a3e249a73953d8147fe945175f6106d02" title="opencog::PatternLink\l::init" alt="" coords="418,57,561,98"/>
+<area shape="rect" id="node5" href="$d2/d43/classopencog_1_1PatternLink.html#a95c79e990cd0a9a4c23df3f60108762e" title="opencog::PatternLink\l::PatternLink" alt="" coords="418,122,561,163"/>
+</map>

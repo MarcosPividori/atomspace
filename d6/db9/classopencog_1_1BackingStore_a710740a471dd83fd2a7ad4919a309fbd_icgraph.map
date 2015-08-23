@@ -1,0 +1,24 @@
+<map id="opencog::BackingStore::ignoreAtom" name="opencog::BackingStore::ignoreAtom">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#acbfa75e7eb74aa039eda840ac1035804" title="opencog::AtomSpace\l::add_link" alt="" coords="209,501,354,542"/>
+<area shape="rect" id="node20" href="$d2/d55/classopencog_1_1AtomSpace.html#af574a11e6d0ad66ea0a9f9f10aca0161" title="opencog::AtomSpace\l::get_link" alt="" coords="209,1065,354,1106"/>
+<area shape="rect" id="node3" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html#ae16a76e9b94d0b5bfee3ab2093406e85" title="opencog::ExecutionOutput\lLink::do_execute" alt="" coords="407,5,579,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a388d3cc2efd55c3dc9070e82a30564ff" title="opencog::AtomSpace\l::add_link" alt="" coords="421,70,566,111"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="414,135,573,177"/>
+<area shape="rect" id="node6" href="$d0/d76/AtomSpace__CWrapper_8h.html#aae3970bbf622a8d292ec800bac1a79df" title="AtomSpace_addLink" alt="" coords="422,201,565,228"/>
+<area shape="rect" id="node7" href="$dc/d0d/namespaceopencog.html#a99f2416f3caacc3a54097bfd1ae395f4" title="opencog::find_approximate\l_match" alt="" coords="406,253,581,294"/>
+<area shape="rect" id="node8" href="$dc/d0d/namespaceopencog.html#ab4ff4628bf058a0b7e6bddb0c7da82ac" title="opencog::do_imply" alt="" coords="429,319,557,345"/>
+<area shape="rect" id="node9" href="$dc/d0d/namespaceopencog.html#a3c7d991563f3b13bbf86e12f48b84c71" title="opencog::satisfying_set" alt="" coords="416,369,571,396"/>
+<area shape="rect" id="node10" href="$d7/d58/classopencog_1_1UREConfigReader.html#aa979503c434a21c6cc886217105b94a3" title="opencog::UREConfigReader\l::fetch_execution_outputs" alt="" coords="633,397,813,438"/>
+<area shape="rect" id="node11" href="$d6/d95/classopencog_1_1BackwardChainer.html#affad62fad13ecc94aaa28b2a16652de4" title="opencog::BackwardChainer\l::match_knowledge_base" alt="" coords="404,471,583,513"/>
+<area shape="rect" id="node12" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4054c27984aedb47cbaec781efc5ecd6" title="opencog::BackwardChainer\l::ground_premises" alt="" coords="633,487,812,529"/>
+<area shape="rect" id="node13" href="$d7/d26/classopencog_1_1Target.html#acea85e82af207c2959092459ecea53e4" title="opencog::Target::store_step" alt="" coords="404,588,583,615"/>
+<area shape="rect" id="node14" href="$db/d32/classopencog_1_1ForwardChainer.html#ac86ecbbae078f94cff11862f5961de81" title="opencog::ForwardChainer\l::do_pm" alt="" coords="410,639,577,681"/>
+<area shape="rect" id="node15" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a960bdf8c81fe98396c4de1a657eb8d98" title="opencog::InferenceSCM\l::do_forward_chaining" alt="" coords="413,705,573,746"/>
+<area shape="rect" id="node16" href="$dd/d3c/classopencog_1_1InferenceSCM.html#a4ed0171b58c3ba389f963b517d4a9271" title="opencog::InferenceSCM\l::do_backward_chaining" alt="" coords="413,770,573,811"/>
+<area shape="rect" id="node17" href="$dd/dde/classopencog_1_1URECommons.html#a33931757cc207ca63ace3a64baf80231" title="opencog::URECommons\l::change_node_types" alt="" coords="413,835,574,877"/>
+<area shape="rect" id="node18" href="$d7/d58/classopencog_1_1UREConfigReader.html#a27397f61dd23467b9782f3f71c54b9d9" title="opencog::UREConfigReader\l::fetch_rules" alt="" coords="403,901,583,942"/>
+<area shape="rect" id="node19" href="$d7/d58/classopencog_1_1UREConfigReader.html#a651465cd1b67f14da0a7b91a716bf4f7" title="opencog::UREConfigReader\l::fetch_bool_param" alt="" coords="403,966,583,1007"/>
+<area shape="rect" id="node21" href="$d2/d55/classopencog_1_1AtomSpace.html#a5fa9a41e45ab4d7af2116de017e3f852" title="opencog::AtomSpace\l::get_link" alt="" coords="421,1031,566,1073"/>
+<area shape="rect" id="node22" href="$d2/d55/classopencog_1_1AtomSpace.html#aeb6352a8513fe02244fecdf4cd5df14d" title="opencog::AtomSpace\l::get_handle" alt="" coords="421,1097,566,1138"/>
+<area shape="rect" id="node23" href="$d0/d76/AtomSpace__CWrapper_8h.html#a098644de812809beed09389e6fe4a493" title="AtomSpace_getLink" alt="" coords="424,1163,563,1189"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="opencog::AtomSpace::set_attentional_focus_boundary" name="opencog::AtomSpace::set_attentional_focus_boundary">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a3929249f4a647e883f5a9560c447d0d7" title="opencog::SchemeSmob\l::ss_set_af_boundary" alt="" coords="206,11,365,53"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="414,11,573,53"/>
+</map>

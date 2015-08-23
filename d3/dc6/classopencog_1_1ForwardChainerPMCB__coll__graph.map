@@ -1,0 +1,14 @@
+<map id="opencog::ForwardChainerPMCB" name="opencog::ForwardChainerPMCB">
+<area shape="rect" id="node2" href="$d7/d71/classopencog_1_1Implicator.html" title="opencog::Implicator" alt="" coords="646,184,781,211"/>
+<area shape="rect" id="node3" href="$d2/d07/classopencog_1_1PatternMatchCallback.html" title="opencog::PatternMatchCallback" alt="" coords="277,184,483,211"/>
+<area shape="rect" id="node7" href="$d7/d33/classopencog_1_1InitiateSearchCB.html" title="opencog::InitiateSearchCB" alt="" coords="626,375,801,401"/>
+<area shape="rect" id="node11" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html" title="opencog::DefaultPatternMatchCB" alt="" coords="606,105,821,132"/>
+<area shape="rect" id="node4" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="20,653,137,680"/>
+<area shape="rect" id="node12" href="$d0/da1/classopencog_1_1FCMemory.html" title="opencog::FCMemory" alt="" coords="643,701,783,728"/>
+<area shape="rect" id="node15" href="$dc/db5/classopencog_1_1Rule.html" title="opencog::Rule" alt="" coords="329,728,431,755"/>
+<area shape="rect" id="node5" href="$d2/d58/classopencog_1_1Instantiator.html" title="opencog::Instantiator" alt="" coords="309,111,451,137"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="6,111,151,137"/>
+<area shape="rect" id="node8" href="$dd/d44/structopencog_1_1Variables.html" title="opencog::Variables" alt="" coords="315,436,445,463"/>
+<area shape="rect" id="node9" href="$d7/d55/classopencog_1_1ClassServer.html" title="opencog::ClassServer" alt="" coords="307,323,453,349"/>
+<area shape="rect" id="node10" href="$d2/da4/structopencog_1_1Pattern.html" title="opencog::Pattern" alt="" coords="321,487,439,513"/>
+</map>

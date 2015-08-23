@@ -1,0 +1,7 @@
+<map id="opencog::AtomSpace::clear" name="opencog::AtomSpace::clear">
+<area shape="rect" id="node2" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9" title="opencog::DefaultPatternMatch\lCB::clause_match" alt="" coords="201,5,397,46"/>
+<area shape="rect" id="node3" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60" title="opencog::DefaultPatternMatch\lCB::eval_term" alt="" coords="201,70,397,111"/>
+<area shape="rect" id="node5" href="$df/d83/classopencog_1_1TargetSet.html#a63815ef8fc34ab547902a871df85b157" title="opencog::TargetSet\l::clear" alt="" coords="231,135,366,177"/>
+<area shape="rect" id="node4" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a74390d15d01302a4da386917331ca2be" title="opencog::DefaultPatternMatch\lCB::eval_sentence" alt="" coords="446,70,642,111"/>
+<area shape="rect" id="node6" href="$d6/d95/classopencog_1_1BackwardChainer.html#aa23f33ed0e8233e193ecb858826147af" title="opencog::BackwardChainer\l::set_target" alt="" coords="455,135,633,177"/>
+</map>

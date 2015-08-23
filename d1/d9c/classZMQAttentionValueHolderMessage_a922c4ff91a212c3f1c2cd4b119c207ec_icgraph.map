@@ -1,0 +1,6 @@
+<map id="ZMQAttentionValueHolderMessage::set_has_sti" name="ZMQAttentionValueHolderMessage::set_has_sti">
+<area shape="rect" id="node2" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#a2f6d3b1156f385b9cd404bc9dff07afa" title="ZMQAttentionValueHolderMessage\l::MergePartialFromCodedStream" alt="" coords="278,5,501,46"/>
+<area shape="rect" id="node3" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#afd132cad105506fddd1ae7d2e39839ef" title="ZMQAttentionValueHolderMessage\l::set_sti" alt="" coords="278,70,501,111"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a2556f88ae9dbf340a04c323d0f30fc37" title="opencog::ProtocolBufferSerializer\l::serializeAttentionValue" alt="" coords="556,37,767,78"/>
+<area shape="rect" id="node5" href="$d1/d9c/classZMQAttentionValueHolderMessage.html#ab2668262a78497f5151202b201a9a00e" title="ZMQAttentionValueHolderMessage\l::MergeFrom" alt="" coords="550,102,773,143"/>
+</map>

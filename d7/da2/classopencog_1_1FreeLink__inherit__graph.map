@@ -1,0 +1,11 @@
+<map id="opencog::FreeLink" name="opencog::FreeLink">
+<area shape="rect" id="node4" href="$d4/dc7/classopencog_1_1EvaluationLink.html" title="opencog::EvaluationLink" alt="" coords="488,31,648,57"/>
+<area shape="rect" id="node5" href="$d3/d8d/classopencog_1_1FunctionLink.html" title="opencog::FunctionLink" alt="" coords="493,81,643,108"/>
+<area shape="rect" id="node10" href="$d4/dc8/classopencog_1_1PutLink.html" title="opencog::PutLink" alt="" coords="507,132,629,159"/>
+<area shape="rect" id="node2" href="$d3/da0/classopencog_1_1Link.html" title="opencog::Link" alt="" coords="163,81,264,108"/>
+<area shape="rect" id="node3" href="$d6/d0d/classopencog_1_1Atom.html" title="opencog::Atom" alt="" coords="6,81,114,108"/>
+<area shape="rect" id="node6" href="$da/d10/classopencog_1_1AssignLink.html" title="opencog::AssignLink" alt="" coords="725,5,864,32"/>
+<area shape="rect" id="node7" href="$d8/d73/classopencog_1_1DeleteLink.html" title="opencog::DeleteLink" alt="" coords="725,56,864,83"/>
+<area shape="rect" id="node8" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html" title="opencog::ExecutionOutputLink" alt="" coords="697,107,893,133"/>
+<area shape="rect" id="node9" href="$dc/d57/classopencog_1_1FoldLink.html" title="opencog::FoldLink" alt="" coords="731,157,858,184"/>
+</map>

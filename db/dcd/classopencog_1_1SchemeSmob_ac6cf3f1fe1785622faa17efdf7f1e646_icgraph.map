@@ -1,0 +1,12 @@
+<map id="opencog::SchemeSmob::ss_set_env_as" name="opencog::SchemeSmob::ss_set_env_as">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#a59c4a6e3502e0b61bdd5935e90cb6dff" title="opencog::SchemeEval\l::do_eval" alt="" coords="220,61,369,102"/>
+<area shape="rect" id="node4" href="$d4/d24/classopencog_1_1SchemeEval.html#a6ec0f4cf4969aab036e877d5cffb685e" title="opencog::SchemeEval\l::do_scm_eval" alt="" coords="220,181,369,222"/>
+<area shape="rect" id="node10" href="$d4/d24/classopencog_1_1SchemeEval.html#a48ccc954c3de5801b4a59e032c3695df" title="opencog::SchemeEval\l::c_wrap_set_atomspace" alt="" coords="213,307,376,349"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#a9f316c6320d968d1b1c43df6a590d2e9" title="opencog::SchemeEval\l::eval_expr" alt="" coords="424,5,573,46"/>
+<area shape="rect" id="node5" href="$d4/d24/classopencog_1_1SchemeEval.html#a84d1ea33d1ea5be8e6626abe2e959e16" title="opencog::SchemeEval\l::eval_h" alt="" coords="621,106,771,147"/>
+<area shape="rect" id="node6" href="$d4/d24/classopencog_1_1SchemeEval.html#a00c13dafe4984c08dfd13f63dfc83bb1" title="opencog::SchemeEval\l::c_wrap_eval_h" alt="" coords="424,122,573,163"/>
+<area shape="rect" id="node7" href="$d4/d24/classopencog_1_1SchemeEval.html#a5895c85baf8e0274765af002c8f4ae25" title="opencog::SchemeEval\l::eval_tv" alt="" coords="621,197,771,238"/>
+<area shape="rect" id="node8" href="$d4/d24/classopencog_1_1SchemeEval.html#a8b5bc7c8dafb128b669bbb02d81c17b3" title="opencog::SchemeEval\l::c_wrap_eval_tv" alt="" coords="424,239,573,281"/>
+<area shape="rect" id="node9" href="$d4/d24/classopencog_1_1SchemeEval.html#a5c86c4e0c1b188b70cff4e7d76e6c8af" title="opencog::SchemeEval\l::do_apply_scm" alt="" coords="424,305,573,346"/>
+<area shape="rect" id="node11" href="$d4/d24/classopencog_1_1SchemeEval.html#af1368696aedd4aeea9235390561239cc" title="opencog::SchemeEval\l::set_scheme_as" alt="" coords="424,370,573,411"/>
+</map>

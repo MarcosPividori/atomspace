@@ -1,0 +1,5 @@
+<map id="opencog::StringIndex::get" name="opencog::StringIndex::get">
+<area shape="rect" id="node2" href="$d8/d2a/classopencog_1_1NodeIndex.html#aa1c090b476318853c3f89259093f8866" title="opencog::NodeIndex\l::getAtom" alt="" coords="221,62,360,103"/>
+<area shape="rect" id="node3" href="$d9/da7/classopencog_1_1AtomTable.html#ad85f950e08e1f48e1e4c577794ca08e3" title="opencog::AtomTable\l::getHandle" alt="" coords="409,29,549,70"/>
+<area shape="rect" id="node4" href="$d8/d2a/classopencog_1_1NodeIndex.html#a663249cde34658084bf255caf10d964b" title="opencog::NodeIndex\l::getHandleSet" alt="" coords="409,94,548,135"/>
+</map>

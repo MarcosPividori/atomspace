@@ -1,0 +1,6 @@
+<map id="opencog::remove_hypergraph" name="opencog::remove_hypergraph">
+<area shape="rect" id="node2" href="$d7/d58/classopencog_1_1UREConfigReader.html#a27397f61dd23467b9782f3f71c54b9d9" title="opencog::UREConfigReader\l::fetch_rules" alt="" coords="473,5,653,46"/>
+<area shape="rect" id="node4" href="$d7/d58/classopencog_1_1UREConfigReader.html#aa979503c434a21c6cc886217105b94a3" title="opencog::UREConfigReader\l::fetch_execution_outputs" alt="" coords="243,67,423,109"/>
+<area shape="rect" id="node3" href="$d7/d58/classopencog_1_1UREConfigReader.html#a71752db33ee06c79901bdceeb476cfb5" title="opencog::UREConfigReader\l::UREConfigReader" alt="" coords="702,38,882,79"/>
+<area shape="rect" id="node5" href="$d7/d58/classopencog_1_1UREConfigReader.html#a325ae4784fd4c36091baa21f06ff36ae" title="opencog::UREConfigReader\l::fetch_num_param" alt="" coords="473,70,653,111"/>
+</map>

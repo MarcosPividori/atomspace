@@ -1,0 +1,6 @@
+<map id="opencog::PutLinkCast" name="opencog::PutLinkCast">
+<area shape="rect" id="node2" href="$d2/d58/classopencog_1_1Instantiator.html#a9cbf3094c140fe06b06c49fde5c9e37b" title="opencog::Instantiator\l::walk_tree" alt="" coords="200,5,341,46"/>
+<area shape="rect" id="node4" href="$d9/da7/classopencog_1_1AtomTable.html#aa8b7a8dfd7a931a891a5faf33af3a48d" title="opencog::AtomTable\l::factory" alt="" coords="201,70,341,111"/>
+<area shape="rect" id="node3" href="$d2/d58/classopencog_1_1Instantiator.html#ab1e8858dd96eaf9f36d334a47f851be7" title="opencog::Instantiator\l::instantiate" alt="" coords="403,5,544,46"/>
+<area shape="rect" id="node5" href="$d9/da7/classopencog_1_1AtomTable.html#a5685a09d2de591bec273ec84233880db" title="opencog::AtomTable::add" alt="" coords="390,77,557,104"/>
+</map>

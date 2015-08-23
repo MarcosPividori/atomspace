@@ -1,0 +1,11 @@
+<map id="opencog::SchemeSmob::get_as_from_list" name="opencog::SchemeSmob::get_as_from_list">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a8cce86839db8fbc9c0914485a6db374b" title="opencog::SchemeSmob\l::ss_node" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="214,135,373,177"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#af4b3a9f2cff7e8b7eb66829dce4cf659" title="opencog::SchemeSmob\l::ss_link" alt="" coords="214,201,373,242"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1701373894e432eb4a1dffef656ed70c" title="opencog::SchemeSmob\l::ss_delete" alt="" coords="214,266,373,307"/>
+<area shape="rect" id="node8" href="$db/dcd/classopencog_1_1SchemeSmob.html#a061d74ac1a4ae362abd53c4116c41dba" title="opencog::SchemeSmob\l::ss_delete_recursive" alt="" coords="214,331,373,373"/>
+<area shape="rect" id="node9" href="$db/dcd/classopencog_1_1SchemeSmob.html#a80f2c28c636ed5feef77e4cffabcf068" title="opencog::SchemeSmob\l::ss_purge" alt="" coords="214,397,373,438"/>
+<area shape="rect" id="node10" href="$db/dcd/classopencog_1_1SchemeSmob.html#ae35337b35d4fa7846b30f0d7af699f77" title="opencog::SchemeSmob\l::ss_purge_recursive" alt="" coords="214,462,373,503"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="422,234,581,275"/>
+</map>

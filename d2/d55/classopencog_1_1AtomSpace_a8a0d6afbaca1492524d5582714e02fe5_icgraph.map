@@ -1,0 +1,6 @@
+<map id="opencog::AtomSpace::get_TV" name="opencog::AtomSpace::get_TV">
+<area shape="rect" id="node2" href="$dd/dde/classopencog_1_1URECommons.html#a33931757cc207ca63ace3a64baf80231" title="opencog::URECommons\l::change_node_types" alt="" coords="201,15,362,57"/>
+<area shape="rect" id="node4" href="$dd/dde/classopencog_1_1URECommons.html#a4051108b213883c31a3db0e094907d62" title="opencog::URECommons\l::tv_fitness" alt="" coords="201,82,362,123"/>
+<area shape="rect" id="node3" href="$dd/dde/classopencog_1_1URECommons.html#a1ddc8fe2730893c86c2a0fcb4ede2f8d" title="opencog::URECommons\l::replace_nodes_with\l_varnode" alt="" coords="434,5,595,61"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#a24f99e7a34116a39e653779777bcc9e3" title="opencog::DefaultForwardChainer\lCB::choose_next_source" alt="" coords="411,85,619,126"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="opencog/query/InitiateSearchCB.cc" name="opencog/query/InitiateSearchCB.cc">
+<area shape="rect" id="node2" href="$d3/d2b/EvaluationLink_8h.html" title="opencog/atoms/execution\l/EvaluationLink.h" alt="" coords="1099,171,1268,213"/>
+<area shape="rect" id="node11" href="$dc/dfd/FindUtils_8h.html" title="opencog/atomutils/FindUtils.h" alt="" coords="249,269,439,296"/>
+<area shape="rect" id="node14" href="$db/d63/InitiateSearchCB_8h.html" title="InitiateSearchCB.h" alt="" coords="744,96,873,123"/>
+<area shape="rect" id="node16" href="$d4/da9/PatternMatchEngine_8h.html" title="opencog/query/PatternMatch\lEngine.h" alt="" coords="818,171,1005,213"/>
+<area shape="rect" id="node3" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="1051,427,1271,453"/>
+<area shape="rect" id="node8" href="$d0/d41/FreeLink_8h.html" title="opencog/atoms/core\l/FreeLink.h" alt="" coords="1099,262,1237,303"/>
+<area shape="rect" id="node6" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="255,501,475,528"/>
+<area shape="rect" id="node7" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="18,576,200,603"/>
+<area shape="rect" id="node9" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="699,352,875,379"/>
+<area shape="rect" id="node10" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="293,427,475,453"/>
+<area shape="rect" id="node13" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="483,352,675,379"/>
+<area shape="rect" id="node15" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="686,262,873,303"/>
+</map>

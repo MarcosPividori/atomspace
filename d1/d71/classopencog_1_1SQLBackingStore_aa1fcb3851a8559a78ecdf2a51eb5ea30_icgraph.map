@@ -1,0 +1,5 @@
+<map id="opencog::SQLBackingStore::set_store" name="opencog::SQLBackingStore::set_store">
+<area shape="rect" id="node2" href="$da/d62/classopencog_1_1SQLPersistSCM.html#ad90bb612a65727774788db951b610176" title="opencog::SQLPersistSCM\l::do_open" alt="" coords="235,5,405,46"/>
+<area shape="rect" id="node4" href="$da/d62/classopencog_1_1SQLPersistSCM.html#a6f43f9a74ef88dab9401e6c315205ad5" title="opencog::SQLPersistSCM\l::do_close" alt="" coords="235,70,405,111"/>
+<area shape="rect" id="node3" href="$da/d62/classopencog_1_1SQLPersistSCM.html#afa9573482b90f2aeb373bf4c4b251976" title="opencog::SQLPersistSCM\l::init" alt="" coords="453,38,624,79"/>
+</map>

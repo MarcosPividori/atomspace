@@ -1,0 +1,5 @@
+<map id="opencog::Atom::getSTI" name="opencog::Atom::getSTI">
+<area shape="rect" id="node2" href="$d3/da0/classopencog_1_1Link.html#aff0625631f70459eb9e12c2e814e0d96" title="opencog::Link::toString" alt="" coords="220,5,372,32"/>
+<area shape="rect" id="node4" href="$dc/d42/classopencog_1_1AttentionalFocusCB.html#af3940d94e58cb2817de52de39f649c45" title="opencog::AttentionalFocus\lCB::node_match" alt="" coords="209,57,383,98"/>
+<area shape="rect" id="node3" href="$d3/da0/classopencog_1_1Link.html#a666e442abb3122fe5eb1705f1b2d650d" title="opencog::Link::~Link" alt="" coords="432,5,571,32"/>
+</map>

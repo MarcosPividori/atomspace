@@ -1,0 +1,8 @@
+<map id="opencog::SimpleTruthValue::getMean" name="opencog::SimpleTruthValue::getMean">
+<area shape="rect" id="node2" href="$d6/ded/classopencog_1_1SimpleTruthValue.html#ab9e002e4cc273b6cfb5b4635d7ed3fe1" title="opencog::SimpleTruthValue\l::toString" alt="" coords="232,5,411,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a414bb4c678d71d761cbb302364cf48be" title="opencog::SchemeSmob\l::tv_to_string" alt="" coords="242,70,401,111"/>
+<area shape="rect" id="node6" href="$db/dcd/classopencog_1_1SchemeSmob.html#aae3997eca1b897d38cf5850e41d6420f" title="opencog::SchemeSmob\l::ss_tv_get_value" alt="" coords="242,135,401,177"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a6f772e962bfd98a5162489190ec40248" title="opencog::SchemeSmob\l::misc_to_string" alt="" coords="459,5,618,46"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#a386288c57562a61ebb9894cf4a52a0c1" title="opencog::SchemeSmob\l::handle_to_string" alt="" coords="459,70,618,111"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="459,135,618,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="opencog::TruthValue::DEFAULT_TV" name="opencog::TruthValue::DEFAULT_TV">
+<area shape="rect" id="node2" href="$d5/d3e/classopencog_1_1TruthValue.html#a4ac0a93d6c6c548e5fa1b502c959c061" title="opencog::TruthValue\l::isDefaultTV" alt="" coords="228,5,367,46"/>
+<area shape="rect" id="node3" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#ad66b3ce5c79fe349c5bb408c4dd30f18" title="opencog::AtomSpaceBenchmark\l::estimateOfAtomSize" alt="" coords="192,70,403,111"/>
+<area shape="rect" id="node4" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a1a520f6d7f8bdacf8d441b09a3aa2344" title="opencog::AtomSpaceBenchmark\l::makeRandomNode" alt="" coords="192,135,403,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="opencog/atoms/NumberNode.h" name="opencog/atoms/NumberNode.h">
+<area shape="rect" id="node2" href="$d0/d90/EvaluationLink_8cc.html" title="opencog/atoms/execution\l/EvaluationLink.cc" alt="" coords="5,81,173,122"/>
+<area shape="rect" id="node3" href="$dc/d96/ExecutionOutputLink_8cc.html" title="opencog/atoms/execution\l/ExecutionOutputLink.cc" alt="" coords="198,81,367,122"/>
+<area shape="rect" id="node4" href="$dc/db0/ArithmeticLink_8cc.html" title="opencog/atoms/reduct\l/ArithmeticLink.cc" alt="" coords="391,81,541,122"/>
+<area shape="rect" id="node5" href="$d4/d74/FoldLink_8cc.html" title="opencog/atoms/reduct\l/FoldLink.cc" alt="" coords="566,81,716,122"/>
+<area shape="rect" id="node6" href="$d0/dd3/PlusLink_8cc.html" title="opencog/atoms/reduct\l/PlusLink.cc" alt="" coords="741,81,891,122"/>
+<area shape="rect" id="node7" href="$d6/df0/TimesLink_8cc.html" title="opencog/atoms/reduct\l/TimesLink.cc" alt="" coords="915,81,1065,122"/>
+<area shape="rect" id="node8" href="$df/d0e/AtomTable_8cc.html" title="opencog/atomspace/AtomTable.cc" alt="" coords="1090,88,1312,115"/>
+<area shape="rect" id="node9" href="$d6/df2/UREConfigReader_8cc.html" title="opencog/rule&#45;engine\l/UREConfigReader.cc" alt="" coords="1337,81,1484,122"/>
+</map>

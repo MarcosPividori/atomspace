@@ -1,0 +1,10 @@
+<map id="opencog::TruthValue::getMean" name="opencog::TruthValue::getMean">
+<area shape="rect" id="node2" href="$de/d2e/classopencog_1_1CountTruthValue.html#ab46b0a9583fd41c719e39475c6fd817d" title="opencog::CountTruthValue\l::CountTruthValue" alt="" coords="201,5,375,46"/>
+<area shape="rect" id="node3" href="$de/d3c/classopencog_1_1FuzzyTruthValue.html#acbc96b2f8b9d1c5736d73a94fef034f3" title="opencog::FuzzyTruthValue\l::FuzzyTruthValue" alt="" coords="202,70,374,111"/>
+<area shape="rect" id="node4" href="$db/d31/classopencog_1_1ProbabilisticTruthValue.html#afe9dc31833938d2067ee47a85771c941" title="opencog::ProbabilisticTruth\lValue::ProbabilisticTruthValue" alt="" coords="192,135,384,177"/>
+<area shape="rect" id="node5" href="$d6/ded/classopencog_1_1SimpleTruthValue.html#a29978e300d9cabda8a6501b71dc91f16" title="opencog::SimpleTruthValue\l::SimpleTruthValue" alt="" coords="199,201,377,242"/>
+<area shape="rect" id="node6" href="$d5/d3e/classopencog_1_1TruthValue.html#a4ac0a93d6c6c548e5fa1b502c959c061" title="opencog::TruthValue\l::isDefaultTV" alt="" coords="219,266,357,307"/>
+<area shape="rect" id="node7" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#a5493fc0137e139eb0d5304f370da80c4" title="opencog::AtomspaceHTabler\l::storeAtom" alt="" coords="195,331,381,373"/>
+<area shape="rect" id="node9" href="$df/d52/test_8cc.html#a3f3007211863eabce83dce06d960ad7f" title="atomCompare" alt="" coords="237,397,339,424"/>
+<area shape="rect" id="node8" href="$df/d52/test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="432,368,483,395"/>
+</map>

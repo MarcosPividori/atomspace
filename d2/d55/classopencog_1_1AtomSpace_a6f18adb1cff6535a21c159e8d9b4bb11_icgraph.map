@@ -1,0 +1,6 @@
+<map id="opencog::AtomSpace::get_incoming" name="opencog::AtomSpace::get_incoming">
+<area shape="rect" id="node2" href="$dd/dde/classopencog_1_1URECommons.html#aa50ede31fcee0bc44b9a311ce319557c" title="opencog::URECommons\l::get_unique_name" alt="" coords="201,15,362,57"/>
+<area shape="rect" id="node4" href="$dd/dde/classopencog_1_1URECommons.html#a576adad92a9652ed6a7f835610d872b8" title="opencog::URECommons\l::get_root_links" alt="" coords="201,82,362,123"/>
+<area shape="rect" id="node3" href="$dd/dde/classopencog_1_1URECommons.html#a1ddc8fe2730893c86c2a0fcb4ede2f8d" title="opencog::URECommons\l::replace_nodes_with\l_varnode" alt="" coords="434,5,595,61"/>
+<area shape="rect" id="node5" href="$d2/d83/classopencog_1_1DefaultForwardChainerCB.html#aa53cf5bcc6cdd4764221efd866f595e5" title="opencog::DefaultForwardChainer\lCB::choose_premises" alt="" coords="411,85,619,126"/>
+</map>

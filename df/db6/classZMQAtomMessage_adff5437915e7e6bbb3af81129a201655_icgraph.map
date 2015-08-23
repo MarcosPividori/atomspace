@@ -1,0 +1,5 @@
+<map id="ZMQAtomMessage::incoming" name="ZMQAtomMessage::incoming">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#af1b96270dca6e6fd17dcbbce98c824c3" title="opencog::ProtocolBufferSerializer\l::deserializeAtom" alt="" coords="245,38,456,79"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a1f8f579821c461a7f30a8d3e74d7a80e" title="opencog::ProtocolBufferSerializer\l::deserializeLink" alt="" coords="504,5,715,46"/>
+<area shape="rect" id="node4" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#ad1d1dcd7879e1369a21375b7b5f54e1b" title="opencog::ProtocolBufferSerializer\l::deserializeNode" alt="" coords="504,70,715,111"/>
+</map>

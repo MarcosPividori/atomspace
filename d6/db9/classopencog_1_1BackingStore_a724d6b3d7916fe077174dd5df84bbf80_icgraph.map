@@ -1,0 +1,4 @@
+<map id="opencog::BackingStore::loadType" name="opencog::BackingStore::loadType">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a6499fabd19171c12e1c88a06b18c2880" title="opencog::AtomSpace\l::fetch_all_atoms_of_type" alt="" coords="208,5,376,46"/>
+<area shape="rect" id="node3" href="$d8/d41/classopencog_1_1PersistSCM.html#acf0cbc38c54bc392b3365f30a4d367e5" title="opencog::PersistSCM\l::load_type" alt="" coords="425,5,570,46"/>
+</map>

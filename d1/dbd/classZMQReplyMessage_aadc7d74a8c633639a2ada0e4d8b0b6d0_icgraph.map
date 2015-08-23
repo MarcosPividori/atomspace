@@ -1,0 +1,6 @@
+<map id="ZMQReplyMessage::mutable_atom" name="ZMQReplyMessage::mutable_atom">
+<area shape="rect" id="node2" href="$d1/dbd/classZMQReplyMessage.html#aacb93abb30e59e2f00a022b43eebe2a9" title="ZMQReplyMessage::MergePartial\lFromCodedStream" alt="" coords="277,5,491,46"/>
+<area shape="rect" id="node3" href="$d1/dbd/classZMQReplyMessage.html#a896d1f6d24c6d294ab978ce3e50747b6" title="ZMQReplyMessage::MergeFrom" alt="" coords="281,71,487,97"/>
+<area shape="rect" id="node4" href="$d8/d66/classopencog_1_1ZMQServer.html#ac7606c809a1c908f6a336aeb634b4e35" title="opencog::ZMQServer\l::zmqLoop" alt="" coords="313,122,455,163"/>
+<area shape="rect" id="node5" href="$d8/d66/classopencog_1_1ZMQServer.html#a9946f41e6fbd5643c305ad0172f3bac0" title="opencog::ZMQServer\l::ZMQServer" alt="" coords="539,122,682,163"/>
+</map>

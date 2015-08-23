@@ -1,0 +1,4 @@
+<map id="opencog::get_neighbors" name="opencog::get_neighbors">
+<area shape="rect" id="node2" href="$d7/d26/classopencog_1_1Target.html#a5fa02752063b80275fea51e7212ed1da" title="opencog::Target::rule\l_count" alt="" coords="211,5,352,46"/>
+<area shape="rect" id="node3" href="$d6/d95/classopencog_1_1BackwardChainer.html#a83414a357e44983e9969bec9ea42464d" title="opencog::BackwardChainer\l::select_rule" alt="" coords="400,5,579,46"/>
+</map>

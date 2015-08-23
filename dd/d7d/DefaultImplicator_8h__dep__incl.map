@@ -1,0 +1,10 @@
+<map id="opencog/query/DefaultImplicator.h" name="opencog/query/DefaultImplicator.h">
+<area shape="rect" id="node2" href="$d4/d1a/Implicator_8cc.html" title="opencog/query/Implicator.cc" alt="" coords="69,95,253,121"/>
+<area shape="rect" id="node3" href="$d2/d26/BackwardChainerPMCB_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer\lPMCB.h" alt="" coords="278,80,505,136"/>
+<area shape="rect" id="node7" href="$d4/ded/DefaultForwardChainerCB_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/DefaultForward\lChainerCB.cc" alt="" coords="577,184,777,240"/>
+<area shape="rect" id="node8" href="$d2/d46/VarGroundingPMCB_8h.html" title="opencog/rule&#45;engine\l/forwardchainer/VarGrounding\lPMCB.h" alt="" coords="581,80,773,136"/>
+<area shape="rect" id="node9" href="$d0/d34/ForwardChainer_8cc.html" title="opencog/rule&#45;engine\l/forwardchainer/ForwardChainer.cc" alt="" coords="797,87,1019,129"/>
+<area shape="rect" id="node4" href="$d0/d51/BackwardChainer_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer.cc" alt="" coords="5,289,251,330"/>
+<area shape="rect" id="node5" href="$dd/dbf/UnifyPMCB_8h.html" title="opencog/rule&#45;engine\l/backwardchainer/UnifyPMCB.h" alt="" coords="97,191,300,233"/>
+<area shape="rect" id="node6" href="$d6/da2/BackwardChainerPMCB_8cc.html" title="opencog/rule&#45;engine\l/backwardchainer/BackwardChainer\lPMCB.cc" alt="" coords="325,184,552,240"/>
+</map>

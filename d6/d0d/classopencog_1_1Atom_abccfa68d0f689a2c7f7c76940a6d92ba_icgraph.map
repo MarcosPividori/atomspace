@@ -1,0 +1,40 @@
+<map id="opencog::Atom::getTruthValue" name="opencog::Atom::getTruthValue">
+<area shape="rect" id="node2" href="$d5/d7f/ExampleSCM_8cc.html#a8d811439e8842bef22ca9692e854b734" title="ss_printmore" alt="" coords="306,56,401,83"/>
+<area shape="rect" id="node4" href="$d2/d58/classopencog_1_1Instantiator.html#a9cbf3094c140fe06b06c49fde5c9e37b" title="opencog::Instantiator\l::walk_tree" alt="" coords="283,121,424,162"/>
+<area shape="rect" id="node6" href="$d6/d0d/classopencog_1_1Atom.html#addbc61a7dd9afdf9b7c508f2e8ea1301" title="Sets the TruthValue object of the atom. " alt="" coords="257,551,450,577"/>
+<area shape="rect" id="node7" href="$d6/d0d/classopencog_1_1Atom.html#af7bd89b59c51bcd9a34d5039ab27d03b" title="opencog::Atom::merge" alt="" coords="537,267,687,293"/>
+<area shape="rect" id="node19" href="$d2/d55/classopencog_1_1AtomSpace.html#a8a0d6afbaca1492524d5582714e02fe5" title="opencog::AtomSpace\l::get_TV" alt="" coords="281,602,426,643"/>
+<area shape="rect" id="node21" href="$d2/d55/classopencog_1_1AtomSpace.html#ab163740cafd51e927cc9bf9872d0f59f" title="opencog::AtomSpace\l::get_mean" alt="" coords="281,719,426,761"/>
+<area shape="rect" id="node22" href="$d2/d55/classopencog_1_1AtomSpace.html#aadfae2178ee14ad138be682ce8821fb8" title="opencog::AtomSpace\l::get_confidence" alt="" coords="281,785,426,826"/>
+<area shape="rect" id="node23" href="$d3/da0/classopencog_1_1Link.html#a58448a52e47d7472064ff233549177c2" title="opencog::Link::toShortString" alt="" coords="262,851,445,877"/>
+<area shape="rect" id="node24" href="$d3/da0/classopencog_1_1Link.html#aff0625631f70459eb9e12c2e814e0d96" title="opencog::Link::toString" alt="" coords="277,901,429,928"/>
+<area shape="rect" id="node26" href="$d4/d9e/classopencog_1_1Node.html#a49a931758fac1046bfd8bf5ef7fdb46b" title="opencog::Node::toString" alt="" coords="274,952,433,979"/>
+<area shape="rect" id="node27" href="$de/d6d/classopencog_1_1Substitutor.html#a6d184037c3954c7b1ab3eef2d78b3a05" title="opencog::Substitutor\l::walk_tree" alt="" coords="284,1003,423,1045"/>
+<area shape="rect" id="node29" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#ad66b3ce5c79fe349c5bb408c4dd30f18" title="opencog::AtomSpaceBenchmark\l::estimateOfAtomSize" alt="" coords="248,1069,459,1110"/>
+<area shape="rect" id="node30" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a56d6d2584f4c708b0b3e81b0ff33cb3a" title="opencog::AtomSpaceBenchmark\l::bm_getTruthValue" alt="" coords="507,135,717,177"/>
+<area shape="rect" id="node31" href="$db/dcd/classopencog_1_1SchemeSmob.html#a0484a80a57523fcdefcd5eaa28583e63" title="opencog::SchemeSmob\l::ss_tv" alt="" coords="533,201,691,242"/>
+<area shape="rect" id="node32" href="$db/dcd/classopencog_1_1SchemeSmob.html#a386288c57562a61ebb9894cf4a52a0c1" title="opencog::SchemeSmob\l::handle_to_string" alt="" coords="274,1134,433,1175"/>
+<area shape="rect" id="node33" href="$d0/d76/AtomSpace__CWrapper_8h.html#a5df24267e1042c6ba8887f61661b758d" title="AtomSpace_getTruthValue" alt="" coords="265,1200,442,1227"/>
+<area shape="rect" id="node34" href="$df/d52/test_8cc.html#a3f3007211863eabce83dce06d960ad7f" title="atomCompare" alt="" coords="302,668,405,695"/>
+<area shape="rect" id="node35" href="$dc/db5/classopencog_1_1Rule.html#a3521fd3181c1ba6d46486e992ee97708" title="opencog::Rule::Rule" alt="" coords="286,1251,421,1277"/>
+<area shape="rect" id="node36" href="$dc/db5/classopencog_1_1Rule.html#a7912b022764313a2ba6f51fff1c3890d" title="opencog::Rule::standardize\l_helper" alt="" coords="266,1302,441,1343"/>
+<area shape="rect" id="node38" href="$d7/d58/classopencog_1_1UREConfigReader.html#a651465cd1b67f14da0a7b91a716bf4f7" title="opencog::UREConfigReader\l::fetch_bool_param" alt="" coords="263,1367,443,1409"/>
+<area shape="rect" id="node3" href="$d1/d18/classopencog_1_1ExampleSCM.html#ae9e21a538fda1b01855a43c85568c5ce" title="opencog::ExampleSCM\l::init" alt="" coords="535,5,689,46"/>
+<area shape="rect" id="node5" href="$d2/d58/classopencog_1_1Instantiator.html#ab1e8858dd96eaf9f36d334a47f851be7" title="opencog::Instantiator\l::instantiate" alt="" coords="541,70,683,111"/>
+<area shape="rect" id="node8" href="$d2/d55/classopencog_1_1AtomSpace.html#a28db307a5d7c7722b67b2a9583a7977e" title="opencog::AtomSpace\l::set_TV" alt="" coords="539,631,685,673"/>
+<area shape="rect" id="node9" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#aca2621ec1271464851e6541ee6f19c9f" title="opencog::AtomSpaceBenchmark\l::bm_setTruthValue" alt="" coords="507,318,717,359"/>
+<area shape="rect" id="node11" href="$db/dcd/classopencog_1_1SchemeSmob.html#a5bee1d949ebff7bc3f93d4e8c365a3f9" title="opencog::SchemeSmob\l::ss_set_tv" alt="" coords="533,449,691,490"/>
+<area shape="rect" id="node13" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7690df67abe899e9854761980116f3f4" title="opencog::SchemeSmob\l::ss_new_node" alt="" coords="533,514,691,555"/>
+<area shape="rect" id="node14" href="$db/dcd/classopencog_1_1SchemeSmob.html#ad93b7e4a8b05558fbccca8597a5b84de" title="opencog::SchemeSmob\l::ss_new_link" alt="" coords="533,383,691,425"/>
+<area shape="rect" id="node15" href="$d0/d76/AtomSpace__CWrapper_8h.html#aecb5f0e507723cba92bef870a84c6eb1" title="AtomSpace_setTruthValue" alt="" coords="524,580,700,607"/>
+<area shape="rect" id="node16" href="$dd/d5d/classopencog_1_1AtomspaceHTabler.html#ac738743c85795e7ebf4c81bcfa8fc11b" title="opencog::AtomspaceHTabler\l::getAtom" alt="" coords="519,697,705,738"/>
+<area shape="rect" id="node17" href="$df/d52/test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="845,763,896,789"/>
+<area shape="rect" id="node18" href="$dd/dde/classopencog_1_1URECommons.html#a33931757cc207ca63ace3a64baf80231" title="opencog::URECommons\l::change_node_types" alt="" coords="531,814,693,855"/>
+<area shape="rect" id="node10" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#a529dafa19bca7c7af6b3de1381405ee1" title="opencog::AtomSpaceBenchmark\l::setMethod" alt="" coords="765,227,976,269"/>
+<area shape="rect" id="node12" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="791,417,950,458"/>
+<area shape="rect" id="node20" href="$dd/dde/classopencog_1_1URECommons.html#a4051108b213883c31a3db0e094907d62" title="opencog::URECommons\l::tv_fitness" alt="" coords="531,879,693,921"/>
+<area shape="rect" id="node25" href="$d3/da0/classopencog_1_1Link.html#a666e442abb3122fe5eb1705f1b2d650d" title="opencog::Link::~Link" alt="" coords="543,996,681,1023"/>
+<area shape="rect" id="node28" href="$de/d6d/classopencog_1_1Substitutor.html#a0e89b57e27d5aed2163e03fcd993c751" title="opencog::Substitutor\l::substitute" alt="" coords="543,1047,681,1089"/>
+<area shape="rect" id="node37" href="$dc/db5/classopencog_1_1Rule.html#a5eb6bf6d72a753e27193cf86d50b28f8" title="opencog::Rule::gen\l_standardize_apart" alt="" coords="547,1302,677,1343"/>
+<area shape="rect" id="node39" href="$d7/d58/classopencog_1_1UREConfigReader.html#a71752db33ee06c79901bdceeb476cfb5" title="opencog::UREConfigReader\l::UREConfigReader" alt="" coords="522,1367,702,1409"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="opencog::Target" name="opencog::Target">
+<area shape="rect" id="node2" href="$da/d82/classopencog_1_1Handle.html" title="opencog::Handle" alt="" coords="5,96,121,123"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html" title="opencog::AtomSpace" alt="" coords="249,96,393,123"/>
+<area shape="rect" id="node6" href="$d9/da7/classopencog_1_1AtomTable.html" title="opencog::AtomTable" alt="" coords="250,216,389,243"/>
+<area shape="rect" id="node4" href="$df/d07/classopencog_1_1AttentionBank.html" title="opencog::AttentionBank" alt="" coords="151,5,309,32"/>
+<area shape="rect" id="node5" href="$d6/db9/classopencog_1_1BackingStore.html" title="opencog::BackingStore" alt="" coords="335,5,488,32"/>
+</map>

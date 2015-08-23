@@ -1,0 +1,7 @@
+<map id="opencog::Instantiator::execute" name="opencog::Instantiator::execute">
+<area shape="rect" id="node2" href="$d2/d37/ExecSCM_8cc.html#aaa20461691bcdceba58cb7a4f4d6d6f1" title="ss_execute" alt="" coords="238,5,325,32"/>
+<area shape="rect" id="node4" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html#ae16a76e9b94d0b5bfee3ab2093406e85" title="opencog::ExecutionOutput\lLink::do_execute" alt="" coords="195,57,367,98"/>
+<area shape="rect" id="node6" href="$d6/d7c/classopencog_1_1ArithmeticLink.html#a633747bf710f64aaed14ec3d6eef3535" title="opencog::ArithmeticLink\l::execute" alt="" coords="201,122,361,163"/>
+<area shape="rect" id="node3" href="$d1/d5e/classopencog_1_1ExecSCM.html#a68652d9c175f84f6126c4003a4891edc" title="opencog::ExecSCM::init" alt="" coords="424,5,581,32"/>
+<area shape="rect" id="node5" href="$d7/d27/classopencog_1_1ExecutionOutputLink.html#aec84464938a3a271b908e53ddd8e0920" title="opencog::ExecutionOutput\lLink::execute" alt="" coords="417,57,589,98"/>
+</map>

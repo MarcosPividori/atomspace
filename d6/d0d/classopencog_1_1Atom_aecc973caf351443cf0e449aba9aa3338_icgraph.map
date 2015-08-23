@@ -1,0 +1,8 @@
+<map id="opencog::Atom::chgVLTI" name="opencog::Atom::chgVLTI">
+<area shape="rect" id="node2" href="$d6/d0d/classopencog_1_1Atom.html#a8a3c9a4f4d89868e32a77747347a2e0a" title="opencog::Atom::incVLTI" alt="" coords="218,77,377,104"/>
+<area shape="rect" id="node5" href="$d6/d0d/classopencog_1_1Atom.html#ae7a1c0d926ac71d5199b3dd81aec9ec2" title="opencog::Atom::decVLTI" alt="" coords="216,143,379,169"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a5b1fd455c93709ca694c464195579827" title="opencog::AtomSpace\l::inc_VLTI" alt="" coords="434,5,579,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a7e7b69581870eaf72698cedcaacdbf4d" title="opencog::SchemeSmob\l::ss_inc_vlti" alt="" coords="427,70,586,111"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#a9283d2e3d33384670d20fbb5274cc28b" title="opencog::AtomSpace\l::dec_VLTI" alt="" coords="434,135,579,177"/>
+<area shape="rect" id="node7" href="$db/dcd/classopencog_1_1SchemeSmob.html#a2e5f52b8337a939a577206dd412717cd" title="opencog::SchemeSmob\l::ss_dec_vlti" alt="" coords="427,201,586,242"/>
+</map>

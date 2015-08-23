@@ -1,0 +1,5 @@
+<map id="opencog::NodeIndex::removeAtom" name="opencog::NodeIndex::removeAtom">
+<area shape="rect" id="node2" href="$d9/da7/classopencog_1_1AtomTable.html#a085e1558aa0ef53e0dad9d2890feb6e8" title="opencog::AtomTable\l::extract" alt="" coords="193,38,333,79"/>
+<area shape="rect" id="node3" href="$d2/d55/classopencog_1_1AtomSpace.html#a5b618632b8db2e1bfb09c63311086128" title="opencog::AtomSpace\l::remove_atom" alt="" coords="382,5,527,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classopencog_1_1AtomSpace.html#a061736b2f6b29536381000822e99501e" title="opencog::AtomSpace\l::purge_atom" alt="" coords="382,70,527,111"/>
+</map>

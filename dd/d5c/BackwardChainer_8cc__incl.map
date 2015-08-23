@@ -1,0 +1,23 @@
+<map id="opencog/rule&#45;engine/backwardchainer/BackwardChainer.cc" name="opencog/rule&#45;engine/backwardchainer/BackwardChainer.cc">
+<area shape="rect" id="node2" href="$d4/d48/BackwardChainer_8h.html" title="BackwardChainer.h" alt="" coords="283,171,416,197"/>
+<area shape="rect" id="node18" href="$d2/d26/BackwardChainerPMCB_8h.html" title="BackwardChainerPMCB.h" alt="" coords="579,171,749,197"/>
+<area shape="rect" id="node21" href="$dd/dbf/UnifyPMCB_8h.html" title="UnifyPMCB.h" alt="" coords="528,96,627,123"/>
+<area shape="rect" id="node23" href="$dc/dfd/FindUtils_8h.html" title="opencog/atomutils/FindUtils.h" alt="" coords="847,435,1037,461"/>
+<area shape="rect" id="node25" href="$d8/d5e/Substitutor_8h.html" title="opencog/atomutils/Substitutor.h" alt="" coords="49,171,252,197"/>
+<area shape="rect" id="node26" href="$da/deb/AtomUtils_8h.html" title="opencog/atomutils/AtomUtils.h" alt="" coords="1344,517,1541,544"/>
+<area shape="rect" id="node27" href="$de/ded/PatternUtils_8h.html" title="opencog/atoms/bind\l/PatternUtils.h" alt="" coords="152,593,291,634"/>
+<area shape="rect" id="node28" href="$df/d92/PatternLink_8h.html" title="opencog/atoms/bind\l/PatternLink.h" alt="" coords="400,246,539,287"/>
+<area shape="rect" id="node3" href="$d2/d59/Rule_8h.html" title="opencog/rule&#45;engine\l/Rule.h" alt="" coords="144,337,283,378"/>
+<area shape="rect" id="node16" href="$d4/de6/UREConfigReader_8h.html" title="opencog/rule&#45;engine\l/UREConfigReader.h" alt="" coords="93,246,232,287"/>
+<area shape="rect" id="node17" href="$db/dc0/Target_8h.html" title="Target.h" alt="" coords="256,253,325,280"/>
+<area shape="rect" id="node4" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="49,435,268,461"/>
+<area shape="rect" id="node11" href="$d2/dac/VariableList_8h.html" title="opencog/atoms/bind\l/VariableList.h" alt="" coords="400,427,539,469"/>
+<area shape="rect" id="node7" href="$d9/d5c/ClassServer_8h.html" title="opencog/atomspace/ClassServer.h" alt="" coords="957,683,1176,709"/>
+<area shape="rect" id="node9" href="$d9/d49/types_8h.html" title="opencog/atomspace/types.h" alt="" coords="1018,765,1200,792"/>
+<area shape="rect" id="node12" href="$da/d54/Handle_8h.html" title="opencog/atomspace/Handle.h" alt="" coords="588,683,780,709"/>
+<area shape="rect" id="node13" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="653,517,829,544"/>
+<area shape="rect" id="node15" href="$d6/d31/Pattern_8h.html" title="opencog/query/Pattern.h" alt="" coords="315,600,477,627"/>
+<area shape="rect" id="node14" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="1057,600,1239,627"/>
+<area shape="rect" id="node19" href="$dd/d62/DefaultImplicator_8h.html" title="opencog/query/DefaultImplicator.h" alt="" coords="563,253,781,280"/>
+<area shape="rect" id="node20" href="$dd/dfd/PatternMatchCallback_8h.html" title="opencog/query/PatternMatch\lCallback.h" alt="" coords="521,337,708,378"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opencog::AtomSpace::get_num_atoms_of_type" name="opencog::AtomSpace::get_num_atoms_of_type">
+<area shape="rect" id="node2" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#ab15df49d877db54f05971be3a8262aca" title="opencog::InitiateSearchCB\l::find_rarest" alt="" coords="225,7,399,49"/>
+<area shape="rect" id="node5" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a715516ea866346a453988aaeb65748b5" title="opencog::InitiateSearchCB\l::variable_search" alt="" coords="449,70,623,111"/>
+<area shape="rect" id="node3" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#a676351afb643a0a9c8ebdff85094a9cb" title="opencog::InitiateSearchCB\l::link_type_search" alt="" coords="449,5,623,46"/>
+<area shape="rect" id="node4" href="$d7/d33/classopencog_1_1InitiateSearchCB.html#af8de121d792c8b217c735dfe87b2136c" title="opencog::InitiateSearchCB\l::initiate_search" alt="" coords="673,38,847,79"/>
+</map>

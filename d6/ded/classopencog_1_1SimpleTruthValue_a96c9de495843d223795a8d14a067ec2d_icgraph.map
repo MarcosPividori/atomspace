@@ -1,0 +1,6 @@
+<map id="opencog::SimpleTruthValue::countToConfidence" name="opencog::SimpleTruthValue::countToConfidence">
+<area shape="rect" id="node2" href="$d6/ded/classopencog_1_1SimpleTruthValue.html#a4a58468ed464e398b19bfabac9981358" title="opencog::SimpleTruthValue\l::getConfidence" alt="" coords="232,70,411,111"/>
+<area shape="rect" id="node3" href="$d6/ded/classopencog_1_1SimpleTruthValue.html#ab9e002e4cc273b6cfb5b4635d7ed3fe1" title="opencog::SimpleTruthValue\l::toString" alt="" coords="459,5,637,46"/>
+<area shape="rect" id="node4" href="$db/dcd/classopencog_1_1SchemeSmob.html#a414bb4c678d71d761cbb302364cf48be" title="opencog::SchemeSmob\l::tv_to_string" alt="" coords="469,70,627,111"/>
+<area shape="rect" id="node5" href="$db/dcd/classopencog_1_1SchemeSmob.html#aae3997eca1b897d38cf5850e41d6420f" title="opencog::SchemeSmob\l::ss_tv_get_value" alt="" coords="469,135,627,177"/>
+</map>

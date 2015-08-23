@@ -1,0 +1,11 @@
+<map id="opencog::Handle::do_res" name="opencog::Handle::do_res">
+<area shape="rect" id="node2" href="$da/d82/classopencog_1_1Handle.html#a3109b81feb94a8b602e1e731e8564ac1" title="opencog::Handle::resolve" alt="" coords="228,31,391,57"/>
+<area shape="rect" id="node4" href="$da/d82/classopencog_1_1Handle.html#a68ea95953894a758b8484465482ba6c4" title="opencog::Handle::cresolve" alt="" coords="224,132,395,159"/>
+<area shape="rect" id="node9" href="$da/d82/classopencog_1_1Handle.html#a1016dc67a55f1b3e68bcac8ebe2e4317" title="opencog::Handle::resolve_ptr" alt="" coords="217,212,402,239"/>
+<area shape="rect" id="node3" href="$da/d82/classopencog_1_1Handle.html#aa497b7f3facdfa56bd1c7e3c181a60bb" title="opencog::Handle::operator&#45;\&gt;" alt="" coords="458,5,641,32"/>
+<area shape="rect" id="node5" href="$da/d82/classopencog_1_1Handle.html#a3565278f74f7258c6b4949ca54e4dcb1" title="opencog::Handle::operator&#45;\&gt;" alt="" coords="458,56,641,83"/>
+<area shape="rect" id="node6" href="$da/d82/classopencog_1_1Handle.html#a9592ff8f6f8bcf53006aeca252b1af1a" title="opencog::Handle::operator bool" alt="" coords="451,107,648,133"/>
+<area shape="rect" id="node7" href="$da/d82/classopencog_1_1Handle.html#a9d965f1239f3f95dd3bc36885c8ee76f" title="opencog::Handle::operator==" alt="" coords="456,157,643,184"/>
+<area shape="rect" id="node8" href="$da/d82/classopencog_1_1Handle.html#ae856cca751f732e66ca4facbaa446de4" title="opencog::Handle::operator!=" alt="" coords="458,208,641,235"/>
+<area shape="rect" id="node10" href="$da/d82/classopencog_1_1Handle.html#ab1521c13c9be5cddafb8df85a8ed6cd3" title="opencog::Handle::operator\l AtomPtr" alt="" coords="464,259,635,301"/>
+</map>

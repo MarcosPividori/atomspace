@@ -1,0 +1,4 @@
+<map id="opencog::AtomSpace::get_handle_set_in_attentional_focus" name="opencog::AtomSpace::get_handle_set_in_attentional_focus">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a63b161dceeaea23bc63d48d75e21ff71" title="opencog::SchemeSmob\l::ss_af" alt="" coords="201,11,359,53"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="409,11,567,53"/>
+</map>

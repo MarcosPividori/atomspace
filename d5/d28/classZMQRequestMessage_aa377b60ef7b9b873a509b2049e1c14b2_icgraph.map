@@ -1,0 +1,6 @@
+<map id="ZMQRequestMessage::set_has_handle" name="ZMQRequestMessage::set_has_handle">
+<area shape="rect" id="node2" href="$d5/d28/classZMQRequestMessage.html#ac2ddb85ca45d8933fa28d183ca7b7990" title="ZMQRequestMessage::\lMergePartialFromCodedStream" alt="" coords="209,5,413,46"/>
+<area shape="rect" id="node3" href="$d5/d28/classZMQRequestMessage.html#a15c008a0457303710c422b47e9fe8e16" title="ZMQRequestMessage::\lset_handle" alt="" coords="233,70,388,111"/>
+<area shape="rect" id="node4" href="$d0/dfe/classopencog_1_1ZMQClient.html#a05d121a898755fb7e5fe32ab201f7b0c" title="opencog::ZMQClient\l::getAtom" alt="" coords="469,37,608,78"/>
+<area shape="rect" id="node5" href="$d5/d28/classZMQRequestMessage.html#ad868b60207e24ded46b41093c0116c69" title="ZMQRequestMessage::\lMergeFrom" alt="" coords="461,102,616,143"/>
+</map>

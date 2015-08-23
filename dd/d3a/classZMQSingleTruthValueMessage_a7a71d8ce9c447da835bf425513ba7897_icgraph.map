@@ -1,0 +1,5 @@
+<map id="ZMQSingleTruthValueMessage::set_l" name="ZMQSingleTruthValueMessage::set_l">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a3aaa731f14e4e83ca425acb548d77df6" title="opencog::ProtocolBufferSerializer\l::serializeIndefiniteTruthValue" alt="" coords="253,5,464,46"/>
+<area shape="rect" id="node4" href="$dd/d3a/classZMQSingleTruthValueMessage.html#ae991d3e030095a2ebcf408f63f914d09" title="ZMQSingleTruthValueMessage\l::MergeFrom" alt="" coords="259,70,459,111"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a633f49d90ef52b1d081a48995fe0f9d8" title="opencog::ProtocolBufferSerializer\l::serialize" alt="" coords="512,5,723,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="opencog::satisfying_set" name="opencog::satisfying_set">
+<area shape="rect" id="node2" href="$d2/d58/classopencog_1_1Instantiator.html#a9cbf3094c140fe06b06c49fde5c9e37b" title="opencog::Instantiator\l::walk_tree" alt="" coords="228,5,369,46"/>
+<area shape="rect" id="node4" href="$d8/d46/classopencog_1_1PatternSCM.html#a5ccf3303fde7c67719edb8f0f10acff7" title="opencog::PatternSCM\l::init" alt="" coords="225,70,373,111"/>
+<area shape="rect" id="node5" href="$d7/d58/classopencog_1_1UREConfigReader.html#aa979503c434a21c6cc886217105b94a3" title="opencog::UREConfigReader\l::fetch_execution_outputs" alt="" coords="209,135,389,177"/>
+<area shape="rect" id="node3" href="$d2/d58/classopencog_1_1Instantiator.html#ab1e8858dd96eaf9f36d334a47f851be7" title="opencog::Instantiator\l::instantiate" alt="" coords="457,5,599,46"/>
+<area shape="rect" id="node6" href="$d7/d58/classopencog_1_1UREConfigReader.html#a325ae4784fd4c36091baa21f06ff36ae" title="opencog::UREConfigReader\l::fetch_num_param" alt="" coords="438,135,618,177"/>
+</map>

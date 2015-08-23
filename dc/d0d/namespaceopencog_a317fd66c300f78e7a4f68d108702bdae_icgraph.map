@@ -1,0 +1,13 @@
+<map id="opencog::is_unquoted_in_tree" name="opencog::is_unquoted_in_tree">
+<area shape="rect" id="node2" href="$dc/d0d/namespaceopencog.html#a774672752eed2e7e63b7b98d8fa9d3f0" title="opencog::any_unquoted\l_in_tree" alt="" coords="219,59,376,101"/>
+<area shape="rect" id="node6" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#aaea533054832770e9dd56397efb15913" title="opencog::PatternMatchEngine\l::tree_compare" alt="" coords="443,122,637,163"/>
+<area shape="rect" id="node7" href="$dc/d0d/namespaceopencog.html#a75e39790868083d01b7aa0995ed696f1" title="opencog::num_unquoted\l_in_tree" alt="" coords="216,181,379,222"/>
+<area shape="rect" id="node9" href="$dc/d0d/namespaceopencog.html#a862dfae70fb4e38f68da7d17fe9e7165" title="opencog::is_unquoted\l_in_any_tree" alt="" coords="224,246,371,287"/>
+<area shape="rect" id="node10" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#af29463838a5a8074a384964b8429b26f" title="opencog::PatternMatchEngine\l::do_term_up" alt="" coords="200,311,395,353"/>
+<area shape="rect" id="node11" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#a5752022748418e61a4b504afe82d5ef7" title="opencog::PatternMatchEngine\l::thickness" alt="" coords="200,377,395,418"/>
+<area shape="rect" id="node3" href="$dc/d0d/namespaceopencog.html#a8e1e82e22364bb2bf43ee9e2d01fd658" title="opencog::remove_constants" alt="" coords="449,5,631,32"/>
+<area shape="rect" id="node5" href="$dc/d0d/namespaceopencog.html#a0ae49ad0181c1f9f083cab9d51816c71" title="opencog::get_connected\l_components" alt="" coords="459,57,621,98"/>
+<area shape="rect" id="node4" href="$d2/d43/classopencog_1_1PatternLink.html#ab60b829a0386db1eb0a2096778268231" title="opencog::PatternLink\l::validate_clauses" alt="" coords="686,122,829,163"/>
+<area shape="rect" id="node8" href="$d2/d43/classopencog_1_1PatternLink.html#ab2ee0ba78fe140de6df3730ceba5ed0e" title="opencog::PatternLink\l::unbundle_virtual" alt="" coords="469,187,611,229"/>
+<area shape="rect" id="node12" href="$d0/d9a/classopencog_1_1PatternMatchEngine.html#afdda402e667b5424fc7a52a89b7211bc" title="opencog::PatternMatchEngine\l::get_next_thinnest_clause" alt="" coords="443,377,637,418"/>
+</map>

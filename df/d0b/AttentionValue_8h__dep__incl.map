@@ -1,0 +1,34 @@
+<map id="opencog/atomspace/AttentionValue.h" name="opencog/atomspace/AttentionValue.h">
+<area shape="rect" id="node2" href="$d3/d77/Atom_8h.html" title="opencog/atomspace/Atom.h" alt="" coords="1883,96,2065,123"/>
+<area shape="rect" id="node4" href="$d1/d55/AttentionValue_8cc.html" title="opencog/atomspace/Attention\lValue.cc" alt="" coords="3127,171,3321,213"/>
+<area shape="rect" id="node6" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="267,451,487,477"/>
+<area shape="rect" id="node9" href="$df/d3d/SchemeSmob_8h.html" title="opencog/guile/SchemeSmob.h" alt="" coords="67,541,265,568"/>
+<area shape="rect" id="node10" href="$de/d53/SchemeSmobAV_8cc.html" title="opencog/guile/SchemeSmob\lAV.cc" alt="" coords="5,625,192,666"/>
+<area shape="rect" id="node11" href="$d1/d2b/AtomspaceHTabler_8cc.html" title="opencog/persist/hypertable\l/AtomspaceHTabler.cc" alt="" coords="290,534,464,575"/>
+<area shape="rect" id="node13" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="794,360,1008,387"/>
+<area shape="rect" id="node18" href="$d3/db1/ImportanceIndex_8h.html" title="opencog/atomspace/Importance\lIndex.h" alt="" coords="803,262,1009,303"/>
+<area shape="rect" id="node25" href="$d6/d36/ProtocolBufferSerializer_8cc.html" title="opencog/persist/zmq\l/atomspace/ProtocolBufferSerializer.cc" alt="" coords="1643,262,1887,303"/>
+<area shape="rect" id="node30" href="$d7/d15/AtomSpaceBenchmark_8cc.html" title="opencog/benchmark/AtomSpace\lBenchmark.cc" alt="" coords="3089,262,3299,303"/>
+<area shape="rect" id="node33" href="$d1/d42/AttentionBank_8h.html" title="opencog/atomspace/Attention\lBank.h" alt="" coords="231,353,425,394"/>
+<area shape="rect" id="node3" href="$d6/d43/Atom_8cc.html" title="opencog/atomspace/Atom.cc" alt="" coords="2130,451,2320,477"/>
+<area shape="rect" id="node5" href="$d9/dc4/BackingStore_8h.html" title="opencog/atomspace/Backing\lStore.h" alt="" coords="1328,262,1517,303"/>
+<area shape="rect" id="node7" href="$d0/dfa/BindlinkStub_8cc.html" title="opencog/cython/opencog\l/BindlinkStub.cc" alt="" coords="2274,534,2440,575"/>
+<area shape="rect" id="node8" href="$d2/ddc/Utilities_8cc.html" title="opencog/cython/opencog\l/Utilities.cc" alt="" coords="1551,534,1717,575"/>
+<area shape="rect" id="node12" href="$d6/dcc/FixedIntegerIndex_8h.html" title="opencog/atomspace/FixedInteger\lIndex.h" alt="" coords="660,171,873,213"/>
+<area shape="rect" id="node15" href="$d0/d9c/Handle_8cc.html" title="opencog/atomspace/Handle.cc" alt="" coords="731,451,929,477"/>
+<area shape="rect" id="node16" href="$d8/d79/ImportanceIndex_8cc.html" title="opencog/atomspace/Importance\lIndex.cc" alt="" coords="954,443,1160,485"/>
+<area shape="rect" id="node17" href="$d7/dcb/AtomStorage_8h.html" title="opencog/persist/sql\l/AtomStorage.h" alt="" coords="1757,443,1888,485"/>
+<area shape="rect" id="node19" href="$d4/da3/TypeIndex_8h.html" title="opencog/atomspace/TypeIndex.h" alt="" coords="517,269,727,296"/>
+<area shape="rect" id="node20" href="$d7/d99/TypeIndex_8cc.html" title="opencog/atomspace/TypeIndex.cc" alt="" coords="500,360,719,387"/>
+<area shape="rect" id="node21" href="$dc/d04/Link_8h.html" title="opencog/atomspace/Link.h" alt="" coords="2012,179,2188,205"/>
+<area shape="rect" id="node22" href="$dc/dfd/FindUtils_8h.html" title="opencog/atomutils/FindUtils.h" alt="" coords="2485,269,2675,296"/>
+<area shape="rect" id="node23" href="$dc/de1/PythonEval_8cc.html" title="opencog/cython/PythonEval.cc" alt="" coords="2262,269,2460,296"/>
+<area shape="rect" id="node24" href="$df/d52/test_8cc.html" title="opencog/persist/hypertable\l/test.cc" alt="" coords="1911,262,2085,303"/>
+<area shape="rect" id="node26" href="$d7/dc0/NameIndex_8h.html" title="opencog/atomspace/NameIndex.h" alt="" coords="1086,269,1303,296"/>
+<area shape="rect" id="node27" href="$db/d92/Node_8h.html" title="opencog/atomspace/Node.h" alt="" coords="1407,179,1589,205"/>
+<area shape="rect" id="node28" href="$df/d00/NodeIndex_8cc.html" title="opencog/atomspace/NodeIndex.cc" alt="" coords="1666,179,1885,205"/>
+<area shape="rect" id="node29" href="$df/df3/TLB_8h.html" title="opencog/atomspace/TLB.h" alt="" coords="2927,179,3103,205"/>
+<area shape="rect" id="node31" href="$da/deb/AtomUtils_8h.html" title="opencog/atomutils/AtomUtils.h" alt="" coords="2313,179,2511,205"/>
+<area shape="rect" id="node32" href="$de/df5/ZMQClient_8h.html" title="opencog/persist/zmq\l/atomspace/ZMQClient.h" alt="" coords="2535,171,2699,213"/>
+<area shape="rect" id="node14" href="$d2/db5/AttentionBank_8cc.html" title="opencog/atomspace/Attention\lBank.cc" alt="" coords="512,443,707,485"/>
+</map>

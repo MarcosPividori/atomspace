@@ -1,0 +1,8 @@
+<map id="ZMQReplyMessage::atom" name="ZMQReplyMessage::atom">
+<area shape="rect" id="node2" href="$d0/dfe/classopencog_1_1ZMQClient.html#a05d121a898755fb7e5fe32ab201f7b0c" title="opencog::ZMQClient\l::getAtom" alt="" coords="259,5,397,46"/>
+<area shape="rect" id="node3" href="$d1/dbd/classZMQReplyMessage.html#ad0da29b0738f9a3b4e22887451ae2979" title="ZMQReplyMessage::Serialize\lWithCachedSizes" alt="" coords="233,70,423,111"/>
+<area shape="rect" id="node4" href="$d1/dbd/classZMQReplyMessage.html#a0cd34d6c201b356adf1f5b2be88e445b" title="ZMQReplyMessage::Serialize\lWithCachedSizesToArray" alt="" coords="233,135,423,177"/>
+<area shape="rect" id="node5" href="$d1/dbd/classZMQReplyMessage.html#ad82f8595aad665f757088c1118053c3b" title="ZMQReplyMessage::ByteSize" alt="" coords="233,201,423,228"/>
+<area shape="rect" id="node6" href="$d1/dbd/classZMQReplyMessage.html#a896d1f6d24c6d294ab978ce3e50747b6" title="ZMQReplyMessage::MergeFrom" alt="" coords="225,252,431,279"/>
+<area shape="rect" id="node7" href="$d1/dbd/classZMQReplyMessage.html#a4d473480b8c66cf9eb13885c4f0a8df4" title="ZMQReplyMessage::IsInitialized" alt="" coords="226,303,430,329"/>
+</map>

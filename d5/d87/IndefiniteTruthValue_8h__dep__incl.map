@@ -1,0 +1,9 @@
+<map id="opencog/atomspace/IndefiniteTruthValue.h" name="opencog/atomspace/IndefiniteTruthValue.h">
+<area shape="rect" id="node2" href="$d6/d43/Atom_8cc.html" title="opencog/atomspace/Atom.cc" alt="" coords="5,104,195,131"/>
+<area shape="rect" id="node3" href="$d0/d1e/IndefiniteTruthValue_8cc.html" title="opencog/atomspace/Indefinite\lTruthValue.cc" alt="" coords="220,97,415,138"/>
+<area shape="rect" id="node4" href="$d0/df8/TruthValue_8cc.html" title="opencog/atomspace/TruthValue.cc" alt="" coords="439,104,660,131"/>
+<area shape="rect" id="node5" href="$d7/d15/AtomSpaceBenchmark_8cc.html" title="opencog/benchmark/AtomSpace\lBenchmark.cc" alt="" coords="684,97,893,138"/>
+<area shape="rect" id="node6" href="$d6/d62/SchemeSmobTV_8cc.html" title="opencog/guile/SchemeSmob\lTV.cc" alt="" coords="919,97,1107,138"/>
+<area shape="rect" id="node7" href="$df/d07/AtomSpace__CWrapper_8cpp.html" title="opencog/haskell/AtomSpace\l_CWrapper.cpp" alt="" coords="1132,97,1319,138"/>
+<area shape="rect" id="node8" href="$d6/d36/ProtocolBufferSerializer_8cc.html" title="opencog/persist/zmq\l/atomspace/ProtocolBufferSerializer.cc" alt="" coords="1343,97,1587,138"/>
+</map>

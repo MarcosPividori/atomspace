@@ -1,0 +1,14 @@
+<map id="opencog/atomspace/NodeIndex.h" name="opencog/atomspace/NodeIndex.h">
+<area shape="rect" id="node2" href="$d1/d2f/AtomTable_8h.html" title="opencog/atomspace/AtomTable.h" alt="" coords="674,80,888,107"/>
+<area shape="rect" id="node13" href="$df/d00/NodeIndex_8cc.html" title="opencog/atomspace/NodeIndex.cc" alt="" coords="913,80,1132,107"/>
+<area shape="rect" id="node3" href="$d6/d70/AssignLink_8cc.html" title="opencog/atoms/reduct\l/AssignLink.cc" alt="" coords="5,246,155,287"/>
+<area shape="rect" id="node4" href="$dc/dec/DeleteLink_8cc.html" title="opencog/atoms/reduct\l/DeleteLink.cc" alt="" coords="347,246,497,287"/>
+<area shape="rect" id="node5" href="$d6/d43/Atom_8cc.html" title="opencog/atomspace/Atom.cc" alt="" coords="289,163,479,189"/>
+<area shape="rect" id="node6" href="$d5/dd9/AtomSpace_8h.html" title="opencog/atomspace/AtomSpace.h" alt="" coords="45,163,264,189"/>
+<area shape="rect" id="node7" href="$df/d0e/AtomTable_8cc.html" title="opencog/atomspace/AtomTable.cc" alt="" coords="554,163,776,189"/>
+<area shape="rect" id="node8" href="$d2/db5/AttentionBank_8cc.html" title="opencog/atomspace/Attention\lBank.cc" alt="" coords="801,155,996,197"/>
+<area shape="rect" id="node9" href="$d0/d9c/Handle_8cc.html" title="opencog/atomspace/Handle.cc" alt="" coords="1021,163,1219,189"/>
+<area shape="rect" id="node10" href="$d8/d79/ImportanceIndex_8cc.html" title="opencog/atomspace/Importance\lIndex.cc" alt="" coords="1243,155,1449,197"/>
+<area shape="rect" id="node11" href="$d2/db0/Link_8cc.html" title="opencog/atomspace/Link.cc" alt="" coords="1474,163,1656,189"/>
+<area shape="rect" id="node12" href="$d7/dcb/AtomStorage_8h.html" title="opencog/persist/sql\l/AtomStorage.h" alt="" coords="1681,155,1812,197"/>
+</map>

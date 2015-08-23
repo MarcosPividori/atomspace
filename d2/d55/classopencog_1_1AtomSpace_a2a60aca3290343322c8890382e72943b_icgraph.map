@@ -1,0 +1,9 @@
+<map id="opencog::AtomSpace::get_atom" name="opencog::AtomSpace::get_atom">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#a0834757b938067e8c9086183ac85a313" title="opencog::AtomSpace\l::fetch_incoming_set" alt="" coords="217,17,362,58"/>
+<area shape="rect" id="node4" href="$d6/d95/classopencog_1_1BackwardChainer.html#affad62fad13ecc94aaa28b2a16652de4" title="opencog::BackwardChainer\l::match_knowledge_base" alt="" coords="200,93,379,134"/>
+<area shape="rect" id="node7" href="$d6/d95/classopencog_1_1BackwardChainer.html#a3bb6444b221fcb277ca8b7d87bcd0978" title="opencog::BackwardChainer\l::unify" alt="" coords="200,181,379,222"/>
+<area shape="rect" id="node3" href="$d8/d41/classopencog_1_1PersistSCM.html#a9f1b5cedeec4c13f30f39d036248f6c7" title="opencog::PersistSCM\l::fetch_incoming_set" alt="" coords="443,5,589,46"/>
+<area shape="rect" id="node5" href="$d6/d95/classopencog_1_1BackwardChainer.html#ab246d90930c17d80b686ffe9b62f404f" title="opencog::BackwardChainer\l::process_target" alt="" coords="653,151,832,193"/>
+<area shape="rect" id="node6" href="$d6/d95/classopencog_1_1BackwardChainer.html#a4054c27984aedb47cbaec781efc5ecd6" title="opencog::BackwardChainer\l::ground_premises" alt="" coords="427,122,605,163"/>
+<area shape="rect" id="node8" href="$d6/d95/classopencog_1_1BackwardChainer.html#a8263128cde6e46e9f30702302774e820" title="opencog::BackwardChainer\l::filter_rules" alt="" coords="427,239,605,281"/>
+</map>

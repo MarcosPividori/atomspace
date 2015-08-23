@@ -1,0 +1,7 @@
+<map id="ZMQSingleTruthValueMessage::firstorderdistribution_size" name="ZMQSingleTruthValueMessage::firstorderdistribution_size">
+<area shape="rect" id="node2" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a6cde520db34136ea74c284728cfd1359" title="opencog::ProtocolBufferSerializer\l::deserializeIndefiniteTruthValue" alt="" coords="260,5,471,46"/>
+<area shape="rect" id="node4" href="$dd/d3a/classZMQSingleTruthValueMessage.html#adcc4c2d985c5f3b21b84b2996b53caf8" title="ZMQSingleTruthValueMessage\l::SerializeWithCachedSizes" alt="" coords="265,70,465,111"/>
+<area shape="rect" id="node5" href="$dd/d3a/classZMQSingleTruthValueMessage.html#a0a54c4966f29227ed5775ba5f40d5ec6" title="ZMQSingleTruthValueMessage\l::SerializeWithCachedSizesToArray" alt="" coords="254,135,477,177"/>
+<area shape="rect" id="node6" href="$dd/d3a/classZMQSingleTruthValueMessage.html#aedd6bd0e9be6761463d2ebb5ee4cefca" title="ZMQSingleTruthValueMessage\l::ByteSize" alt="" coords="265,201,465,242"/>
+<area shape="rect" id="node3" href="$d0/d13/classopencog_1_1ProtocolBufferSerializer.html#a97b919b220a0c5beb53331f3724687e0" title="opencog::ProtocolBufferSerializer\l::deserialize" alt="" coords="525,5,736,46"/>
+</map>

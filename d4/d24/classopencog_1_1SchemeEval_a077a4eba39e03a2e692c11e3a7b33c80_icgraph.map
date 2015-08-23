@@ -1,0 +1,5 @@
+<map id="opencog::SchemeEval::set_error_string" name="opencog::SchemeEval::set_error_string">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#a5c715646315c3be178a01fd2e5de068f" title="opencog::SchemeEval\l::catch_handler" alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node4" href="$d4/d24/classopencog_1_1SchemeEval.html#a963374433d7214432a81534d740679ca" title="opencog::SchemeEval\l::do_poll_result" alt="" coords="203,70,352,111"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#a7b26aa2b3cc55e65a91108958d33dbeb" title="opencog::SchemeEval\l::catch_handler_wrapper" alt="" coords="401,5,562,46"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="opencog::ClassServer::getChildren" name="opencog::ClassServer::getChildren">
+<area shape="rect" id="node2" href="$db/dcd/classopencog_1_1SchemeSmob.html#a217bc53c42079d04afaea619b9b51559" title="opencog::SchemeSmob\l::ss_get_subtypes" alt="" coords="201,5,359,46"/>
+<area shape="rect" id="node3" href="$db/dcd/classopencog_1_1SchemeSmob.html#a1e87edd5f68be03bd44a3f4e1b071863" title="opencog::SchemeSmob\l::register_procs" alt="" coords="409,5,567,46"/>
+</map>

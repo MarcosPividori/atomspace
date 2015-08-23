@@ -1,0 +1,5 @@
+<map id="opencog::SchemeEval::poll_port" name="opencog::SchemeEval::poll_port">
+<area shape="rect" id="node2" href="$d4/d24/classopencog_1_1SchemeEval.html#ac3d6227abb3ee184e8552a394ddcd324" title="Discard all chars in the outport. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$d4/d24/classopencog_1_1SchemeEval.html#a6ec0f4cf4969aab036e877d5cffb685e" title="opencog::SchemeEval\l::do_scm_eval" alt="" coords="400,34,549,75"/>
+<area shape="rect" id="node4" href="$d4/d24/classopencog_1_1SchemeEval.html#a963374433d7214432a81534d740679ca" title="opencog::SchemeEval\l::do_poll_result" alt="" coords="203,122,352,163"/>
+</map>

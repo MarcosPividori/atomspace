@@ -1,0 +1,5 @@
+<map id="opencog::ArithmeticLink::reorder" name="opencog::ArithmeticLink::reorder">
+<area shape="rect" id="node2" href="$d6/d7c/classopencog_1_1ArithmeticLink.html#af780f436ddbdc35f1b4a383a26892831" title="opencog::ArithmeticLink\l::reduce" alt="" coords="213,5,373,46"/>
+<area shape="rect" id="node3" href="$d6/d8a/classopencog_1_1PlusLink.html#a2bff783868e0916aa5cb18a9e73506bc" title="opencog::PlusLink::kons" alt="" coords="214,71,373,97"/>
+<area shape="rect" id="node4" href="$d8/d94/classopencog_1_1TimesLink.html#aa6bf91f3c79c20aa3f66f48efe0cb6c7" title="opencog::TimesLink\l::kons" alt="" coords="225,122,361,163"/>
+</map>

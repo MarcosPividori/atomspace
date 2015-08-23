@@ -1,0 +1,5 @@
+<map id="opencog::SimpleTruthValue::createSTV" name="opencog::SimpleTruthValue::createSTV">
+<area shape="rect" id="node2" href="$d6/ded/classopencog_1_1SimpleTruthValue.html#a758442d2f7c3b00881d3816b5973a3a7" title="opencog::SimpleTruthValue\l::createTV" alt="" coords="232,38,411,79"/>
+<area shape="rect" id="node3" href="$d4/dc7/classopencog_1_1EvaluationLink.html#a387acff2981f9cfbaa603445f52cfcac" title="opencog::EvaluationLink\l::do_evaluate" alt="" coords="484,5,644,46"/>
+<area shape="rect" id="node4" href="$d8/d26/classopencog_1_1AtomSpaceBenchmark.html#aca2621ec1271464851e6541ee6f19c9f" title="opencog::AtomSpaceBenchmark\l::bm_setTruthValue" alt="" coords="459,70,669,111"/>
+</map>

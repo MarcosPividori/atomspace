@@ -1,0 +1,7 @@
+<map id="opencog::AtomTable::getHandlesByType" name="opencog::AtomTable::getHandlesByType">
+<area shape="rect" id="node2" href="$d2/d55/classopencog_1_1AtomSpace.html#adb6dad4bc917b190cbdef2478ea871cf" title="Clear the atomspace, remove all atoms. " alt="" coords="197,70,342,111"/>
+<area shape="rect" id="node6" href="$d2/d55/classopencog_1_1AtomSpace.html#a9c1c7403ab5e2f376716a8f7436faa06" title="opencog::AtomSpace\l::get_handles_by_type" alt="" coords="195,135,343,177"/>
+<area shape="rect" id="node3" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a9f0196eba281584f80d450f8711ad2b9" title="opencog::DefaultPatternMatch\lCB::clause_match" alt="" coords="393,5,589,46"/>
+<area shape="rect" id="node4" href="$d5/d55/classopencog_1_1DefaultPatternMatchCB.html#a76367b5ffb2193e91ea47dbbad04ef60" title="opencog::DefaultPatternMatch\lCB::eval_term" alt="" coords="393,70,589,111"/>
+<area shape="rect" id="node5" href="$df/d83/classopencog_1_1TargetSet.html#a63815ef8fc34ab547902a871df85b157" title="opencog::TargetSet\l::clear" alt="" coords="423,135,558,177"/>
+</map>
